@@ -166,7 +166,7 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 ![Imgur](https://i.imgur.com/GHaRGNq.png)
 
-**Integrante (codigo)**
+**Christian Jose Zeta(u202011688)**
 
 
 
@@ -554,28 +554,80 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 # Capítulo IV: Product Design
 
 ## Style Guidelines
-
 ### General Style Guidelines
+
+En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
+
+
+La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
+"Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
 
 ### Web Style Guidelines
 
+En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto. 
+Escogimos #004173, una variedad de Celeste, para darle un ambiente elegante y tenue a la aplicación, ya que nuestro público objetivo son empresas y profesionales, luego agregamos el color #0979b0 y #40cfff para darle contraste al color principal y así lograr que el usuario obtenga una navegación más fluida 
+
+
+La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica creada para nuestro proyecto. Utilizamos Century Gothic Mono para los títulos, botones principales y subtítulos de primer nivel, y Century Gothic Sans para los subtítulos de nivel inferior y los botones en el cuerpo de la aplicación. Esta elección de fuentes proporciona una apariencia específica y coherente a nuestro proyecto, asegurando una presentación visualmente atractiva y legible.
+
 ## Information Architecture
 
+Se estableció que la aplicación debe tener una apariencia minimalista y fácil de entender. Por eso, en esta sección del informe nos encargaremos de mejorar la satisfacción de los usuarios en los siguientes puntos: Organization System, Labeling System, Searching System y Navigation System.
+
 ### Organization Systems
+ En el  sistema de información aplicaremos la organización visual de forma jerárquica, secuencial y matricial.
+##### Forma jerárquica
+Esta forma de organización será implementada.....
+
+También esta forma de organización será implementada en la pantalla principal del usuario, en los servicios que son ofrecidos, como en los "nombres”, "horarios" y si tienen alguna regla que cumplir, estos serán más visibles que las "características".
+##### 1.  Organización secuencial
+La organización secuencia se aplicará para HousseKeeper en la sección de reservas o viajes , así como el de reserva de servicios.
+##### 2.  Organización matricial.
+La organización matricial se incluirá en HousseKeeper con la organización de la lista de destinos donde el usuario puedo ir. 
+##### 3.  Esquemas de organización:
+En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso  será  para segmento Keeper y traveler.
+
 
 ### Labeling Systems
+
+
+| HousseKeeper |Nombre de la aplicación que dirige al usuario a la pantalla principal|
+|--------------|--------------|--------------|--------------|
+| My Account |Apartado donde se podrá ver la cuenta, editar su configuración y datos.|
+| Tipo de usuario |Apartado donde el usuario podra elegir ser keeper o traveler. |
+| Cerrar Sesion |Apartado en dónde se podrá cerrar la sesión de usuario.|
+| My Providers |Apartado donde se pueden observar y contactar los proveedores de software.|
+| User 01|Avatar que representa al usuario de cualquier segmento.|
+| HousseKeeper |Nombre de la aplicación que dirige al usuario a la pantalla principal|
+
+
 
 ### SEO Tags and Meta Tags
 
 ### Searching Systems
+Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
+El sistema de búsqueda estará disponible en los siguientes casos:
+
 
 ### Navigation Systems
+Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
+Header estático:
+El encabezado fijo brindará al usuario la posibilidad de acceder en cualquier momento a la configuración personal a través de un menú desplegable, además de poder regresar a la pantalla principal o consultar su nombre de usuario.
+Panel izquierdo desplegable:
+El menú de navegación desplegable en el lado izquierdo proporcionará al usuario un acceso constante a todas las funciones y complementos disponibles en nuestro servicio.
+Tarjetas y listas:
+La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
+
 
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
 
 ### Landing Page Mock-up
+
+Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
+
+(Imagen sobre nuestra pagina web)
 
 ## Web Applications UX/UI Design
 
