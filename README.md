@@ -28,8 +28,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Celda 4      |
-| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo   | Celda 8      |
+| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Integrante<br>- Integrante<br>- Integrantee<br>- Integrante    | Celda 4      |
+| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Integrante<br>- Integrante<br>- Integrante<br>- Integrante   | Celda 8      |
 
 # Project Report Collaboration Insights
 
