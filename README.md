@@ -178,6 +178,7 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 
 
+
 ## Solution Profile
 
 “HousseKeeper” es una aplicación, que permite que una persona se haga cargo de una casa mientras los propietarios están ausentes. Nuestra aplicación tiene como finalidad, resolver los problemas de personas que quieran viajar pero no pueden gastar grandes cantidades de dinero en alojamiento y también de personas que necesitan que cuiden su hogar y que hagan tareas regar las plantas, alimentar a las mascotas,etc. Además, también buscamos dar la seguridad a nuestros clientes, que no cualquier persona irá a sus casas, se podrá observar un perfil del cuidador y también podrá reunirse de manera virtual si el propietario lo considera necesario.
@@ -535,17 +536,48 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Personas
 
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1CdOOxiujnpBlfhBfqp2vQIpHoovP9vAg" alt="UserPersona-Maria">
+   </p>
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pIsUPYspRouUea_tupEi_jSk73i6WV_h" alt="UserPersona-Andres">
+   </p>
+
 ### User Task Matrix
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pKVSr6oM7zH9wnEtmeBwCXD-3-SmWbyg" alt="UserTaskMatrix-Cuidador">
+   </p>
+
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1mseq7MH4hxDBnf6uM4r8YVQAvMf8_eFR" alt="UserTaskMatrix-Propietario">
+   </p>
 
 ### User Journey Mapping
 
 ### Empathy Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1cOHBh2QYT2fqXM0a_EGrKKQF_SqWwOZ9" alt="Empathy Map-Maria">
+   </p>
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1g78F3CBxsd7Btw4W0JQVlJX1CRHd4qNk" alt="Empathy Map-Andres">
+   </p>
 
 ### As-is Scenario Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1YyRG3Xx7m6v2XL0WowKr9T8S8c6W6MUw" alt="As-is Scenario Mapping">
+   </p>
+
 
 # Capítulo III: Requirements Specification
 
 ### To-Be Scenario Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1q101VD-ejB-1LQK75FfrxMaU61UOk9Ql" alt="To-Be Scenario Mapping">
+   </p>
 
 ### User Stories
 
