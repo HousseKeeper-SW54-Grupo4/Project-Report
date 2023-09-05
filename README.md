@@ -17,9 +17,9 @@
 
 <ul>
   <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
-  <li>Integrante (codigo)</li>
+  <li>Christian Jose Zeta Valenzuela (u202011688)</li>
   <li>Leonardo Walt Patrocinio Escalante (u202017075)</li>
-  <li>Integrante (codigo)</li>
+  <li>Leonardo Jesús Ferreyra Canaval (u202111363)</li>
 </ul>
 
 **<h3>Agosto, 2023</h3>**
@@ -28,8 +28,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Integrante<br>- Integrante<br>- Integrantee<br>- Integrante    | Celda 4      |
-| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Integrante<br>- Integrante<br>- Integrante<br>- Integrante   | Celda 8      |
+| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Celda 4      |
+| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Celda 8      |
 
 # Project Report Collaboration Insights
 
@@ -166,18 +166,16 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 ![Imgur](https://i.imgur.com/GHaRGNq.png)
 
-**Integrante (codigo)**
+**Christian Jose Zeta Valenzuela (u202011688)**
 
-
+![Imgur](https://i.imgur.com/AI8K8dL.png)
 
 **Leonardo Walt Patrocinio Escalante (u202017075)**
 
-   <p align="center">
-   <img src="https://drive.google.com/uc?export=view&id=1SSwIi3i4SSBvZkDbYhNGOHofubUsbbrt" alt="Foto Leonardo">
-   </p>
+![Imgur](https://i.imgur.com/Em3Y1Rk.png)
 
+**Leonardo Jesús Ferreyra Canaval (u202111363)**
 
-**Integrante (codigo)**
 
 
 
@@ -291,7 +289,7 @@ Cuando veamos un aumento de fidelidad y confianza en nuestra app.
 **Hipótesis 3**  
 Creemos que fomentar la comunicación abierta y transparente entre los cuidadores y los dueños de las casas, crearemos una relación de confianza mutua.
 
-Sabremos	que tendremos éxito
+Sabremos que tendremos éxito
 
 Cuando reducimos el riesgo de problemas o malentendidos.
 
@@ -310,28 +308,28 @@ Sabremos que estamos en lo correcto
 Cuando aumentemos la fidelidad y la confianza en nuestra marca.
 
 **Hipótesis 6**  
-Creemos	que “HousseKeeper” puede	ayudar a administrar las casas de los	usuarios.
+Creemos	que “HousseKeeper” puede ayudar a administrar las casas de los usuarios.
 
-Sabremos	que
+Sabremos que tendremos	éxito 
 
-tendremos		éxito Cuando	veamos comentarios positivos sobre el cuidado que le brindan a sus plantas y mascotas.
+Cuando veamos comentarios positivos sobre el cuidado que le brindan a sus plantas y mascotas.
 
-#### Lean UX Canvas [FALTA CORREGIR]
+#### Lean UX Canvas 
 
 <table align="center">
   <tr>
-    <td align="center"><strong>Business Problem</strong><br>- Precios mayores a los deseados<br>- Estafas en el proceso de renta<br>- Tarifas ocultas<br>- Falta de transparencia del estado del auto</td>
-    <td align="center" rowspan="2"><strong>Solution Ideas</strong><br>- Precios menores a los de la competencia<br>- Inclusión de la documentación actualizada del auto<br>- Seguimiento del auto vía GPS<br>- Retención del pago hasta finalizado el servicio</td>
-    <td align="center"><strong>Business Outcomes</strong><br>- Alto número de usuarios<br>- Reseñas mayormente positivas en la aplicación<br>- AutoYa! se vuelve una de las aplicaciones de alquiler de auto más usadas en Perú</td>
+    <td align="center"><strong>Business Problem</strong><br>- El negocio de turismo<br>- El negocio de cuidar casas<br>- Cuidado de mascotas</td>
+    <td align="center" rowspan="2"><strong>Solution Ideas</strong><br>- Una página web para la información<br>- Contacto directo con el propietario de la casa<br>- Suscripción renovable para encontrar casas<br>- Evaluación constante de los cuidadores para garantizar la confianza</td>
+    <td align="center"><strong>Business Outcomes</strong><br>- Cuando renuevan su suscripción<br>- Mediante una encuesta de satisfacción<br>- Mediante comentarios en la publicación del anunciante</td>
   </tr>
   <tr>
-    <td align="center"><strong>Users and Customers</strong><br>- Personas hispanohablantes mayores de edad que se encuentren en Perú y deseen rentar un auto.<br>- Personas hisponohablantes mayores de edad que se encuentren en Perú, cuenten con uno o más autos y deseen poner en renta uno o más de uno.</td>
-    <td align="center"><strong>User Benefits</strong><br>- Costos menores<br>- Garantía del buen estado del auto<br>- Sistema antifraudes<br>- Acceso a la información del arrendatario</td>
+    <td align="center"><strong>Users and Customers</strong><br>- Deberiamos centrarnos en los clientes que viajan constantemente<br>- Usuarios que quieren viajar pero no puede costearse ese viaje</td>
+    <td align="center"><strong>User Benefits</strong><br>- Posibilidad de viajar y obtener hospedaje gratuito<br>- Personas que necesitan de un cuidador, conseguirán a alguien confiable para la tarea<br>- Ambas partes ganan</td>
   </tr>
   <tr>
-    <td align="center"><strong>Hypothesis</strong><br>- Creemos que las personas estarán interesadas en una aplicación web que permita rentar y poner a la renta autos por precios más bajos que los de la competencia. Sabremos que esto si la cantidad de usuarios de nuestro producto aumenta en 5% semanalmente durante los primeros 4 meses desde su lanzamiento.<br>- Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto es cierto cuando su cantidad de usuarios empiece a decrecer en 8% semanalmente.<br>- Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.</td>
-    <td align="center"><strong>What’s the most important thing we need to learn first?</strong><br>- Las características que el usuario realmente quiere en la aplicación<br>- La cantidad de personas que estarían dispuestas a poner en renta su auto por una aplicación web<br>- Los costos y beneficios que ofrece la competencia</td>
-    <td align="center"><strong>What's the least amount of work we need to do to learn the next most important thing?</strong><br>- Realizar entrevistas a personas que se encuentren dentro de los segmentos objetivos de AutoYa!<br>- Enviar formularios con preguntas sencillas, pero que contengan preguntas clave a nuestros segmentos objetivos<br>- Tomar en cuenta el feedback que se reciba y aplicarlo en AutoYa!</td>
+    <td align="center"><strong>Hypothesis</strong><br>- Creemos que la comunicación con el usuario es una pieza importante para la evolución de “HousseKeeper”, por ello brindar una formación clara y completa a nuestros cuidadores antes de que comiencen a cuidar una casa. Sabremos que estamos en lo correcto. Cuando veamos que las personas califiquen de manera positiva nuestra app.<br>- Creemos que si el usuario puede hacer un seguimiento del estado de la casa o comunicarse con los dueño. Sabremos que tendremos éxito. Cuando veamos un aumento de fidelidad y confianza en nuestra app.<br>- Creemos que fomentar la comunicación abierta y transparente entre los cuidadores y los dueños de las casas, crearemos una relación de confianza mutua. Sabremos que tendremos éxito. Cuando reducimos el riesgo de problemas o malentendidos.<br>- Creemos que “HousseKeeper” puede proporcionar una experiencia de registro fácil y sin fricciones. Sabremos que estamos en lo correcto. Cuando revisemos los comentarios que dejan los usuarios viajeros y los dueños de las casa.<br>- Creemos que “HousseKeeper” puede establecer una comunidad de viajeros que comparten sus experiencias y consejos. Sabremos que estamos en lo correcto. Cuando aumentemos la fidelidad y la confianza en nuestra marca.<br>- Creemos	que “HousseKeeper” puede ayudar a administrar las casas de los usuarios. Sabremos que tendremos	éxito. Cuando veamos comentarios positivos sobre el cuidado que le brindan a sus plantas y mascotas.</td>
+    <td align="center"><strong>What’s the most important thing we need to learn first?</strong><br>- El hecho que manipulen a una persona para realizar un robo en conjunto <br>- Que las personas a cuidar la casa sean familiares de los priopietarios</td>
+    <td align="center"><strong>What's the least amount of work we need to do to learn the next most important thing?</strong><br>- Se pedirán expedientes legales acerca de las personas a cuidar la casa<br>- Familiares que se toman el labor de cuidar, posiblemente no son capaces de estar todo el tiempo cuidando dado que tienes labores que hacer</td>
   </tr>
 </table>
 
@@ -356,7 +354,7 @@ Para nuestra startup Cross Border Care, existen diversas empresas y plataformas 
   2. HouseSitter.com: Es una plataforma que conecta a propietarios de casas con cuidadores dentro de su área. Los cuidadores pueden cuidar casas, mascotas y jardines a cambio de pago.
   3. HouseCarers: Se trata de una plataforma en línea que permite a propietarios de casas conectar con cuidadores de diversas partes del mundo. Los cuidadores pueden encargarse de tareas como el cuidado de la casa, mascotas y jardines a cambio de alojamiento gratuito.
 
-### Análisis competitivo [FALTA CORREGIR]
+### Análisis competitivo
 
 <table border="1">
   <thead>
@@ -367,95 +365,97 @@ Para nuestra startup Cross Border Care, existen diversas empresas y plataformas 
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
+      <td colspan="5"><br>- Se lleva a cabo un análisis competitivo para identificar a los competidores de una startup en un mercado determinado y para comprender cómo la startup se posiciona en relación con ellos. Este análisis puede ayudar a la startup a identificar oportunidades y amenazas en el mercado, y a desarrollar estrategias para destacar en un mercado competitivo.<br>- También puede ayudar a la startup a identificar las fortalezas y debilidades de sus competidores, lo que puede ser útil para desarrollar una estrategia competitiva efectiva. En resumen, un análisis competitivo puede ser una herramienta valiosa para una startup que busca diferenciarse y tener éxito en un mercado competitivo.</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
-      <td style="text-align:center;">AutoYa!</td>
-      <td style="text-align:center;">Competidor 1</td>
-      <td style="text-align:center;">Competidor 2</td>
-      <td style="text-align:center;">Competidor 3</td>
+      <td style="text-align:center;">CrossBorder Care</td>
+      <td style="text-align:center;">Trusted Housesitters</td>
+      <td style="text-align:center;">HouseSitter</td>
+      <td style="text-align:center;">HouseCarers</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
-      <td style="text-align:center;">Fila 4, Columna 3</td>
-      <td style="text-align:center;">Fila 4, Columna 4</td>
-      <td style="text-align:center;">Fila 4, Columna 5</td>
-      <td style="text-align:center;">Fila 4, Columna 6</td>
+      <td style="text-align:center;">Plataforma con un diseño de interfaz de usuarios intuitivos. Nuestros cuidadores responsables realizan labores del hogar, cuidado de mascotas y/o plantas por alojamiento gratis y pago en algunos casos.</td>
+      <td style="text-align:center;">Plataforma con más de 1 millón de miembros en más de 130 países. Puede cuidar casas y mascotas	a cambio	de alojamiento gratuito.</td>
+      <td style="text-align:center;">Plataforma que cuenta con una base de datos de más de 100.000 cuidadores registrados. Que cuida la casa, mascotas y plantas a cambio de pago.</td>
+      <td style="text-align:center;">Plataforma que tiene más de 30.000 miembros en el mundo.	Sus cuidadores realizan trabajos de cuidado del hogar, mascotas y	plantas	a cambio	de alojamiento gratis.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
-      <td style="text-align:center;">Fila 5, Columna 3</td>
-      <td style="text-align:center;">Fila 5, Columna 4</td>
-      <td style="text-align:center;">Fila 5, Columna 5</td>
-      <td style="text-align:center;">Fila 5, Columna 6</td>
+      <td style="text-align:center;">Una posible ventaja competitiva para nuestra startup Cross Border Care podría	ser	su enfoque en	la comunidad y la interacción social, la facilidad de uso de la plataforma y la	oferta de servicios adicionales	que mejoren	la experiencia	del usuario.</td>
+      <td style="text-align:center;">La	ventaja competitiva	de Trusted Housesitters	es su enfoque en la comunidad, su buena reputación y sus prácticas de seguridad rigurosas, así como su amplia base de usuarios en todo el mundo y su atractivo modelo de alojamiento gratuito a cambio de servicios.</td>
+      <td style="text-align:center;">Las ventajas competitivas de HouseSitter incluyen su enfoque en la personalización y flexibilidad de los servicios, su amplia base de datos de usuarios,	su
+servicio de verificación y antecedentes y su	servicio	al cliente excepcional.</td>
+      <td style="text-align:center;">Las ventajas competitivas de HouseCarers incluyen su enfoque especializado en el	cuidado	de viviendas,	su amplia red	de cuidadores	de viviendas calificados y de confianza, sus servicios de verificación de antecedentes y referencias, y su enfoque en el servicio al cliente.</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
       <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Fila 6, Columna 3</td>
-      <td style="text-align:center;">Fila 6, Columna 4</td>
-      <td style="text-align:center;">Fila 6, Columna 5</td>
-      <td style="text-align:center;">Fila 6, Columna 6</td>
+      <td style="text-align:center;">Nuestro mercado objetivo apunta a la idea de conectar a personas	que quieren viajar con personas	que necesitan cuidado de sus hogares, también	pueden considerar	los diferentes nichos de mercado para ofrecer soluciones más personalizadas	y efectivas.</td>
+      <td style="text-align:center;">El		mercado objetivo es viajeros experimentados, a	largo	plazo, duelos	con mascotas,	y aquellos que desean un cambio de estilo de vida. Con su enfoque	en la comunidad y la confianza, Trusted Housesitters puede	atraer a personas	que valoran estas características en su búsqueda de alojamiento y cuidado	de mascotas mientras viajan</td>
+      <td style="text-align:center;">El mercado objetivo de House Sitter es similar	al anterior pero también puede apuntar a personas	que buscan formas alternativas de viajar y vivir en diferentes lugares,	como mochileros, nómadas digitales	que tendrán	un cambio de estilo de vida. Con su enfoque en la seguridad y la confianza</td>
+      <td style="text-align:center;">El	mercado objetivo de esta plataforma digital es similar al de los demás enfocándose en su mayoría a la eficiencia de su plataforma y a la responsabilidad de	cuidar a ambas		partes tanto el viajero como el dueño.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
-      <td style="text-align:center;">Fila 7, Columna 3</td>
-      <td style="text-align:center;">Fila 7, Columna 4</td>
-      <td style="text-align:center;">Fila 7, Columna 5</td>
-      <td style="text-align:center;">Fila 7, Columna 6</td>
+      <td style="text-align:center;">Nuestra estrategia de marketing sería destacar su oferta de valor agregado, como	por ejemplo, ofrecer servicios adicionales de limpieza o mantenimiento de jardines, lo que podría diferenciarlos de la competencia y atraer a un público más amplio. También podrían explorar el uso de redes sociales y publicidad en línea para llegar a su	público objetivo y generar interacción con los usuarios a través de testimonios	y recomendaciones de	clientes satisfechos.</td>
+      <td style="text-align:center;">Se enfoca en su estrategia de marketing en la creación de una comunidad de cuidadores de casas	y propietarios de mascotas a nivel mundial. La plataforma hace hincapié en la confianza y la seguridad, y se centra en la calidad de los cuidadores y la satisfacción	de los propietarios de mascotas. Trusted Housesitters utiliza principalmente el marketing	de contenido a través de su blog y redes sociales para llegar a su audiencia,	así como publicidad en línea	en plataformas como	Google AdWords y Facebook Ads.</td>
+      <td style="text-align:center;">Se enfoca en su estrategia de marketing en la simplicidad y la facilidad de uso de	su
+plataforma, permitiendo	a los propietarios de casas y los cuidadores conectarse	y comunicarse de manera sencilla. La	plataforma utiliza principalmente publicidad en línea	y marketing de motores de búsqueda para atraer a su audiencia, así como marketing de afiliación con otras empresas relacionadas con los viajes y el cuidado de mascotas.</td>
+      <td style="text-align:center;">Se enfoca en su estrategia de marketing en la calidad de sus cuidadores de casas	y	la satisfacción	de los propietarios de mascotas, así como	en la seguridad y la confianza en la plataforma.	La plataforma utiliza principalmente el marketing de contenido a través de su blog y redes sociales para llegar a su audiencia,	así como publicidad en línea en plataformas como Google AdWords y Facebook	Ads. Además, HouseCarers utiliza el marketing	de email y la comunicación personalizada para mantener a sus	usuarios comprometidos y satisfechos con la plataforma.</td>
     </tr>
     <tr>
       <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Productos & Servicios</td>
-      <td style="text-align:center;">Fila 8, Columna 3</td>
-      <td style="text-align:center;">Fila 8, Columna 4</td>
-      <td style="text-align:center;">Fila 8, Columna 5</td>
-      <td style="text-align:center;">Fila 8, Columna 6</td>
+      <td style="text-align:center;">Acceso	a	la plataforma	en línea, oportunidades de cuidado de casas. Servicio	de verificación	de antecedentes y referencias para los cuidadores. Soporte al cliente en línea para los propietarios y cuidadores. Seguro	de responsabilidad civil para	los cuidadores. Oportunidades de cuidado de casas en todo el mundo. Conexión de los propietarios con cuidadores confiables	y verificados.</td>
+      <td style="text-align:center;">Plataforma	en línea	para conectar propietarios de casas con cuidadores de todo el mundo, servicio	de atención	al cliente y soporte para	miembros. Alojamiento gratuito a cambio de	cuidado	de casas, mascotas y jardines. También ofrecen verificación	de antecedentes para los cuidadores.</td>
+      <td style="text-align:center;">Plataforma	en línea para conectar propietarios	de casas con cuidadores	de todo el mundo. Alojamiento gratuito y/o con paga a cambio de cuidado de casas, mascotas y jardines. </td>
+      <td style="text-align:center;">Plataforma	en línea para conectar propietarios de casas con cuidadores de todo el mundo. Alojamiento gratuito a cambio	de cuidado de casas.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Precios & Costos</td>
-      <td style="text-align:center;">Fila 9, Columna 3</td>
-      <td style="text-align:center;">Fila 9, Columna 4</td>
-      <td style="text-align:center;">Fila 9, Columna 5</td>
-      <td style="text-align:center;">Fila 9, Columna 6</td>
+      <td style="text-align:center;">Nuestra startup podría cobrar una tarifa por la suscripción al servicio y una comisión por cada acuerdo exitoso entre	los propietarios y los cuidadores.	Los costos		incluirían el	desarrollo y mantenimiento de la plataforma en línea, verificación de antecedentes y referencias, soporte al cliente y seguro	de responsabilidad civil para	los cuidadores.</td>
+      <td style="text-align:center;">Una suscripción anual de $119 USD	para propietarios y $129 USD para cuidadores. Costos de desarrollo	y mantenimiento de la plataforma en línea y del equipo de soporte al cliente. </td>
+      <td style="text-align:center;">Una suscripción anual de $50 USD	para propietarios y $30 USD para cuidadores. Costos	de desarrollo y mantenimiento de la plataforma en línea y del equipo de soporte	al cliente. </td>
+      <td style="text-align:center;">Una suscripción anual de $50 USD	para propietarios y $50 USD para cuidadores. Costos	de desarrollo	y mantenimiento de la plataforma en línea y del equipo de soporte	al cliente. </td>
     </tr>
     <tr>
       <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
-      <td style="text-align:center;">Fila 10, Columna 3</td>
-      <td style="text-align:center;">Fila 10, Columna 4</td>
-      <td style="text-align:center;">Fila 10, Columna 5</td>
-      <td style="text-align:center;">Fila 10, Columna 6</td>
+      <td style="text-align:center;">Plataforma	en línea donde los propietarios pueden publicar sus	necesidades de cuidado y los cuidadores pueden postularse para	las oportunidades. Redes sociales y anuncios en línea para llegar a los propietarios y cuidadores potenciales.</td>
+      <td style="text-align:center;">Plataforma en línea y aplicación móvil.</td>
+      <td style="text-align:center;">Plataforma	en línea y aplicación móvil.</td>
+      <td style="text-align:center;">Plataforma	en línea y aplicación móvil.</td>
     </tr>
     <tr>
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Fortalezas</td>
-      <td style="text-align:center;">Fila 11, Columna 3</td>
-      <td style="text-align:center;">Fila 11, Columna 4</td>
-      <td style="text-align:center;">Fila 11, Columna 5</td>
-      <td style="text-align:center;">Fila 11, Columna 6</td>
+      <td style="text-align:center;">Modelo	de negocio innovador y único en el mercado. Posibilidad de generar confianza y credibilidad a través de la verificación de antecedentes y referencias de los cuidadores.</td>
+      <td style="text-align:center;">Fuerte presencia en línea y en redes	sociales, fácil de usar para los	propietarios de las casas y cuidadores, amplia variedad de servicios para propietarios y cuidadores.</td>
+      <td style="text-align:center;">Fácil	de	usar para propietarios de casas y cuidadores, amplia variedad de servicios para propietarios y cuidadores, tarifas asequibles para los propietarios de casas.</td>
+      <td style="text-align:center;">Una plataforma fácil de usar para propietarios	y cuidadores, una amplia gama de servicios	para propietarios	y administradores de viviendas, a precios asequibles para los propietarios de viviendas.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
-      <td style="text-align:center;">Fila 12, Columna 3</td>
-      <td style="text-align:center;">Fila 12, Columna 4</td>
-      <td style="text-align:center;">Fila 12, Columna 5</td>
-      <td style="text-align:center;">Fila 12, Columna 6</td>
+      <td style="text-align:center;">Falta	de reconocimiento de	marca	y presencia	en el mercado. Dificultad	para competir con empresas más establecidas y con una base de usuarios sólida.</td>
+      <td style="text-align:center;">Altos precios en comparación con otros	servicios similares, limitado a ciertos países y regiones, requiere una suscripción mensual	para acceder a las oportunidades de cuidado.</td>
+      <td style="text-align:center;">El sitio web es un	poco anticuado en comparación con	otros servicios similares, la presencia	en línea	es limitada, la selección de cuidadores puede	ser limitada en comparación con otras plataformas.</td>
+      <td style="text-align:center;">La presencia en línea es limitada, la selección de cuidadores puede ser limitada en comparación con otras plataformas, el sitio web es un poco	anticuado en comparación con otros servicios similares</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">Fila 13, Columna 3</td>
-      <td style="text-align:center;">Fila 13, Columna 4</td>
-      <td style="text-align:center;">Fila 13, Columna 5</td>
-      <td style="text-align:center;">Fila 13, Columna 6</td>
+      <td style="text-align:center;">Aumento de la demanda	de cuidado de casas y mascotas mientras los propietarios están fuera. Creciente interés en viajes económicos y colaborativos. Potencial	para expandir la oferta de servicios a otros	mercados relacionados, como el cuidado de jardines y el mantenimiento del hogar.</td>
+      <td style="text-align:center;">El aumento de la popularidad de los viajes en línea y el intercambio de casas, el potencial para expandirse a nuevos mercados y regiones, la posibilidad de ofrecer servicios adicionales para propietarios y cuidadores.</td>
+      <td style="text-align:center;">La oportunidad de actualizar y modernizar	su presencia	en línea, expandirse a nuevos mercados y regiones, aumentar la selección	de cuidadores disponibles.</td>
+      <td style="text-align:center;">La capacidad de actualizar y modernizar su presencia en línea, expandirse a nuevos mercados y geografía y elevar la elección	de cuidadores.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">Fila 14, Columna 3</td>
-      <td style="text-align:center;">Fila 14, Columna 4</td>
-      <td style="text-align:center;">Fila 14, Columna 5</td>
-      <td style="text-align:center;">Fila 14, Columna 6</td>
+      <td style="text-align:center;">Competencia fuerte	y establecida en el mercado. Regulaciones gubernamentales en torno	al alojamiento gratuito	y	el cuidado de casas y mascotas. Inestabilidad económica y fluctuaciones en la	industria	del turismo	que podrían reducir la demanda de servicios.</td>
+      <td style="text-align:center;">La competencia de otras plataformas de cuidado de casas y animales, las preocupaciones de seguridad y privacidad de los usuarios.</td>
+      <td style="text-align:center;">La competencia de otras plataformas de cuidado de casas y animales, las preocupaciones de seguridad y privacidad	de los usuarios.</td>
+      <td style="text-align:center;">La competencia de otras plataformas de cuidado de casas y animales, las preocupaciones de seguridad y privacidad	de los usuarios.</td>
     </tr>
   </tbody>
 </table>
@@ -588,28 +588,105 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 # Capítulo IV: Product Design
 
 ## Style Guidelines
-
 ### General Style Guidelines
+
+En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
+
+
+La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
+"Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
 
 ### Web Style Guidelines
 
+En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto. 
+Escogimos #004173, una variedad de Celeste, para darle un ambiente elegante y tenue a la aplicación, ya que nuestro público objetivo son empresas y profesionales, luego agregamos el color #0979b0 y #40cfff para darle contraste al color principal y así lograr que el usuario obtenga una navegación más fluida 
+
+
+La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica creada para nuestro proyecto. Utilizamos Century Gothic Mono para los títulos, botones principales y subtítulos de primer nivel, y Century Gothic Sans para los subtítulos de nivel inferior y los botones en el cuerpo de la aplicación. Esta elección de fuentes proporciona una apariencia específica y coherente a nuestro proyecto, asegurando una presentación visualmente atractiva y legible.
+
 ## Information Architecture
 
+Se estableció que la aplicación debe tener una apariencia minimalista y fácil de entender. Por eso, en esta sección del informe nos encargaremos de mejorar la satisfacción de los usuarios en los siguientes puntos: Organization System, Labeling System, Searching System y Navigation System.
+
 ### Organization Systems
+ En el  sistema de información aplicaremos la organización visual de forma jerárquica, secuencial y matricial.
+##### Forma jerárquica
+Esta forma de organización será implementada.....
+
+También esta forma de organización será implementada en la pantalla principal del usuario, en los servicios que son ofrecidos, como en los "nombres”, "horarios" y si tienen alguna regla que cumplir, estos serán más visibles que las "características".
+##### 1.  Organización secuencial
+La organización secuencia se aplicará para HousseKeeper en la sección de reservas o viajes , así como el de reserva de servicios.
+##### 2.  Organización matricial.
+La organización matricial se incluirá en HousseKeeper con la organización de la lista de destinos donde el usuario puedo ir. 
+##### 3.  Esquemas de organización:
+En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso  será  para segmento Keeper y traveler.
+
 
 ### Labeling Systems
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>HouseeKeeper</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;">HouseeKeeper</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">My Account</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Cerrar Sesion </td>
+      <td style="text-align:center;">Apartado en dónde se podrá cerrar la sesión de usuario.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">My Providers </td>
+      <td style="text-align:center;">Apartado donde se pueden observar y contactar los proveedores de software.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">User 01</td>
+      <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
+    </tr>
+  </tbody>
+</table>
 ### SEO Tags and Meta Tags
 
 ### Searching Systems
+Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
+El sistema de búsqueda estará disponible en los siguientes casos:
+
 
 ### Navigation Systems
+Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
+Header estático:
+El encabezado fijo brindará al usuario la posibilidad de acceder en cualquier momento a la configuración personal a través de un menú desplegable, además de poder regresar a la pantalla principal o consultar su nombre de usuario.
+Panel izquierdo desplegable:
+El menú de navegación desplegable en el lado izquierdo proporcionará al usuario un acceso constante a todas las funciones y complementos disponibles en nuestro servicio.
+Tarjetas y listas:
+La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
+
 
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
 
 ### Landing Page Mock-up
+
+Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
+
+(Imagen sobre nuestra pagina web)
 
 ## Web Applications UX/UI Design
 
