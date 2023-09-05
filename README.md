@@ -18,7 +18,7 @@
 <ul>
   <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
   <li>Integrante (codigo)</li>
-  <li>Integrante (codigo)</li>
+  <li>Leonardo Walt Patrocinio Escalante (u202017075)</li>
   <li>Integrante (codigo)</li>
 </ul>
 
@@ -170,8 +170,10 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 
 
-**Integrante (codigo)**
+**Leonardo Walt Patrocinio Escalante (u202017075)**
 
+<p align="center">
+<img src="fotoLeo.png" width="200">
 
 
 **Integrante (codigo)**
@@ -533,17 +535,40 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Personas
 
+<p align="center">
+<img src="User Pesrona - Maria.png" width="200">
+
+<p align="center">
+<img src="User Persona-Andres.png" width="200">
+
 ### User Task Matrix
+
+<p align="center">
+<img src="Usertaskmatrix1.png" width="200">
+
+<p align="center">
+<img src="Usertaskmatrix2.png" width="200">
 
 ### User Journey Mapping
 
 ### Empathy Mapping
+<p align="center">
+<img src="Empathy Map- Maria.png" width="200">
+
+<p align="center">
+<img src="Empathy Map- Andres.png" width="200">
 
 ### As-is Scenario Mapping
+<p align="center">
+<img src="As-is Scenario Mapping.png" width="200">
+
 
 # Capítulo III: Requirements Specification
 
 ### To-Be Scenario Mapping
+<p align="center">
+<img src="To-be Scenario Mapping.png" width="200">
+
 
 ### User Stories
 
