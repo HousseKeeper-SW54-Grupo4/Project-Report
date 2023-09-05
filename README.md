@@ -17,7 +17,7 @@
 
 <ul>
   <li>Alonso Fernando Robles Astuñaupa (u202112662)</li>
-  <li>Integrante (codigo)</li>
+  <li>Christian Jose Zeta Valenzuela (U202011688)</li>
   <li>Integrante (codigo)</li>
   <li>Integrante (codigo)</li>
 </ul>
