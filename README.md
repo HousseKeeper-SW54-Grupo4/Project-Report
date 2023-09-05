@@ -625,10 +625,6 @@ En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso
       <td colspan="2" style="text-align:center;">User 01</td>
       <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
     </tr>
-    <tr>
-      <td colspan="2" style="text-align:center;">User 01</td>
-      <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
-    </tr>
   </tbody>
 </table>
 ### SEO Tags and Meta Tags
