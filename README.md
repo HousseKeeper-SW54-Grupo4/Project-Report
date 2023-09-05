@@ -176,6 +176,7 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 **Leonardo Jesús Ferreyra Canaval (u202111363)**
 
+![Imgur](https://i.imgur.com/Tb3WaTX.png)
 
 
 ## Solution Profile
