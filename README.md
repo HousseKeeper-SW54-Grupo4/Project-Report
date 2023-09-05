@@ -172,8 +172,9 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 **Leonardo Walt Patrocinio Escalante (u202017075)**
 
-<p align="center">
-<img src="fotoLeo.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1SSwIi3i4SSBvZkDbYhNGOHofubUsbbrt" alt="Foto Leonardo">
+   </p>
 
 
 **Integrante (codigo)**
@@ -535,40 +536,48 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Personas
 
-<p align="center">
-<img src="User Pesrona - Maria.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1CdOOxiujnpBlfhBfqp2vQIpHoovP9vAg" alt="UserPersona-Maria">
+   </p>
 
-<p align="center">
-<img src="User Persona-Andres.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pIsUPYspRouUea_tupEi_jSk73i6WV_h" alt="UserPersona-Andres">
+   </p>
 
 ### User Task Matrix
 
-<p align="center">
-<img src="Usertaskmatrix1.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pKVSr6oM7zH9wnEtmeBwCXD-3-SmWbyg" alt="UserTaskMatrix-Cuidador">
+   </p>
 
-<p align="center">
-<img src="Usertaskmatrix2.png" width="200">
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1mseq7MH4hxDBnf6uM4r8YVQAvMf8_eFR" alt="UserTaskMatrix-Propietario">
+   </p>
 
 ### User Journey Mapping
 
 ### Empathy Mapping
-<p align="center">
-<img src="Empathy Map- Maria.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1cOHBh2QYT2fqXM0a_EGrKKQF_SqWwOZ9" alt="Empathy Map-Maria">
+   </p>
 
-<p align="center">
-<img src="Empathy Map- Andres.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1g78F3CBxsd7Btw4W0JQVlJX1CRHd4qNk" alt="Empathy Map-Andres">
+   </p>
 
 ### As-is Scenario Mapping
-<p align="center">
-<img src="As-is Scenario Mapping.png" width="200">
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1YyRG3Xx7m6v2XL0WowKr9T8S8c6W6MUw" alt="As-is Scenario Mapping">
+   </p>
 
 
 # Capítulo III: Requirements Specification
 
 ### To-Be Scenario Mapping
-<p align="center">
-<img src="To-be Scenario Mapping.png" width="200">
-
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1q101VD-ejB-1LQK75FfrxMaU61UOk9Ql" alt="To-Be Scenario Mapping">
+   </p>
 
 ### User Stories
 
