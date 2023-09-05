@@ -590,18 +590,47 @@ En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso
 
 ### Labeling Systems
 
-
-| HousseKeeper |Nombre de la aplicación que dirige al usuario a la pantalla principal|
-|--------------|--------------|--------------|--------------|
-| My Account |Apartado donde se podrá ver la cuenta, editar su configuración y datos.|
-| Tipo de usuario |Apartado donde el usuario podra elegir ser keeper o traveler. |
-| Cerrar Sesion |Apartado en dónde se podrá cerrar la sesión de usuario.|
-| My Providers |Apartado donde se pueden observar y contactar los proveedores de software.|
-| User 01|Avatar que representa al usuario de cualquier segmento.|
-| HousseKeeper |Nombre de la aplicación que dirige al usuario a la pantalla principal|
-
-
-
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>HouseeKeeper</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;">HouseeKeeper</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">My Account</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Cerrar Sesion </td>
+      <td style="text-align:center;">Apartado en dónde se podrá cerrar la sesión de usuario.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">My Providers </td>
+      <td style="text-align:center;">Apartado donde se pueden observar y contactar los proveedores de software.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">User 01</td>
+      <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">User 01</td>
+      <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
+    </tr>
+  </tbody>
+</table>
 ### SEO Tags and Meta Tags
 
 ### Searching Systems
