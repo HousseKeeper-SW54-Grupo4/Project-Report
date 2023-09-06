@@ -877,8 +877,7 @@ Para el uso de Java y ASP.NET se utilizaran las convenciones de “Java Coding C
 En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:<br>
 Landing Page:<br>
 
-![Imgur](https://i.imgur.com/7plIYh4.png) <br>
-![Imgur](https://i.imgur.com/hVzdHT5.png) <br>
+<img src="https://i.imgur.com/7plIYh4.png"   width="30%" height="30%"> <img src="https://i.imgur.com/hVzdHT5.png"   width="30%" height="30%"><br>
 
 Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el despliegue de nuestra Landing Page
 
