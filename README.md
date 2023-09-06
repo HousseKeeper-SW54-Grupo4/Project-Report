@@ -107,7 +107,6 @@ INSERTAR IMÁGENES CON FECHA
     - [Software Architecture Components Diagrams](#software-architecture-components-diagrams)
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
-    - [Class Dictionary](#class-dictionary)
   - [Databse Design](#databse-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -825,8 +824,6 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1hQrQPDUBeR21BeG3Z7WL8sBYa57LrJrw" alt="Diagrama de clases">
 </p>
-
-### Class Dictionary
 
 ## Database Design
 
