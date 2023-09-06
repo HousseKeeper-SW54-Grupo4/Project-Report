@@ -937,8 +937,18 @@ Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el des
 </table>
 
 #### Testing Suite Evidence for Sprint Review
+Review.
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
+#The first scenario has three steps
+Scenario: Comunicación con el cuidador.
+Dado que tengo una reserva confirmada
+Cuando hago clic en "Iniciar Conversación" con el cuidador
+Entonces puedo enviar mensajes al cuidador en tiempo real
+Y el cuidador recibe notificaciones de nuevos mensajes.
 
 #### Execution Evidence for Sprint Review
+Aquí mostraremos todas las secciones que conforman la Landing page que hemos implementado durante el sprint.
+https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=4gWRIeNbSZF2RAEi-0 
 
 #### Services Documentation Evidence for Sprint Review
 
