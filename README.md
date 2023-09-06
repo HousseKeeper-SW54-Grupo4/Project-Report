@@ -558,7 +558,7 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Journey Mapping
 
-![User Journey Map-Andres](https://drive.google.com/uc?export=view&id=1zOiUQiO_nVhJk-rbFtEyGHBPH0VNtm2-)
+![User Journey Map-Andres](https://drive.google.com/uc?export=view&id=1ooFZwbqk7v4LnXM6_bxLnzCugk_8S5tK)
 
 ### Empathy Mapping
    <p align="center">
