@@ -597,13 +597,26 @@ En esta sección, definiremos los colores y fuentes que se aplicarán de manera 
 La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
 "Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
 
+![Imgur](https://i.imgur.com/CpAveVa.png)
+
 ### Web Style Guidelines
 
-En el Style Guideline hemos definido los colores y tipografía a utilizar en el proyecto. 
-Escogimos #004173, una variedad de Celeste, para darle un ambiente elegante y tenue a la aplicación, ya que nuestro público objetivo son empresas y profesionales, luego agregamos el color #0979b0 y #40cfff para darle contraste al color principal y así lograr que el usuario obtenga una navegación más fluida 
+Dimensiones (pueden ser modificadas en futuro):
+Para desarrollar tanto el landing page como la aplicación web tendremos en cuenta las dimensiones estándar.
+•    Escritorio: 1280 px (ancho)
+•   Tablet: 760 px (ancho)
+•    Celular: 480 px (ancho)
+Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el contenido a mostrar
+Navegación:
 
+![Imgur](https://i.imgur.com/eJtFS9D.png)
 
-La familia tipográfica seleccionada es Century Gothic, una fuente tipográfica creada para nuestro proyecto. Utilizamos Century Gothic Mono para los títulos, botones principales y subtítulos de primer nivel, y Century Gothic Sans para los subtítulos de nivel inferior y los botones en el cuerpo de la aplicación. Esta elección de fuentes proporciona una apariencia específica y coherente a nuestro proyecto, asegurando una presentación visualmente atractiva y legible.
+La  navegación  a  utilizar  será  implementada  con  un  enfoque  minimalista  en  donde  para resaltar la sección actual se usará un color dorado en el nombre de la sección.
+Iconos:
+
+![Imgur](https://i.imgur.com/sgasaIh.png)
+
+Estos son los iconos que usaremos para el footer del landing page.
 
 ## Information Architecture
 
@@ -612,7 +625,7 @@ Se estableció que la aplicación debe tener una apariencia minimalista y fácil
 ### Organization Systems
  En el  sistema de información aplicaremos la organización visual de forma jerárquica, secuencial y matricial.
 ##### Forma jerárquica
-Esta forma de organización será implementada.....
+Esta forma de organización será implementada el menu del landing page donde tambien aparecera una opcion para que pueda logearse el usuario 
 
 También esta forma de organización será implementada en la pantalla principal del usuario, en los servicios que son ofrecidos, como en los "nombres”, "horarios" y si tienen alguna regla que cumplir, estos serán más visibles que las "características".
 ##### 1.  Organización secuencial
@@ -664,24 +677,31 @@ En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso
 </table>
 ### SEO Tags and Meta Tags
 
-### Searching Systems
-Introduciremos un sistema de búsqueda en diversos secciones con el propósito de simplificar la navegación y facilitar la búsqueda de información para el usuario.
-El sistema de búsqueda estará disponible en los siguientes casos:
+Se establecieron los siguientes SEO Tags and Meta Tags para nuestra aplicación web:
+Meta title: HousseKeeper.com - Hotel Management Software
+Meta Description: Empieza a viejar sin preocupacion de seguridad de tu caso y tus mascotas.
+Meta Date: [Fecha de lanzamiento] 
+Meta Keywords: HousseKeeper,HouseKeeper app, HouseKeeper web.
+Meta Autor: HousseKeeper - Service for your house 
 
+
+### Searching Systems
+Se implementarán sistemas de búsqueda para facilitar la navegación de los usuarios por nuestra aplicación.
+
+Se tipos de sistema de búsquedas en la aplicación: barras de búsqueda o filtros.
 
 ### Navigation Systems
-Se introducirá un sistema de navegación animado en varios segmentos de la plataforma, incluyendo situaciones como las siguientes:
-Header estático:
-El encabezado fijo brindará al usuario la posibilidad de acceder en cualquier momento a la configuración personal a través de un menú desplegable, además de poder regresar a la pantalla principal o consultar su nombre de usuario.
-Panel izquierdo desplegable:
-El menú de navegación desplegable en el lado izquierdo proporcionará al usuario un acceso constante a todas las funciones y complementos disponibles en nuestro servicio.
-Tarjetas y listas:
-La mayor parte de la información relacionada con planes, servicios, cotizaciones, cuentas, archivos y proveedores se presentará en tarjetas individuales para mejorar la visualización y la dinámica de la plataforma.
+Los sistemas de navegación que se implementaran en la aplicación son los siguientes: 
+●	Navegación estática de escritorio: Mediante esta navegación el usuario podrá volver con facilidad al punto de inicio de la aplicación.
 
 
 ## Landing Page UI Design
-
 ### Landing Page Wireframe
+![Imgur](https://i.imgur.com/p4I48gE.png)
+
+<p>Home:</p>
+
+![Imgur](https://i.imgur.com/iFDT3pC.png)
 
 ### Landing Page Mock-up
 
