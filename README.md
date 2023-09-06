@@ -760,9 +760,9 @@ Angular:
 
 Se estableció GitHub como sistema de control de versiones para nuestro proyecto.
 Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.
-Repositorio de LandingPage: ()
-Repositorio de Front-End: ()
-Repositorio de Back-End: ()  
+Repositorio de LandingPage: (https://github.com/HousseKeeper-SW54-Grupo4/Landing-Page)<br>
+Repositorio de Front-End: (https://github.com/HousseKeeper-SW54-Grupo4/Front-End)<br>
+Repositorio de Back-End: (https://github.com/HousseKeeper-SW54-Grupo4/Back-End)  <br>
 Se trabajará bajo la metodología Git Flow ya que nos permitirá trabajar de la manera mas eficiente para el trabajo colaborativo. 
 Con respecto a la metodología de trabajo Git Flow, se utilizarán las siguientes ramas: 
 Main: En esta rama estará alojada la versión completa de cada entrega de nuestro proyecto, esta rama no contará con errores en su ejecución y será la versión que estará desplegada en la web.
@@ -774,30 +774,29 @@ Feature: En estas ramas estarán las funcionalidades necesarias para la aplicaci
 ### Source Code Style Guide & Conventions
 
 Para desarrollar nuestro proyecto, utilizamos ciertos estilos de código y convenciones de diversas tecnologías internacionales. Con lo establecido, se busca un desarrollo estandarizado y fácil de comprender.
-TECNOLOGÍAS
-Utilizaremos las siguientes tecnologías en nuestro Software Development Environment
-LandingPage: HTML, CSS y Javascript
-Front-end: Angular 
-Back-end: JAVA ,Spring boot
-Base de datos: MySQL
-HERRAMIENTAS
-Utilizaremos las siguientes herramientas en nuestro Software Development Environment
-Figma
-Vertabelo
-WebStorm
-GitHub
-CONVENCIONES DE TECNOLOGÍA
+TECNOLOGÍAS<br>
+Utilizaremos las siguientes tecnologías en nuestro Software Development Environment<br>
+LandingPage: HTML, CSS y Javascript<br>
+Front-end: Angular <br>
+Back-end: JAVA ,Spring boot<br>
+Base de datos: MySQL<br>
+HERRAMIENTAS<br>
+Utilizaremos las siguientes herramientas en nuestro Software Development Environment<br>
+Figma<br>
+Vertabelo<br>
+WebStorm<br>
+GitHub<br>
+CONVENCIONES DE TECNOLOGÍA<br>
 Los unit test se escribirán con el lenguaje Gherkin así como sus convenciones gherkin (Gherkin Conventions for Readable Specifications). 
-El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones
-Se usarán Conventional Commits para los commits
-Para el trabajo con Angular se utilizarán las convenciones de Angular Style Guide. Estas convenciones se pueden revisar desde: https://angular.io/guide/styleguide
+El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones ,se usarán Conventional Commits para los commits <br>
+Para el trabajo con Angular se utilizarán las convenciones de Angular Style Guide. Estas convenciones se pueden revisar desde: https://angular.io/guide/styleguide<br>
 Para el uso de Java y ASP.NET se utilizaran las convenciones de “Java Coding Conventions” y “Spring boot”. Estas convenciones se pueden revisar desde: https://spring.io/guides#topicals   https://www.w3schools.com/java/
 
 ### Software Deployment Configuration
-En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:
-	Landing Page:
+En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:<br>
+Landing Page:<br>
 
-![Imgur](https://i.imgur.com/7plIYh4.png)
+![Imgur](https://i.imgur.com/7plIYh4.png) <br>
 Algun metodo de despliegue puede ser Netlify para realizar el despliegue de nuestra Landing Page
 
  
