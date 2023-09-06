@@ -674,22 +674,58 @@ Los sistemas de navegación que se implementaran en la aplicación son los sigui
 
 Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
 
-(Imagen sobre nuestra pagina web)
+![Imgur](https://i.imgur.com/sO5B5Yf.png)
+
+![Imgur](https://i.imgur.com/HtcXWa0.png)
+
+![Imgur](https://i.imgur.com/ZTmGtd7.png)
+
+![Imgur](https://i.imgur.com/4AKf9K1.png)
+
+![Imgur](https://i.imgur.com/VR8vM6v.png)
+
+Link:https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=ucdn9pUSuBulmrMj-0 
 
 ## Web Applications UX/UI Design
-
-### Web Applications Wireframes
+En la elaboración se consideraron los principios de diseño presentado en los puntos anteriores. Además, se respetó la arquitectura de la información propuesta. A continuación, se presentará la propuesta en la versión desktop y mobile.
 
 ### Web Applications Wireflow Diagrams
 
+Wireflow HousseKeeper:
+User Goal #1:
+Como usuario quiero iniciar sesión para visualizar los servicios que brinda como Keeper y traveler.
+
+User Goal #2:
+Como usuario quiero visualizar el mapa de la casa para conocer bien los espacios.
+
+User Goal #3
+Como usuario quiero disponer de un botón de emergencias en caso tenga que conectarse mutuamente entre keeper y traveler.
+
 ### Web Applications Mock-ups
+Iniciar sesión-Manager
+
+![Imgur](https://i.imgur.com/XCcOHL8.png)
+
+
+Elegir Plan-Manager
+
+![Imgur](https://i.imgur.com/VR8vM6v.png)
+
+
+Crear cuenta-Manager
+
+![Imgur](https://i.imgur.com/DEQdbfq.png)
 
 ### Web Applications User Flow Diagrams
+Como manger quiero que los usuarios puedan crear su cuenta con normalidad 
+![Imgur](https://i.imgur.com/FIqDnDm.png)
 
+
+![Imgur](https://i.imgur.com/DrvvzNv.png)
 ## Web Applications Prototyping
 
-## Domain-Driven Software Architecture
 
+## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
 
 ### Software Architecture Container Diagrams
