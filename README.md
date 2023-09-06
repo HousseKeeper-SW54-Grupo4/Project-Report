@@ -853,7 +853,7 @@ Angular:
 ### Source Code Management
 
 Se estableció GitHub como sistema de control de versiones para nuestro proyecto.
-Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.<br>
+Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.
 Repositorio de LandingPage: (https://github.com/HousseKeeper-SW54-Grupo4/Landing-Page)<br>
 Repositorio de Front-End: (https://github.com/HousseKeeper-SW54-Grupo4/Front-End)<br>
 Repositorio de Back-End: (https://github.com/HousseKeeper-SW54-Grupo4/Back-End)  <br>
@@ -886,10 +886,10 @@ Para el uso de Java y ASP.NET se utilizaran las convenciones de “Java Coding C
 ### Software Deployment Configuration
 En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:<br>
 Landing Page:<br>
-
 <img src="https://i.imgur.com/7plIYh4.png"   width="30%" height="30%"> <img src="https://i.imgur.com/hVzdHT5.png"   width="30%" height="30%"><br>
 
 Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el despliegue de nuestra Landing Page
+
 
  
 ## Landing Page, Services & Applications Implementation
@@ -908,9 +908,30 @@ Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el des
 
 #### Services Documentation Evidence for Sprint Review
 
+Para alcanzar exitosamente los objetivos de este Sprint 1 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
+Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
+https://angular.io/guide/styleguide <br>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
+https://www.jetbrains.com/es-es/webstorm/learn/ <br>
+
+
 #### Software Deployment Evidence for Sprint Review
 
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo.
+En esta entrega se usaron las tecnologías:<br>
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la landing page.<br>
+CSS: Lenguaje que no ayudó con el apartado visual de la landing page.<br>
+El software usado para el desarrollo de la landing page fue:<br>
+Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la landing page.<br>
+GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
+GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
+
+
 #### Team Collaboration Insights during Sprint
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
+Commits:
+
 
 ## Validation Interviews
 
