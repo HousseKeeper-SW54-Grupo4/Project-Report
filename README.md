@@ -898,6 +898,43 @@ Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el des
 #### Sprint Backlog 1
 
 #### Development Evidence for Sprint Review
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit id</th>
+    <th>Commit Message</th>
+    <th>Commited on (date)</th>
+  </tr>
+  <tr>
+    <td>HousseKeeper-Landing-Page</td>
+    <td>feature/forms</td>
+    <td>-</td>
+    <td>Feat: Added contact form</td>
+    <td>06/09/2023</td>
+  </tr>
+  <tr>
+    <td>HousseKeeper-Landing-Page</td>
+    <td>feaure/header</td>
+    <td>-</td>
+    <td>Feat: Added header</td>
+    <td>06/09/2023</td>
+  </tr>
+  <tr>
+    <td>HousseKeeper-Landing-Page</td>
+    <td>Feature/sectiontech</td>
+    <td>-</td>
+    <td>Feat: Added section</td>
+    <td>06/09/2023</td>
+  </tr>
+  <tr>
+    <td>HousseKeeper-Landing-Page</td>
+    <td>Feature/footer</td>
+    <td>-</td>
+    <td>Feat: Added footer</td>
+    <td>06/09/2023</td>
+  </tr>
+</table>
 
 #### Testing Suite Evidence for Sprint Review
 
