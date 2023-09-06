@@ -242,7 +242,7 @@ En cuanto a los antecedentes, existen algunas empresas en el mercado que ofrecen
 
 Hemos observado que unos de los principales problemas del sector seguridad, es la confianza hacia estas aplicaciones. Además de la escasa comunicación entre los trabajadores, con su públicoobjetivo. Debido a esto, se observan problemas como, robos en casa, precios inadecuados, servicio pésimo, entre otros. Generando la pregunta: 
 
-****¿Como podemos garantizar la seguridad dentro del servicio entre propietarios y cuidadores?***
+***¿Como podemos garantizar la seguridad dentro del servicio entre propietarios y cuidadores?***
 
 #### Lean UX Assumptions
 
@@ -350,7 +350,7 @@ Nuestra aplicación tiene como segmentos objetivos a personas que desean viajar 
 
 ## Competidores
 
-Para nuestra startup Cross Border Care, existen diversas empresas y plataformas que ofrecen servicios de cuidado de casas mientras los propietarios están fuera de viaje. Algunos de los competidores potenciales de nuestra startup son:
+Para nuestra startup HousseKeeper, existen diversas empresas y plataformas que ofrecen servicios de cuidado de casas mientras los propietarios están fuera de viaje. Algunos de los competidores potenciales de nuestra startup son:
 
   1. Trusted Housesitters: Es una plataforma en línea que conecta a propietarios de casas con cuidadores en todo el mundo. Los cuidadores pueden cuidar casas y mascotas a cambio de alojamiento gratuito.
   2. HouseSitter.com: Es una plataforma que conecta a propietarios de casas con cuidadores dentro de su área. Los cuidadores pueden cuidar casas, mascotas y jardines a cambio de pago.
@@ -464,7 +464,7 @@ plataforma, permitiendo	a los propietarios de casas y los cuidadores conectarse	
 
 ### Estrategias y tácticas frente a competidores
 
-La estrategia de nuestra startup CrossBorderCare debe centrarse en aprovechar sus fortalezas y oportunidades para establecer una ventaja competitiva en el mercado. Algunas tácticas específicas que podría emplear incluyen:
+La estrategia de nuestra startup HousseKeeper debe centrarse en aprovechar sus fortalezas y oportunidades para establecer una ventaja competitiva en el mercado. Algunas tácticas específicas que podría emplear incluyen:
 
   1. Diferenciación de productos/servicios: Nuestra startup puede destacar ofreciendo servicios adicionales o innovadores, como la limpieza profunda de la casa o el cuidado de plantas tropicales.
   2. Precios competitivos: Nuestra startup puede atraer a los clientes ofreciendo precios más bajos que sus competidores, especialmente durante las temporadas bajas de demanda.
