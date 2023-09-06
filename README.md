@@ -750,10 +750,10 @@ A lo largo del proyecto, utilizaremos diferentes herramientas de trabajo que nos
 ### Software Development Environment Configuration
 
 En la sección de Software Development Environment configuration se definirán las aplicaciones que se utilizarán para el desarrollo de nuestro proyecto
-Structurizr y LucidChart: Aplicacion web que se utilizara para la creacion del modelo C4, incluye diagrama de contexto, contenedores y componentes. Se puede acceder a través de: (link)
-Figma: Aplicación web que se utilizara para la creación de los Wireframes y Mockups, de la misma manera realizaremos los prototipos de nuestra aplicación. Se puede acceder a través de: https://www.figma.com/ 
-Vertabelo: Aplicación web que se utilizará para el modelamiento de nuestra base de datos, entidades y relaciones. Se puede acceder a través de: https://vertabelo.com/ 
-WebStorm: IDE que se utilizará para el desarrollo de nuestra Landing Page y FrontEnd de nuestra aplicación. Podemos acceder a través de: https://www.jetbrains.com/es-es/webstorm/download/ 
+Structurizr y LucidChart: Aplicacion web que se utilizara para la creacion del modelo C4, incluye diagrama de contexto, contenedores y componentes. Se puede acceder a través de: (link) <br>
+Figma: Aplicación web que se utilizara para la creación de los Wireframes y Mockups, de la misma manera realizaremos los prototipos de nuestra aplicación. Se puede acceder a través de: https://www.figma.com/ <br>
+Vertabelo: Aplicación web que se utilizará para el modelamiento de nuestra base de datos, entidades y relaciones. Se puede acceder a través de: https://vertabelo.com/ <br>
+WebStorm: IDE que se utilizará para el desarrollo de nuestra Landing Page y FrontEnd de nuestra aplicación. Podemos acceder a través de: https://www.jetbrains.com/es-es/webstorm/download/ <br>
 GitHub: Aplicación que utilizaremos para el control de versiones de proyecto. Se puede acceder a través de: https://github.com/ 
 Angular:
 ### Source Code Management
@@ -777,26 +777,21 @@ Para desarrollar nuestro proyecto, utilizamos ciertos estilos de código y conve
 TECNOLOGÍAS
 Utilizaremos las siguientes tecnologías en nuestro Software Development Environment
 LandingPage: HTML, CSS y Javascript
-Front-end: NestJs, VueJs y PrimeVue
-Back-end: C# y ASP.NET
+Front-end: Angular 
+Back-end: JAVA ,Spring boot
 Base de datos: MySQL
 HERRAMIENTAS
 Utilizaremos las siguientes herramientas en nuestro Software Development Environment
-VisualParadigm
 Figma
 Vertabelo
-PivotalTracker
 WebStorm
 GitHub
 CONVENCIONES DE TECNOLOGÍA
-	Los unit test se escribirán con el lenguaje Gherkin así como sus convenciones gherkin (Gherkin Conventions for Readable Specifications). 
-	El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones
-	Se usarán Conventional Commits para los commits. Estas convenciones estan accesibles desde: https://www.conventionalcommits.org/en/v1.0.0/
-	Para el trabajo con Vue se utilizarán las convenciones de Vue Style Guide. Estas convenciones se pueden revisar desde: https://v2.vuejs.org/v2/style-guide/?redirect=true
-	Se utilizará la convención de Upper Camel Case para los componentes dentro de nuestro código
-	Para el uso de C# y ASP.NET se utilizaran las convenciones de “C# Coding Conventions” y “Microsoft ASP.NET Core Coding Guidelines”. Estas convenciones se pueden revisar desde: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions 
-https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-6.0
-
+Los unit test se escribirán con el lenguaje Gherkin así como sus convenciones gherkin (Gherkin Conventions for Readable Specifications). 
+El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones
+Se usarán Conventional Commits para los commits
+Para el trabajo con Angular se utilizarán las convenciones de Angular Style Guide. Estas convenciones se pueden revisar desde: https://angular.io/guide/styleguide
+Para el uso de Java y ASP.NET se utilizaran las convenciones de “Java Coding Conventions” y “Spring boot”. Estas convenciones se pueden revisar desde: https://spring.io/guides#topicals   https://www.w3schools.com/java/
 
 ### Software Deployment Configuration
 En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:
