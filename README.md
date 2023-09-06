@@ -843,7 +843,7 @@ Angular:
 ### Source Code Management
 
 Se estableció GitHub como sistema de control de versiones para nuestro proyecto.
-Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.
+Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.<br>
 Repositorio de LandingPage: (https://github.com/HousseKeeper-SW54-Grupo4/Landing-Page)<br>
 Repositorio de Front-End: (https://github.com/HousseKeeper-SW54-Grupo4/Front-End)<br>
 Repositorio de Back-End: (https://github.com/HousseKeeper-SW54-Grupo4/Back-End)  <br>
@@ -878,7 +878,9 @@ En esta sección se mencionan los métodos realizados para el despliegue de nues
 Landing Page:<br>
 
 ![Imgur](https://i.imgur.com/7plIYh4.png) <br>
-Algun metodo de despliegue puede ser Netlify para realizar el despliegue de nuestra Landing Page
+![Imgur](https://i.imgur.com/hVzdHT5.png) <br>
+
+Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el despliegue de nuestra Landing Page
 
  
 ## Landing Page, Services & Applications Implementation
