@@ -763,13 +763,10 @@ Se crearon los siguientes repositorios dentro de nuestra organización en GitHub
 Repositorio de LandingPage: (https://github.com/HousseKeeper-SW54-Grupo4/Landing-Page)<br>
 Repositorio de Front-End: (https://github.com/HousseKeeper-SW54-Grupo4/Front-End)<br>
 Repositorio de Back-End: (https://github.com/HousseKeeper-SW54-Grupo4/Back-End)  <br>
-Se trabajará bajo la metodología Git Flow ya que nos permitirá trabajar de la manera mas eficiente para el trabajo colaborativo. 
-Con respecto a la metodología de trabajo Git Flow, se utilizarán las siguientes ramas: 
-Main: En esta rama estará alojada la versión completa de cada entrega de nuestro proyecto, esta rama no contará con errores en su ejecución y será la versión que estará desplegada en la web.
-
-Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop.
-
-
+Se trabajará bajo la metodología Git Flow ya que nos permitirá trabajar de la manera mas eficiente para el trabajo colaborativo. <br>
+Con respecto a la metodología de trabajo Git Flow, se utilizarán las siguientes ramas: <br>
+Main: En esta rama estará alojada la versión completa de cada entrega de nuestro proyecto, esta rama no contará con errores en su ejecución y será la versión que estará desplegada en la web.<br>
+Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación se encontrara en Project-Report. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop.<br>
 
 ### Source Code Style Guide & Conventions
 
