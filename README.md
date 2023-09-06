@@ -937,10 +937,23 @@ Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el des
 </table>
 
 #### Testing Suite Evidence for Sprint Review
-Review.
 Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
-#The first scenario has three steps
-Scenario: Comunicación con el cuidador.
+
+Para el Sprint 1, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la Landing Page. Las pruebas incluyeron:
+
+- **Pruebas de rendimiento:** Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
+
+- **Pruebas de compatibilidad:** Se verificó que la Landing Page fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
+
+- **Pruebas de funcionalidad:** Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
+
+- **Pruebas de respuesta móvil:** Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+
+- **Pruebas de usabilidad:** Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+
+
+El siguiente escenario se refiere a la comunicación con el cuidador:
+
 Dado que tengo una reserva confirmada
 Cuando hago clic en "Iniciar Conversación" con el cuidador
 Entonces puedo enviar mensajes al cuidador en tiempo real
@@ -948,6 +961,19 @@ Y el cuidador recibe notificaciones de nuevos mensajes.
 
 #### Execution Evidence for Sprint Review
 Aquí mostraremos todas las secciones que conforman la Landing page que hemos implementado durante el sprint.
+Durante el Sprint 1, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Landing Page:** El equipo de desarrollo trabajó en la creación y diseño de la Landing Page, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 1 de la Landing Page.
 https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=4gWRIeNbSZF2RAEi-0 
 
 #### Services Documentation Evidence for Sprint Review
