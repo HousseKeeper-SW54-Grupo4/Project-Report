@@ -9,7 +9,7 @@
 <h3>Sección: SW54</h3>
 <h3>Profesor: Hugo Allan Mori Paiva</h3>
 
-<strong>Startup:</strong> [FALTA DEFINIR]
+<strong>Startup:</strong> House Elegant Service
 
 <strong>Producto:</strong> HousseKeeper
 
@@ -28,7 +28,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Celda 4      |
+| Entrega 1      | 06/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Implementación del capítulo 1 al 5      |
 | Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Celda 8      |
 
 # Project Report Collaboration Insights
@@ -619,11 +619,19 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 
 ### Class Diagrams
 
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1hQrQPDUBeR21BeG3Z7WL8sBYa57LrJrw" alt="Diagrama de clases">
+</p>
+
 ### Class Dictionary
 
 ## Database Design
 
 ### Database Diagram
+
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1nIRFFa6gSl6fcBwn3GZldBRkLJTf8CAm" alt="Database diagram">
+</p>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
