@@ -905,40 +905,76 @@ Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el des
 <table>
   <tr>
     <th>Repository</th>
-    <th>Branch</th>
     <th>Commit id</th>
     <th>Commit Message</th>
+    <th>Commit Message Body</th>
     <th>Commited on (date)</th>
   </tr>
   <tr>
-    <td>HousseKeeper-Landing-Page</td>
-    <td>feature/forms</td>
+    <td></td>
+    <td>365f22d8993825b4fd7792f59bdda0fb5d32c554</td>
+    <td>Update README.md</td>
     <td>-</td>
-    <td>Feat: Added contact form</td>
+    <td>04/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>92ef5311b4a8e84f6662bbf8aca9ab9e5e5ad843</td>
+    <td>Creación de proyecto</td>
+    <td>-</td>
+    <td>04/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>024071a1d867dde04b19cfb1f701483f6425da9c</td>
+    <td>Add content</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>48ac9b1952f433d9f85819a43a9286d2755f6931</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HousseKeeper-SW54-Grupo4/Project-Report">https://github.com/HousseKeeper-SW54-Grupo4/Project-Report</a></td>
+    <td>19cc17275ab6c2c9fafe2233226dd3b31daaf5b8</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>357e876ae984c47b907dec79cae7f054acb9c13f</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>5feba0c1beabed057084f0cd95955b864ad16cd1</td>
+    <td>Update README.md</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3ffdf77780abf5a6e2f21ac76fb2dc3c4ab33ad1</td>
+    <td>Sprint Backlog</td>
+    <td>-</td>
     <td>06/09/2023</td>
   </tr>
   <tr>
-    <td>HousseKeeper-Landing-Page</td>
-    <td>feaure/header</td>
+    <td></td>
+    <td>bbc6f0a665b8129fbc99115a5f58f5c3916577f6</td>
+    <td>Sprint Planning README.md</td>
     <td>-</td>
-    <td>Feat: Added header</td>
-    <td>06/09/2023</td>
-  </tr>
-  <tr>
-    <td>HousseKeeper-Landing-Page</td>
-    <td>Feature/sectiontech</td>
-    <td>-</td>
-    <td>Feat: Added section</td>
-    <td>06/09/2023</td>
-  </tr>
-  <tr>
-    <td>HousseKeeper-Landing-Page</td>
-    <td>Feature/footer</td>
-    <td>-</td>
-    <td>Feat: Added footer</td>
     <td>06/09/2023</td>
   </tr>
 </table>
+
 
 #### Testing Suite Evidence for Sprint Review
 Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
