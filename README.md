@@ -154,11 +154,11 @@ Una aplicación de "Cuidado de casas", donde habrá un intercambio con beneficio
 
 **Misión**
 
-[FALTA REDACTAR]
+Nuestra misión es brindar un medio de comunicación donde el cual ambas partes puedan llegar a un acuerdo con la finalidad de recibir beneficios paralelamente.
 
 **Visión**
 
-[FALTA REDACTAR]
+Nuestra visión es tener una aplicación equipada con lo necesario para solucionar la problemática elegida-. Asimismo, ubicarnos en el top 5 dentro del territorio nacional y expandirnos a otros lugares (internacionalizarse).
 
 ### Perfiles de integrantes del equipo
 
@@ -240,7 +240,7 @@ En cuanto a los antecedentes, existen algunas empresas en el mercado que ofrecen
 
 Hemos observado que unos de los principales problemas del sector seguridad, es la confianza hacia estas aplicaciones. Además de la escasa comunicación entre los trabajadores, con su públicoobjetivo. Debido a esto, se observan problemas como, robos en casa, precios inadecuados, servicio pésimo, entre otros. Generando la pregunta: 
 
-**[REDACTAR PREGUNTA]**
+****¿Como podemos garantizar la seguridad dentro del servicio entre propietarios y cuidadores?***
 
 #### Lean UX Assumptions
 
@@ -260,13 +260,13 @@ Hemos observado que unos de los principales problemas del sector seguridad, es l
 - **¿Quién es el usuario?**  
 Personas que necesitan una solución de cuidado de casa y viajeros que buscan alojamiento a cambio de cuidar su casa.
 - **¿Dónde encaja nuestro producto? ¿En su trabajo o vida?**  
-[REFORMULAR]
+Actualmente en ambas, dado que la ausencia de los propietarios de la casa puede deberse a motivos laborales o personales (vacaciones).
 - **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
-[REFORMULAR]
+La dificultad de encontrar personas de confianza para dejar a cargo el cuidado de la casa. Esto se resolverá mediante una reunión virtual entre el propietario y el cuidador con la finalidad de conocer a las personas involucradas en estes servicio.
 - **¿Cuándo y cómo es usado nuestro producto?**  
-[REFORMULAR]
+Será usado en dispositivos que tengan acceso a los navegadores web y puede ser usado en cualquier instante el usuario considere pertinente.
 - **¿Qué características son importantes?**  
-[REFORMULAR]
+Cumplimiento de los estándares respecto a su funcionamiento y visualización, integración de servicios ya sea pagos integrados o vinculamiento de cuentas, buena optimización y soporte constante.
 - **¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
 Debe verse como una aplicación sencilla e intuitiva para el usuario, con una búsqueda rápida y segura que genera confianza al usuario.
 
@@ -369,7 +369,7 @@ Para nuestra startup Cross Border Care, existen diversas empresas y plataformas 
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
-      <td style="text-align:center;">CrossBorder Care</td>
+      <td style="text-align:center;">HousseKeeper</td>
       <td style="text-align:center;">Trusted Housesitters</td>
       <td style="text-align:center;">HouseSitter</td>
       <td style="text-align:center;">HouseCarers</td>
@@ -618,7 +618,7 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### Class Dictionary
 
-## Databse Design
+## Database Design
 
 ### Database Diagram
 
