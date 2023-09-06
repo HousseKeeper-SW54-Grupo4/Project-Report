@@ -596,18 +596,21 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### Software Architecture Context Diagram
 
+En este apartado se muestra las entidades que trabajan con la aplicación.
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1_YR-dgrlS7nh5kUL9TnegK9FImvL2lPz" alt="Diagrama de contexto">
 </p>
 
 ### Software Architecture Container Diagrams
 
+Se mostrará las distintas responsabilidades entre los varios componentes.
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1vCO3KW1n_oqPiGbI3VpXYoR_eEWuX1G8" alt="Diagrama de contenedores">
 </p>
 
 ### Software Architecture Components Diagrams
 
+Se podrá visualizar las distintas dependencias entre los componentes existentes.
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=11KsZyIetry_hH70Ib-SC6vUGzX8_ujqG" alt="Diagrama de conmponentes">
 </p>
