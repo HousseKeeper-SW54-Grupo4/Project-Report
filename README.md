@@ -705,9 +705,21 @@ Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuent
 
 ### Software Architecture Context Diagram
 
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1_YR-dgrlS7nh5kUL9TnegK9FImvL2lPz" alt="Diagrama de contexto">
+</p>
+
 ### Software Architecture Container Diagrams
 
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1vCO3KW1n_oqPiGbI3VpXYoR_eEWuX1G8" alt="Diagrama de contenedores">
+</p>
+
 ### Software Architecture Components Diagrams
+
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=11KsZyIetry_hH70Ib-SC6vUGzX8_ujqG" alt="Diagrama de conmponentes">
+</p>
 
 ## Software Object-Oriented Design
 
