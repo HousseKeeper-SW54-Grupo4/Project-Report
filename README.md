@@ -564,7 +564,7 @@ En esta sección, definiremos los colores y fuentes que se aplicarán de manera 
 La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
 "Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
 
-[Imgur](https://i.imgur.com/CpAveVa.png)
+![Imgur](https://i.imgur.com/CpAveVa.png)
 
 ### Web Style Guidelines
 
@@ -576,12 +576,12 @@ Para desarrollar tanto el landing page como la aplicación web tendremos en cuen
 Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el contenido a mostrar
 Navegación:
 
-[Imgur](https://i.imgur.com/eJtFS9D.png)
+![Imgur](https://i.imgur.com/eJtFS9D.png)
 
 La  navegación  a  utilizar  será  implementada  con  un  enfoque  minimalista  en  donde  para resaltar la sección actual se usará un color dorado en el nombre de la sección.
 Iconos:
 
-[Imgur](https://i.imgur.com/sgasaIh.png)
+![Imgur](https://i.imgur.com/sgasaIh.png)
 
 Estos son los iconos que usaremos para el footer del landing page.
 
@@ -664,10 +664,11 @@ Los sistemas de navegación que se implementaran en la aplicación son los sigui
 
 ## Landing Page UI Design
 ### Landing Page Wireframe
-[Imgur](https://i.imgur.com/p4I48gE.png)
+![Imgur](https://i.imgur.com/p4I48gE.png)
 
-Home:
-[Imgur](https://i.imgur.com/iFDT3pC.png)
+<p>Home:</p>
+
+![Imgur](https://i.imgur.com/iFDT3pC.png)
 
 ### Landing Page Mock-up
 
