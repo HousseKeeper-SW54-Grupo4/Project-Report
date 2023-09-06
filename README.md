@@ -745,15 +745,67 @@ Como manger quiero que los usuarios puedan crear su cuenta con normalidad
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## Software Configuration Management
+A lo largo del proyecto, utilizaremos diferentes herramientas de trabajo que nos ayudarán a realizar los trabajos de la mejor manera.
 
 ### Software Development Environment Configuration
 
+En la sección de Software Development Environment configuration se definirán las aplicaciones que se utilizarán para el desarrollo de nuestro proyecto
+Structurizr y LucidChart: Aplicacion web que se utilizara para la creacion del modelo C4, incluye diagrama de contexto, contenedores y componentes. Se puede acceder a través de: (link)
+Figma: Aplicación web que se utilizara para la creación de los Wireframes y Mockups, de la misma manera realizaremos los prototipos de nuestra aplicación. Se puede acceder a través de: https://www.figma.com/ 
+Vertabelo: Aplicación web que se utilizará para el modelamiento de nuestra base de datos, entidades y relaciones. Se puede acceder a través de: https://vertabelo.com/ 
+WebStorm: IDE que se utilizará para el desarrollo de nuestra Landing Page y FrontEnd de nuestra aplicación. Podemos acceder a través de: https://www.jetbrains.com/es-es/webstorm/download/ 
+GitHub: Aplicación que utilizaremos para el control de versiones de proyecto. Se puede acceder a través de: https://github.com/ 
+Angular:
 ### Source Code Management
+
+Se estableció GitHub como sistema de control de versiones para nuestro proyecto.
+Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.
+Repositorio de LandingPage: ()
+Repositorio de Front-End: ()
+Repositorio de Back-End: ()  
+Se trabajará bajo la metodología Git Flow ya que nos permitirá trabajar de la manera mas eficiente para el trabajo colaborativo. 
+Con respecto a la metodología de trabajo Git Flow, se utilizarán las siguientes ramas: 
+Main: En esta rama estará alojada la versión completa de cada entrega de nuestro proyecto, esta rama no contará con errores en su ejecución y será la versión que estará desplegada en la web.
+
+Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop.
+
+
 
 ### Source Code Style Guide & Conventions
 
-### Software Deployment Configuration
+Para desarrollar nuestro proyecto, utilizamos ciertos estilos de código y convenciones de diversas tecnologías internacionales. Con lo establecido, se busca un desarrollo estandarizado y fácil de comprender.
+TECNOLOGÍAS
+Utilizaremos las siguientes tecnologías en nuestro Software Development Environment
+LandingPage: HTML, CSS y Javascript
+Front-end: NestJs, VueJs y PrimeVue
+Back-end: C# y ASP.NET
+Base de datos: MySQL
+HERRAMIENTAS
+Utilizaremos las siguientes herramientas en nuestro Software Development Environment
+VisualParadigm
+Figma
+Vertabelo
+PivotalTracker
+WebStorm
+GitHub
+CONVENCIONES DE TECNOLOGÍA
+	Los unit test se escribirán con el lenguaje Gherkin así como sus convenciones gherkin (Gherkin Conventions for Readable Specifications). 
+	El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones
+	Se usarán Conventional Commits para los commits. Estas convenciones estan accesibles desde: https://www.conventionalcommits.org/en/v1.0.0/
+	Para el trabajo con Vue se utilizarán las convenciones de Vue Style Guide. Estas convenciones se pueden revisar desde: https://v2.vuejs.org/v2/style-guide/?redirect=true
+	Se utilizará la convención de Upper Camel Case para los componentes dentro de nuestro código
+	Para el uso de C# y ASP.NET se utilizaran las convenciones de “C# Coding Conventions” y “Microsoft ASP.NET Core Coding Guidelines”. Estas convenciones se pueden revisar desde: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions 
+https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-6.0
 
+
+### Software Deployment Configuration
+En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:
+	Landing Page:
+
+![Imgur](https://i.imgur.com/7plIYh4.png)
+Algun metodo de despliegue puede ser Netlify para realizar el despliegue de nuestra Landing Page
+
+ 
 ## Landing Page, Services & Applications Implementation
 
 ### Sprint 1
