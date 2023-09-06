@@ -558,7 +558,7 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Journey Mapping
 
-![User Journey Map-Andres](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/fd30947eda645c4106f4c8670809fb11729d7732f9bb38ce.png)
+![User Journey Map-Andres](https://drive.google.com/file/d/1zOiUQiO_nVhJk-rbFtEyGHBPH0VNtm2-/view?usp=sharing)
 
 ### Empathy Mapping
    <p align="center">
@@ -616,7 +616,7 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### Impact Mapping
 
-![Impact Map-Andres](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/63d246f489fe63149b485e770110568ccb23e03306b75f7d.png)
+![Impact Map-Andres](https://drive.google.com/file/d/1ginJ74DzCgZG-Wr3NBJdjHYSo2xaIDoq/view?usp=sharing)
 
 ### Product Backlog
 
