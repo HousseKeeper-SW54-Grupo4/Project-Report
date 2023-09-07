@@ -107,6 +107,7 @@ INSERTAR IMÁGENES CON FECHA
     - [Software Architecture Components Diagrams](#software-architecture-components-diagrams)
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
+    - [Class Dictionary](#class-dictionary) 
   - [Databse Design](#databse-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
@@ -852,6 +853,63 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1hQrQPDUBeR21BeG3Z7WL8sBYa57LrJrw" alt="Diagrama de clases">
 </p>
+
+### Class Dictionary
+
+Clase Usuario:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| nombre    | string   | Nombre del Usuario    |
+| apellido  | string   | Apellido del Usuario  |
+| correo    | string   | Correo del Usuario    |
+| telefondo | int      | Telefondo del usuario |
+
+Clase Keeper:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| reservas    | list     | Lista de reservas del Keeper    |
+
+Clase Traveler:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| propiedades    | list     | Lista de propiedades del Traveler    |
+
+Clase Propiedad:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| id    | int   | Id de la propiedad    |
+| nombre  | string   | Nombre de la propiedad  |
+| direccion    | string   | Dirección de la propiedad    |
+| descripcion | string      | Descripción de la propiedad |
+
+Clase Reserva:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| id    | int   | Id de la reserva    |
+| fechaI  | date   | Fecha inicial de la reservación  |
+| fechaF    | date   | Fecha final de la reservación    |
+| Keeper | Keeper      | Persona de la reservación |
+| Actividades | Actividad | Actividad a realizar |
+
+Clase Actividad:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| nombre  | string   | Nombre de la actividad  |
+| descripcion | string      | Descripción de la actividad |
+| validacion | booblean | Confirmación sobre la realización de la actividad |
+| fecha | date | Fecha de conclusión |
+
+Clase comentario:
+
+| Nombre    | Atributo | Descripción           |
+|-----------|----------|-----------------------|
+| texto  | string   | Contenido del mensaje  |
 
 ## Database Design
 
