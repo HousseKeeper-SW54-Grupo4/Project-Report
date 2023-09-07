@@ -472,7 +472,7 @@ La estrategia de nuestra startup HousseKeeper debe centrarse en aprovechar sus f
   4. Mejora continua del servicio al cliente: Nuestra startup puede enfocarse en proporcionar un servicio al cliente excepcional para mejorar la satisfacción del cliente y aumentar la lealtad a la marca.
   5. Alianzas estratégicas: Nuestra startup puede formar alianzas estratégicas con otras empresas en la industria, como agencias de viajes, compañías de transporte, servicios de comida y bebida, para ofrecer servicios complementarios y	aumentar	su	alcance.
      
-## Entrevistas [FALTA]
+## Entrevistas []
 
 ### Diseño de entrevistas
 
@@ -512,14 +512,42 @@ La estrategia de nuestra startup HousseKeeper debe centrarse en aprovechar sus f
 - ¿Qué medidas de seguridad o políticas consideran importantes para proteger la privacidad y seguridad de los usuarios en la plataforma?
 - ¿Qué experiencias o habilidades creen que son importantes para ser un buen cuidador de casas? ¿Qué información o capacitación adicional consideran útil para llevar a cabo sus responsabilidades de manera efectiva?
 
-### Registro de entrevistas [FALTA]
+### Registro de entrevistas
+Entrevista adulto:
 
-### Análisis de entrevistas [FALTA]
+**Nombre:** Humberto Neil Martinez
 
-**Adultos**
+**Edad:** 38
+
+**Link:** [Enlace](https://drive.google.com/drive/folders/10xHT_Xnk8VxB2-sp eg4Mg52AyOqymAj?usp=sharing)
+
+**Resumen:** Nuestro entrevistado nos comenta que actualmente vive en Brasil-Sao Paulo, pero antes vivía en Perú. El usuario usa con más frecuencia su celular y no viaja mucho, pero siempre tiene problemas para poder ver quién cuida sus gatos cuando se va por mucho tiempo. Algunas veces los deja en casa de su amiga, ya que tiene confianza con ella. Le gustaría tener una app donde conseguir personas de confianza para que cuiden de sus mascotas cuando él no está.
+
+Entrevista joven:
+
+**Nombre:** Jhon Quenta Quisocala
+
+**Edad:** 31
+
+**Link:** [Enlace](https://drive.google.com/file/d/1I3G06j4Qn7oKzfjKzNIJPmiQ4hQQC4DL/view?usp=share_link)
+
+**Resumen:** El entrevistado vive en Miraflores, Perú, y tiene habilidades en matemáticas y dibujo. Prefiere usar el celular y le gusta viajar, pero ha tenido dificultades financieras y ha tenido que hospedarse en lugares más económicos. Le gustaría viajar unas tres veces al año y recientemente cuidó de una casa durante una semana, lo que le resultó complicado pero justo a cambio de viajar gratis. Prefiere cuidar casas rurales y está de acuerdo en realizar tareas del hogar, pero no en pagar servicios. Está dispuesto a cuidar una casa por aproximadamente dos semanas y proporcionar información sobre su experiencia y antecedentes. Encuentra interesante la idea de cuidar casas como una oportunidad para personas con problemas económicos y está dispuesto a cumplir con los requisitos necesarios.
 
 
-**Jóvenes**
+### Análisis de entrevistas 
+
+**Adulto: **
+Nuestro entrevistado nos comenta que actualmente vive en Brasil-Sao Paulo, pero antes vivía en Perú. El usuario usa con más frecuencia su celular y no es de viajar mucho, pero siempre tiene problemas para poder ver quién cuida sus gatos cuando se va por mucho tiempo. Algunas veces los deja en casa de su amiga, ya que tiene confianza con ella. Le gustaría tener una app donde conseguir personas de confianza para que cuiden de sus mascotas cuando él no está.
+
+
+**Jóven: **
+El entrevistado que actualmente vive en el distrito de Miraflores en el Perú considera que sus habilidades son las matemáticas y el dibujo, y prefiere usar el celular como dispositivo. Le gusta realizar viajes, pero últimamente se ha sentido frustrado porque no pudo viajar este año, solo ha viajado una vez al extranjero y ha notado las dificultades financieras en los viajes. Ha tenido que hospedarse en hostales o en hoteles más económicos debido a que algunos hoteles eran demasiado caros. 
+
+También menciona que le gustaría viajar unas tres veces al año. Recientemente, le dejaron a cargo de una casa durante una semana y comenta que fue complicado manejar el tema de la comida y el cuidado de las mascotas. Sin embargo, considera justo que a cambio de viajar gratis tenga que cuidar la casa de otra persona siguiendo sus normas y cubriendo los gastos de comida. 
+
+Además, comenta que preferiría cuidar casas rurales y que el tamaño de la propiedad sea mediano. Está de acuerdo en realizar tareas del hogar como limpiar y cuidar a los perros, pero no está de acuerdo en pagar los servicios de agua y luz, entre otros. Está dispuesto a cuidar la casa por aproximadamente dos semanas, y también está de acuerdo en proporcionar al propietario antecedentes penales, referencias previas, información sobre enfermedades y experiencia con otros propietarios. Considera fundamental saber realizar el mantenimiento del hogar y respetar las normas establecidas. 
+
+En conclusión, el entrevistado encuentra interesante la idea de cuidar casas como una oportunidad para personas que no pueden viajar debido a temas económicos. Considera que es una idea innovadora y está dispuesto a cumplir con las responsabilidades y requisitos necesarios para participar en este tipo de intercambio.
 
 
 ## Needfinding
