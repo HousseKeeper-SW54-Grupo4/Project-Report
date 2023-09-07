@@ -181,6 +181,7 @@ Nuestra visión es tener una aplicación equipada con lo necesario para solucion
 ![Imgur](https://i.imgur.com/Tb3WaTX.png)
 
 
+
 ## Solution Profile
 
 “HousseKeeper” es una aplicación, que permite que una persona se haga cargo de una casa mientras los propietarios están ausentes. Nuestra aplicación tiene como finalidad, resolver los problemas de personas que quieran viajar pero no pueden gastar grandes cantidades de dinero en alojamiento y también de personas que necesitan que cuiden su hogar y que hagan tareas regar las plantas, alimentar a las mascotas,etc. Además, también buscamos dar la seguridad a nuestros clientes, que no cualquier persona irá a sus casas, se podrá observar un perfil del cuidador y también podrá reunirse de manera virtual si el propietario lo considera necesario.
@@ -242,7 +243,7 @@ En cuanto a los antecedentes, existen algunas empresas en el mercado que ofrecen
 
 Hemos observado que unos de los principales problemas del sector seguridad, es la confianza hacia estas aplicaciones. Además de la escasa comunicación entre los trabajadores, con su públicoobjetivo. Debido a esto, se observan problemas como, robos en casa, precios inadecuados, servicio pésimo, entre otros. Generando la pregunta: 
 
-****¿Como podemos garantizar la seguridad dentro del servicio entre propietarios y cuidadores?***
+***¿Como podemos garantizar la seguridad dentro del servicio entre propietarios y cuidadores?***
 
 #### Lean UX Assumptions
 
@@ -350,7 +351,7 @@ Nuestra aplicación tiene como segmentos objetivos a personas que desean viajar 
 
 ## Competidores
 
-Para nuestra startup Cross Border Care, existen diversas empresas y plataformas que ofrecen servicios de cuidado de casas mientras los propietarios están fuera de viaje. Algunos de los competidores potenciales de nuestra startup son:
+Para nuestra startup HousseKeeper, existen diversas empresas y plataformas que ofrecen servicios de cuidado de casas mientras los propietarios están fuera de viaje. Algunos de los competidores potenciales de nuestra startup son:
 
   1. Trusted Housesitters: Es una plataforma en línea que conecta a propietarios de casas con cuidadores en todo el mundo. Los cuidadores pueden cuidar casas y mascotas a cambio de alojamiento gratuito.
   2. HouseSitter.com: Es una plataforma que conecta a propietarios de casas con cuidadores dentro de su área. Los cuidadores pueden cuidar casas, mascotas y jardines a cambio de pago.
@@ -464,7 +465,7 @@ plataforma, permitiendo	a los propietarios de casas y los cuidadores conectarse	
 
 ### Estrategias y tácticas frente a competidores
 
-La estrategia de nuestra startup CrossBorderCare debe centrarse en aprovechar sus fortalezas y oportunidades para establecer una ventaja competitiva en el mercado. Algunas tácticas específicas que podría emplear incluyen:
+La estrategia de nuestra startup HousseKeeper debe centrarse en aprovechar sus fortalezas y oportunidades para establecer una ventaja competitiva en el mercado. Algunas tácticas específicas que podría emplear incluyen:
 
   1. Diferenciación de productos/servicios: Nuestra startup puede destacar ofreciendo servicios adicionales o innovadores, como la limpieza profunda de la casa o el cuidado de plantas tropicales.
   2. Precios competitivos: Nuestra startup puede atraer a los clientes ofreciendo precios más bajos que sus competidores, especialmente durante las temporadas bajas de demanda.
@@ -472,7 +473,7 @@ La estrategia de nuestra startup CrossBorderCare debe centrarse en aprovechar su
   4. Mejora continua del servicio al cliente: Nuestra startup puede enfocarse en proporcionar un servicio al cliente excepcional para mejorar la satisfacción del cliente y aumentar la lealtad a la marca.
   5. Alianzas estratégicas: Nuestra startup puede formar alianzas estratégicas con otras empresas en la industria, como agencias de viajes, compañías de transporte, servicios de comida y bebida, para ofrecer servicios complementarios y	aumentar	su	alcance.
      
-## Entrevistas [FALTA]
+## Entrevistas []
 
 ### Diseño de entrevistas
 
@@ -512,14 +513,42 @@ La estrategia de nuestra startup CrossBorderCare debe centrarse en aprovechar su
 - ¿Qué medidas de seguridad o políticas consideran importantes para proteger la privacidad y seguridad de los usuarios en la plataforma?
 - ¿Qué experiencias o habilidades creen que son importantes para ser un buen cuidador de casas? ¿Qué información o capacitación adicional consideran útil para llevar a cabo sus responsabilidades de manera efectiva?
 
-### Registro de entrevistas [FALTA]
+### Registro de entrevistas
+Entrevista adulto:
 
-### Análisis de entrevistas [FALTA]
+**Nombre:** Humberto Neil Martinez
 
-**Adultos**
+**Edad:** 38
+
+**Link:** [Enlace](https://drive.google.com/drive/folders/10xHT_Xnk8VxB2-sp eg4Mg52AyOqymAj?usp=sharing)
+
+**Resumen:** Nuestro entrevistado nos comenta que actualmente vive en Brasil-Sao Paulo, pero antes vivía en Perú. El usuario usa con más frecuencia su celular y no viaja mucho, pero siempre tiene problemas para poder ver quién cuida sus gatos cuando se va por mucho tiempo. Algunas veces los deja en casa de su amiga, ya que tiene confianza con ella. Le gustaría tener una app donde conseguir personas de confianza para que cuiden de sus mascotas cuando él no está.
+
+Entrevista joven:
+
+**Nombre:** Jhon Quenta Quisocala
+
+**Edad:** 31
+
+**Link:** [Enlace](https://drive.google.com/file/d/1I3G06j4Qn7oKzfjKzNIJPmiQ4hQQC4DL/view?usp=share_link)
+
+**Resumen:** El entrevistado vive en Miraflores, Perú, y tiene habilidades en matemáticas y dibujo. Prefiere usar el celular y le gusta viajar, pero ha tenido dificultades financieras y ha tenido que hospedarse en lugares más económicos. Le gustaría viajar unas tres veces al año y recientemente cuidó de una casa durante una semana, lo que le resultó complicado pero justo a cambio de viajar gratis. Prefiere cuidar casas rurales y está de acuerdo en realizar tareas del hogar, pero no en pagar servicios. Está dispuesto a cuidar una casa por aproximadamente dos semanas y proporcionar información sobre su experiencia y antecedentes. Encuentra interesante la idea de cuidar casas como una oportunidad para personas con problemas económicos y está dispuesto a cumplir con los requisitos necesarios.
 
 
-**Jóvenes**
+### Análisis de entrevistas 
+
+**Adulto: **
+Nuestro entrevistado nos comenta que actualmente vive en Brasil-Sao Paulo, pero antes vivía en Perú. El usuario usa con más frecuencia su celular y no es de viajar mucho, pero siempre tiene problemas para poder ver quién cuida sus gatos cuando se va por mucho tiempo. Algunas veces los deja en casa de su amiga, ya que tiene confianza con ella. Le gustaría tener una app donde conseguir personas de confianza para que cuiden de sus mascotas cuando él no está.
+
+
+**Jóven: **
+El entrevistado que actualmente vive en el distrito de Miraflores en el Perú considera que sus habilidades son las matemáticas y el dibujo, y prefiere usar el celular como dispositivo. Le gusta realizar viajes, pero últimamente se ha sentido frustrado porque no pudo viajar este año, solo ha viajado una vez al extranjero y ha notado las dificultades financieras en los viajes. Ha tenido que hospedarse en hostales o en hoteles más económicos debido a que algunos hoteles eran demasiado caros. 
+
+También menciona que le gustaría viajar unas tres veces al año. Recientemente, le dejaron a cargo de una casa durante una semana y comenta que fue complicado manejar el tema de la comida y el cuidado de las mascotas. Sin embargo, considera justo que a cambio de viajar gratis tenga que cuidar la casa de otra persona siguiendo sus normas y cubriendo los gastos de comida. 
+
+Además, comenta que preferiría cuidar casas rurales y que el tamaño de la propiedad sea mediano. Está de acuerdo en realizar tareas del hogar como limpiar y cuidar a los perros, pero no está de acuerdo en pagar los servicios de agua y luz, entre otros. Está dispuesto a cuidar la casa por aproximadamente dos semanas, y también está de acuerdo en proporcionar al propietario antecedentes penales, referencias previas, información sobre enfermedades y experiencia con otros propietarios. Considera fundamental saber realizar el mantenimiento del hogar y respetar las normas establecidas. 
+
+En conclusión, el entrevistado encuentra interesante la idea de cuidar casas como una oportunidad para personas que no pueden viajar debido a temas económicos. Considera que es una idea innovadora y está dispuesto a cumplir con las responsabilidades y requisitos necesarios para participar en este tipo de intercambio.
 
 
 ## Needfinding
@@ -538,64 +567,264 @@ Después de realizar las entrevistas definimos los dos user persona para los seg
 
 ### User Personas
 
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1CdOOxiujnpBlfhBfqp2vQIpHoovP9vAg" alt="UserPersona-Maria">
+   </p>
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pIsUPYspRouUea_tupEi_jSk73i6WV_h" alt="UserPersona-Andres">
+   </p>
+
 ### User Task Matrix
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1pKVSr6oM7zH9wnEtmeBwCXD-3-SmWbyg" alt="UserTaskMatrix-Cuidador">
+   </p>
+
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1mseq7MH4hxDBnf6uM4r8YVQAvMf8_eFR" alt="UserTaskMatrix-Propietario">
+   </p>
 
 ### User Journey Mapping
 
+![User Journey Map-Andres](https://drive.google.com/uc?export=view&id=1ooFZwbqk7v4LnXM6_bxLnzCugk_8S5tK)
+
 ### Empathy Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1cOHBh2QYT2fqXM0a_EGrKKQF_SqWwOZ9" alt="Empathy Map-Maria">
+   </p>
+
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1g78F3CBxsd7Btw4W0JQVlJX1CRHd4qNk" alt="Empathy Map-Andres">
+   </p>
 
 ### As-is Scenario Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1YyRG3Xx7m6v2XL0WowKr9T8S8c6W6MUw" alt="As-is Scenario Mapping">
+   </p>
+
 
 # Capítulo III: Requirements Specification
 
 ### To-Be Scenario Mapping
+   <p align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1q101VD-ejB-1LQK75FfrxMaU61UOk9Ql" alt="To-Be Scenario Mapping">
+   </p>
 
 ### User Stories
 
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US01</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Búsqueda de un cuidador de casas cercano</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder buscar un cuidador de casas cercano a mi ubicación para asegurarme de que esté disponible y dispuesto a cuidar de mi casa.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Visualización de cuidadores cercanos</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la pantalla de búsqueda</p><p>Cuando ingreso "Mi ubicación actual" como ubicación</p><p>Y hago clic en "Buscar"</p><p>Entonces veo una lista de cuidadores a 10 kilómetros de mi ubicación</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>No se encuentran cuidadores cercanos</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la pantalla de búsqueda</p><p>Cuando ingreso "Mi ubicación actual" como ubicación</p><p>Y hago clic en "Buscar"</p><p>Entonces veo un mensaje que indica que no se encontraron cuidadores cercanos</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US02</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Reserva de un cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder reservar a un cuidador de casas después de revisar su perfil y confirmar que cumple con mis necesidades.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Solicitud de reserva</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que he seleccionado un cuidador de casas</p><p>Cuando ingreso las fechas de mi ausencia y detalles adicionales</p><p>Y hago clic en "Solicitar Reserva"</p><p>Entonces el cuidador de casas recibe una notificación</p><p>Y debe poder confirmar o rechazar la reserva dentro de las 24 horas</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Rechazo de reserva por el cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que he solicitado una reserva</p><p>Cuando el cuidador de casas rechaza la reserva</p><p>Entonces recibo una notificación de rechazo de reserva</p><p>Y la reserva se marca como rechazada en la aplicación</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US03</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Comunicación con el cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder comunicarme fácilmente con el cuidador de casas que he reservado para discutir detalles y proporcionar instrucciones específicas.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Comunicación con el cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que tengo una reserva confirmada</p><p>Cuando hago clic en "Iniciar Conversación" con el cuidador</p><p>Entonces puedo enviar mensajes al cuidador en tiempo real</p><p>Y el cuidador recibe notificaciones de nuevos mensajes</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Recepción de mensajes del cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que tengo una conversación en curso con el cuidador</p><p>Cuando el cuidador me envía un mensaje</p><p>Entonces recibo una notificación de nuevo mensaje</p><p>Y puedo ver el mensaje del cuidador en la conversación</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US04</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Visualización del registro de tareas realizadas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder ver un registro de las tareas realizadas por el cuidador de casas durante mi ausencia para asegurarme de que todo se haya hecho según lo acordado.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Visualización del registro de tareas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que tengo una reserva confirmada</p><p>Cuando ingreso en la aplicación</p><p>Y selecciono la opción "Registro de Tareas"</p><p>Entonces veo una lista de todas las tareas completadas por el cuidador</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Filtro de tareas en el registro</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la pantalla del registro de tareas</p><p>Cuando aplico un filtro por fecha o tipo de tarea</p><p>Entonces veo solo las tareas que coinciden con el filtro aplicado</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US05</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Calificación y revisión del cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder calificar y dejar una revisión para el cuidador de casas después de mi experiencia para ayudar a otros usuarios a tomar decisiones informadas.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Calificación del cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que mi reserva ha finalizado</p><p>Cuando ingreso en la aplicación</p><p>Y selecciono al cuidador de casas en mi historial de reservas</p><p>Y le asigno una calificación de 1 a 5 estrellas</p><p>Entonces la calificación se registra en el perfil del cuidador</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Dejar una revisión para el cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que mi reserva ha finalizado</p><p>Cuando ingreso en la aplicación</p><p>Y selecciono al cuidador de casas en mi historial de reservas</p><p>Y escribo una revisión opcional sobre mi experiencia</p><p>Entonces la revisión se muestra en el perfil del cuidador</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US06</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de notificaciones de la aplicación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder gestionar las notificaciones de la aplicación para personalizar mi experiencia y recibir solo la información importante.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Configuración de notificaciones</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación</p><p>Cuando accedo a la sección de configuración de notificaciones</p><p>Y selecciono las notificaciones que deseo recibir (por ejemplo, mensajes, actualizaciones de reservas)</p><p>Entonces las preferencias de notificación se guardan y se aplican en la aplicación</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Recepción de notificaciones</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que tengo preferencias de notificación configuradas</p><p>Cuando se cumple una condición que desencadena una notificación (por ejemplo, mensaje de un cuidador)</p><p>Entonces recibo una notificación en mi dispositivo móvil</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US07</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Recuperación de contraseña olvidada</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como usuario de "HouseKeeper", quiero poder recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Recuperación de contraseña</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la pantalla de inicio de sesión</p><p>Cuando selecciono la opción "¿Olvidaste tu contraseña?"</p><p>Y proporciono mi dirección de correo electrónico registrada</p><p>Entonces recibo un correo electrónico con un enlace para restablecer mi contraseña</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Restablecimiento de contraseña</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que he recibido un correo electrónico para restablecer mi contraseña</p><p>Cuando hago clic en el enlace proporcionado</p><p>Y proporciono una nueva contraseña</p><p>Entonces mi contraseña se actualiza y puedo iniciar sesión con la nueva contraseña</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US08</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro de cuidadores de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HouseKeeper", quiero poder registrar a nuevos cuidadores de casas en la plataforma para que estén disponibles para los usuarios.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro exitoso de un cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando ingreso los datos del nuevo cuidador de casas</p><p>Y confirmo el registro</p><p>Entonces el cuidador de casas se registra en la plataforma</p><p>Y se le envía una notificación de bienvenida.</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Registro fallido de un cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando intento registrar a un cuidador de casas sin proporcionar información obligatoria</p><p>Entonces se muestra un mensaje de error y no se completa el registro</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US09</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de perfiles de cuidadores</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HouseKeeper", quiero poder editar y gestionar los perfiles de los cuidadores de casas en la plataforma para garantizar la calidad y la integridad de la información.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Edición de perfil de un cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando selecciono el perfil de un cuidador de casas</p><p>Y realizo ediciones en la información del perfil</p><p>Entonces los cambios se guardan y reflejan en el perfil del cuidador</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Bloqueo de un cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando identifico un comportamiento inapropiado de un cuidador de casas</p><p>Y decido bloquear su perfil</p><p>Entonces el cuidador bloqueado no puede acceder a la plataforma</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US10</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Revisión de reservas y solicitudes</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HouseKeeper", quiero revisar y gestionar las reservas y solicitudes realizadas por los usuarios y cuidadores de casas en la plataforma.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Revisión de solicitudes de reserva pendientes</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando accedo a la sección de solicitudes pendientes</p><p>Entonces puedo ver una lista de todas las solicitudes de reserva pendientes</p><p>Y puedo aprobar o rechazar cada solicitud</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Revisión de reservas y registros de tareas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando selecciono una reserva en particular</p><p>Y reviso el registro de tareas realizadas</p><p>Entonces puedo verificar si se completaron todas las tareas según lo acordado</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US11</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Gestión de usuarios y cuidadores</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>2</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HouseKeeper", quiero poder gestionar las cuentas de usuarios y cuidadores de casas, incluyendo la suspensión o eliminación de cuentas en caso de violaciones de términos de uso.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Suspensión temporal de una cuenta de usuario</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando identifico un comportamiento inapropiado de un usuario</p><p>Y decido suspender temporalmente su cuenta</p><p>Entonces el usuario suspendido no puede acceder a la plataforma durante un período específico</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Eliminación de una cuenta de cuidador de casas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando identifico una violación grave de los términos de uso por parte de un cuidador de casas</p><p>Y decido eliminar su cuenta</p><p>Entonces el cuidador de casas no puede acceder a la plataforma y su perfil se elimina permanentemente</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US12</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Monitoreo y seguridad de la plataforma</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HouseKeeper", quiero supervisar la seguridad y el funcionamiento de la plataforma para garantizar que los usuarios tengan una experiencia segura y confiable.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Detección de actividad sospechosa</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando identifico actividades sospechosas o potencialmente fraudulentas en la plataforma</p><p>Entonces puedo tomar medidas para investigar y abordar dichas actividades</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Actualización de medidas de seguridad</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando se implementan nuevas medidas de seguridad recomendadas</p><p>Entonces actualizo la plataforma y las políticas de seguridad en consecuencia</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US13</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Comunicación con usuarios y cuidadores</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HousseKeeper", quiero poder comunicarme con usuarios y cuidadores de casas para proporcionar actualizaciones, noticias y notificaciones importantes.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Envío de notificaciones importantes</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando necesito enviar notificaciones importantes a todos los usuarios o cuidadores</p><p>Entonces puedo redactar y enviar notificaciones que se mostrarán en la aplicación</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Responder a preguntas y consultas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando recibo preguntas o consultas de usuarios o cuidadores</p><p>Entonces puedo responder a esas preguntas y proporcionar información o asistencia relevante</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US14</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Generación de informes y estadísticas</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HousseKeeper", quiero generar informes y estadísticas sobre el uso de la plataforma para evaluar su rendimiento y tomar decisiones informadas.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Generación de informe de actividad</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando genero un informe de actividad que incluye datos como registros de usuarios, reservas y tareas completadas</p><p>Entonces puedo descargar el informe en formato Excel o PDF</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Visualización de estadísticas de uso</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando accedo a la sección de estadísticas de uso</p><p>Entonces puedo ver gráficos y resúmenes de estadísticas clave sobre el uso de la plataforma</p></td></tr></tbody></table>
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US15</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Owner</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Leonardo Ferreyra</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Título US:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Auditoría de actividades de los cuidadores</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Puntos de Estimación:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>4</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint:</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>3</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Descripción US</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4">Como administrador de "HousseKeeper", quiero realizar auditorías periódicas de las actividades de los cuidadores de casas para garantizar la calidad de los servicios proporcionados y la seguridad de los usuarios.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><strong>Criterio de Aceptación</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°1</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Revisión de registros de tareas de un cuidador</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando selecciono un cuidador de casas para revisión</p><p>Y accedo a su registro de tareas</p><p>Entonces puedo verificar si todas las tareas se realizaron según lo acordado en las reservas anteriores</p></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Escenario N°2</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="3"><strong>Evaluación de revisiones y calificaciones de usuarios</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="4"><p>Dado que estoy en la aplicación de administrador</p><p>Cuando reviso las calificaciones y revisiones recibidas por un cuidador de casas</p><p>Entonces puedo tomar medidas si se identifican patrones de calificaciones negativas o revisiones insatisfactorias</p></td></tr></tbody></table>
+
 ### Impact Mapping
 
+![Impact Map-Andres](https://drive.google.com/uc?export=view&id=1ginJ74DzCgZG-Wr3NBJdjHYSo2xaIDoq)
+
 ### Product Backlog
+
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"># Orden</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">User Story Id</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Story Points</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US01</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder buscar un cuidador de casas cercano a mi ubicación para asegurarme de que esté disponible y dispuesto a cuidar de mi casa.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US02</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder reservar a un cuidador de casas después de revisar su perfil y confirmar que cumple con mis necesidades.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US03</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder comunicarme fácilmente con el cuidador de casas que he reservado para discutir detalles y proporcionar instrucciones específicas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US04</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder ver un registro de las tareas realizadas por el cuidador de casas durante mi ausencia para asegurarme de que todo se haya hecho según lo acordado.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US05</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder calificar y dejar una revisión para el cuidador de casas después de mi experiencia para ayudar a otros usuarios a tomar decisiones informadas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US06</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder gestionar las notificaciones de la aplicación para personalizar mi experiencia y recibir solo la información importante.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US07</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como usuario de "HouseKeeper", quiero poder recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US08</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HouseKeeper", quiero poder registrar a nuevos cuidadores de casas en la plataforma para que estén disponibles para los usuarios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US09</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HouseKeeper", quiero poder editar y gestionar los perfiles de los cuidadores de casas en la plataforma para garantizar la calidad y la integridad de la información.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US10</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HouseKeeper", quiero revisar y gestionar las reservas y solicitudes realizadas por los usuarios y cuidadores de casas en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US11</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HouseKeeper", quiero poder gestionar las cuentas de usuarios y cuidadores de casas, incluyendo la suspensión o eliminación de cuentas en caso de violaciones de términos de uso.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US12</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HouseKeeper", quiero supervisar la seguridad y el funcionamiento de la plataforma para garantizar que los usuarios tengan una experiencia segura y confiable.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US13</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HousseKeeper", quiero poder comunicarme con usuarios y cuidadores de casas para proporcionar actualizaciones, noticias y notificaciones importantes.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US14</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HousseKeeper", quiero generar informes y estadísticas sobre el uso de la plataforma para evaluar su rendimiento y tomar decisiones informadas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">15</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>US15</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Como administrador de "HousseKeeper", quiero realizar auditorías periódicas de las actividades de los cuidadores de casas para garantizar la calidad de los servicios proporcionados y la seguridad de los usuarios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td></tr></tbody></table>
 
 # Capítulo IV: Product Design
 
 ## Style Guidelines
-
 ### General Style Guidelines
+
+En esta sección, definiremos los colores y fuentes que se aplicarán de manera consistente tanto en la página de inicio como en la futura aplicación web que estamos desarrollando. Hemos optado por seguir las pautas del IBM Design Language como nuestro enfoque de diseño. Para nuestra paleta de colores, hemos elegido un tono de celeste, que aporta un toque de elegancia y seriedad. 
+
+
+La fuente principal que hemos elegido es "Century Gothic" para nuestro proyecto. Utilizamos "Century Gothic" en diversas variaciones para los encabezados, subtítulos y párrafos en nuestra aplicación web, con el objetivo de lograr un aspecto limpio y moderno en nuestros textos.
+"Century Gothic" se caracteriza por su estilo contemporáneo y su legibilidad, lo que la convierte en una elección sólida para proyectos que buscan una tipografía bien diseñada. Esta fuente es ampliamente conocida por su apariencia moderna y versátil, lo que la hace adecuada para aplicaciones que requieren una estética actual y profesional.
+
+![Imgur](https://i.imgur.com/CpAveVa.png)
 
 ### Web Style Guidelines
 
+Dimensiones (pueden ser modificadas en futuro):
+Para desarrollar tanto el landing page como la aplicación web tendremos en cuenta las dimensiones estándar.
+•    Escritorio: 1280 px (ancho)
+•   Tablet: 760 px (ancho)
+•    Celular: 480 px (ancho)
+Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el contenido a mostrar
+Navegación:
+
+![Imgur](https://i.imgur.com/eJtFS9D.png)
+
+La  navegación  a  utilizar  será  implementada  con  un  enfoque  minimalista  en  donde  para resaltar la sección actual se usará un color dorado en el nombre de la sección.
+Iconos:
+
+![Imgur](https://i.imgur.com/sgasaIh.png)
+
+Estos son los iconos que usaremos para el footer del landing page.
+
 ## Information Architecture
 
+Se estableció que la aplicación debe tener una apariencia minimalista y fácil de entender. Por eso, en esta sección del informe nos encargaremos de mejorar la satisfacción de los usuarios en los siguientes puntos: Organization System, Labeling System, Searching System y Navigation System.
+
 ### Organization Systems
+ En el  sistema de información aplicaremos la organización visual de forma jerárquica, secuencial y matricial.
+##### Forma jerárquica
+Esta forma de organización será implementada el menu del landing page donde tambien aparecera una opcion para que pueda logearse el usuario 
+
+También esta forma de organización será implementada en la pantalla principal del usuario, en los servicios que son ofrecidos, como en los "nombres”, "horarios" y si tienen alguna regla que cumplir, estos serán más visibles que las "características".
+##### 1.  Organización secuencial
+La organización secuencia se aplicará para HousseKeeper en la sección de reservas o viajes , así como el de reserva de servicios.
+##### 2.  Organización matricial.
+La organización matricial se incluirá en HousseKeeper con la organización de la lista de destinos donde el usuario puedo ir. 
+##### 3.  Esquemas de organización:
+En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso  será  para segmento Keeper y traveler.
+
 
 ### Labeling Systems
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>HouseeKeeper</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;">HouseeKeeper</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">My Account</td>
+      <td style="text-align:center;">Apartado donde se podrá ver la cuenta, editar su configuración y datos.</td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+      <tr>
+      <td colspan="2" style="text-align:center;">Tipo de usuario </td>
+      <td style="text-align:center;">Apartado donde el usuario podra elegir ser keeper o traveler. </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Cerrar Sesion </td>
+      <td style="text-align:center;">Apartado en dónde se podrá cerrar la sesión de usuario.</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">My Providers </td>
+      <td style="text-align:center;">Apartado donde se pueden observar y contactar los proveedores de software.</td>
+    </tr>
+     <tr>
+      <td colspan="2" style="text-align:center;">User 01</td>
+      <td style="text-align:center;">Avatar que representa al usuario de cualquier segmento.</td>
+    </tr>
+  </tbody>
+</table>
 ### SEO Tags and Meta Tags
 
+Se establecieron los siguientes SEO Tags and Meta Tags para nuestra aplicación web:
+Meta title: HousseKeeper.com - Hotel Management Software
+Meta Description: Empieza a viejar sin preocupacion de seguridad de tu caso y tus mascotas.
+Meta Date: [Fecha de lanzamiento] 
+Meta Keywords: HousseKeeper,HouseKeeper app, HouseKeeper web.
+Meta Autor: HousseKeeper - Service for your house 
+
+
 ### Searching Systems
+Se implementarán sistemas de búsqueda para facilitar la navegación de los usuarios por nuestra aplicación.
+
+Se tipos de sistema de búsquedas en la aplicación: barras de búsqueda o filtros.
 
 ### Navigation Systems
+Los sistemas de navegación que se implementaran en la aplicación son los siguientes: 
+●	Navegación estática de escritorio: Mediante esta navegación el usuario podrá volver con facilidad al punto de inicio de la aplicación.
+
 
 ## Landing Page UI Design
-
 ### Landing Page Wireframe
+![Imgur](https://i.imgur.com/p4I48gE.png)
+
+<p>Home:</p>
+
+![Imgur](https://i.imgur.com/iFDT3pC.png)
 
 ### Landing Page Mock-up
 
-## Web Applications UX/UI Design
+Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuenta diversas pautas y principios de diseño, con el objetivo de facilitar y hacer más intuitiva la experiencia de ingreso de los usuarios a la aplicación web.
 
-### Web Applications Wireframes
+![Imgur](https://i.imgur.com/sO5B5Yf.png)
+
+![Imgur](https://i.imgur.com/HtcXWa0.png)
+
+![Imgur](https://i.imgur.com/ZTmGtd7.png)
+
+![Imgur](https://i.imgur.com/4AKf9K1.png)
+
+![Imgur](https://i.imgur.com/VR8vM6v.png)
+
+Link:https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=ucdn9pUSuBulmrMj-0 
+
+## Web Applications UX/UI Design
+En la elaboración se consideraron los principios de diseño presentado en los puntos anteriores. Además, se respetó la arquitectura de la información propuesta. A continuación, se presentará la propuesta en la versión desktop y mobile.
 
 ### Web Applications Wireflow Diagrams
 
+Wireflow HousseKeeper:
+User Goal #1:
+Como usuario quiero iniciar sesión para visualizar los servicios que brinda como Keeper y traveler.
+
+User Goal #2:
+Como usuario quiero visualizar el mapa de la casa para conocer bien los espacios.
+
+User Goal #3
+Como usuario quiero disponer de un botón de emergencias en caso tenga que conectarse mutuamente entre keeper y traveler.
+
 ### Web Applications Mock-ups
+Iniciar sesión-Manager
+
+![Imgur](https://i.imgur.com/XCcOHL8.png)
+
+
+Elegir Plan-Manager
+
+![Imgur](https://i.imgur.com/VR8vM6v.png)
+
+
+Crear cuenta-Manager
+
+![Imgur](https://i.imgur.com/DEQdbfq.png)
 
 ### Web Applications User Flow Diagrams
+Como manger quiero que los usuarios puedan crear su cuenta con normalidad 
+![Imgur](https://i.imgur.com/FIqDnDm.png)
 
+
+![Imgur](https://i.imgur.com/DrvvzNv.png)
 ## Web Applications Prototyping
 
-## Domain-Driven Software Architecture
 
+## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
 
 En este apartado se muestra las entidades que trabajan con la aplicación.
@@ -693,34 +922,212 @@ Clase comentario:
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## Software Configuration Management
+A lo largo del proyecto, utilizaremos diferentes herramientas de trabajo que nos ayudarán a realizar los trabajos de la mejor manera.
 
 ### Software Development Environment Configuration
 
+En la sección de Software Development Environment configuration se definirán las aplicaciones que se utilizarán para el desarrollo de nuestro proyecto
+Structurizr y LucidChart: Aplicacion web que se utilizara para la creacion del modelo C4, incluye diagrama de contexto, contenedores y componentes. Se puede acceder a través de: (link) <br>
+Figma: Aplicación web que se utilizara para la creación de los Wireframes y Mockups, de la misma manera realizaremos los prototipos de nuestra aplicación. Se puede acceder a través de: https://www.figma.com/ <br>
+Vertabelo: Aplicación web que se utilizará para el modelamiento de nuestra base de datos, entidades y relaciones. Se puede acceder a través de: https://vertabelo.com/ <br>
+WebStorm: IDE que se utilizará para el desarrollo de nuestra Landing Page y FrontEnd de nuestra aplicación. Podemos acceder a través de: https://www.jetbrains.com/es-es/webstorm/download/ <br>
+GitHub: Aplicación que utilizaremos para el control de versiones de proyecto. Se puede acceder a través de: https://github.com/ 
+Angular:
 ### Source Code Management
+
+Se estableció GitHub como sistema de control de versiones para nuestro proyecto.
+Se crearon los siguientes repositorios dentro de nuestra organización en GitHub.
+Repositorio de LandingPage: (https://github.com/HousseKeeper-SW54-Grupo4/Landing-Page)<br>
+Repositorio de Front-End: (https://github.com/HousseKeeper-SW54-Grupo4/Front-End)<br>
+Repositorio de Back-End: (https://github.com/HousseKeeper-SW54-Grupo4/Back-End)  <br>
+Se trabajará bajo la metodología Git Flow ya que nos permitirá trabajar de la manera mas eficiente para el trabajo colaborativo. <br>
+Con respecto a la metodología de trabajo Git Flow, se utilizarán las siguientes ramas: <br>
+Main: En esta rama estará alojada la versión completa de cada entrega de nuestro proyecto, esta rama no contará con errores en su ejecución y será la versión que estará desplegada en la web.<br>
+Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación se encontrara en Project-Report. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop.<br>
 
 ### Source Code Style Guide & Conventions
 
-### Software Deployment Configuration
+Para desarrollar nuestro proyecto, utilizamos ciertos estilos de código y convenciones de diversas tecnologías internacionales. Con lo establecido, se busca un desarrollo estandarizado y fácil de comprender.
+TECNOLOGÍAS<br>
+Utilizaremos las siguientes tecnologías en nuestro Software Development Environment<br>
+LandingPage: HTML, CSS y Javascript<br>
+Front-end: Angular <br>
+Back-end: JAVA ,Spring boot<br>
+Base de datos: MySQL<br>
+HERRAMIENTAS<br>
+Utilizaremos las siguientes herramientas en nuestro Software Development Environment<br>
+Figma<br>
+Vertabelo<br>
+WebStorm<br>
+GitHub<br>
+CONVENCIONES DE TECNOLOGÍA<br>
+Los unit test se escribirán con el lenguaje Gherkin así como sus convenciones gherkin (Gherkin Conventions for Readable Specifications). 
+El repositorio en GitHub se trabajará con la metodología GitFlow. De esta manera, se estarán trabajando las convenciones ,se usarán Conventional Commits para los commits <br>
+Para el trabajo con Angular se utilizarán las convenciones de Angular Style Guide. Estas convenciones se pueden revisar desde: https://angular.io/guide/styleguide<br>
+Para el uso de Java y ASP.NET se utilizaran las convenciones de “Java Coding Conventions” y “Spring boot”. Estas convenciones se pueden revisar desde: https://spring.io/guides#topicals   https://www.w3schools.com/java/
 
+### Software Deployment Configuration
+En esta sección se mencionan los métodos realizados para el despliegue de nuestros proyectos realizados:<br>
+Landing Page:<br>
+<img src="https://i.imgur.com/7plIYh4.png"   width="30%" height="30%"> <img src="https://i.imgur.com/hVzdHT5.png"   width="30%" height="30%"><br>
+
+Algun metodo de despliegue puede ser Netlify o Github Pages para realizar el despliegue de nuestra Landing Page
+
+
+ 
 ## Landing Page, Services & Applications Implementation
 
 ### Sprint 1
 
 #### Sprint Planning 1
 
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2023-09-05</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3:00 PM</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Discord</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Christian Zeta</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees (to planning meeting)</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Leonardo Ferreyra, Alonso Robles, Leonardo Patrocinio</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la funcionalidad esencial de "HousseKeeper" que permite a los usuarios buscar cuidadores cercanos, reservar cuidadores, comunicarse con ellos y acceder a la plataforma de manera segura.</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>30</strong></td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>28</strong></td></tr></tbody></table>
+
 #### Sprint Backlog 1
 
+<table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 1</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status(To-do/In-Process/To-review/Done)</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Búsqueda de un cuidador de casas cercano</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Visualización de cuidadores cercanos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función para que los usuarios vean cuidadores cercanos en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Christian Zeta,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>No se encuentran cuidadores cercanos</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Mostrar un mensaje cuando no haya cuidadores disponibles en la ubicación del usuario.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US02</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Reserva de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Calificación del cuidador</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los usuarios calificar y dejar comentarios sobre la experiencia con un cuidador de casas después de una reserva.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Alonso Robles</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Rechazo de reserva por el cuidador</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permite a un cuidador rechazar una solicitud de reserva de un usuario si no puede aceptarla por algún motivo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1,5d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Christian Zeta,</p><p>Alonso Robles</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US03</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Comunicación con el cuidador</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T5</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Comunicación con el cuidador</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los usuarios enviar mensajes al cuidador</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T6</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Recepción de mensajes del cuidador</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir a los usuarios recibir mensajes del cuidador</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Registro de cuidadores de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T7</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Registro exitoso de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar el proceso que permite a un cuidador registrarse con éxito en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Christian Zeta,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T8</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Registro fallido de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar el proceso que evita que un cuidador complete el registro si falta información obligatoria o si hay un error.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Alonso Robles</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US09</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de perfiles de cuidadores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Edición de perfil de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permite a un cuidador de casas editar y actualizar su perfil en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Bloqueo de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir bloquear a un cuidador si viola las políticas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Revisión de reservas y solicitudes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de solicitudes de reserva pendientes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar y aprobar o rechazar solicitudes de reserva pendientes.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de reservas y registros de tareas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar las reservas pasadas y los registros de tareas completadas por los cuidadores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2,5d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Monitoreo y seguridad de la plataforma</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Detección de actividad sospechosa</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Identificar y tomar medidas frente a actividades sospechosas en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Christian Zeta,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Actualización de medidas de seguridad</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Mantener y mejorar las medidas de seguridad de la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1,5d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Ferreyra,</p><p>Alonso Robles</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr></tbody></table>
+
 #### Development Evidence for Sprint Review
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Commit id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (date)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>365f22d8993825b4fd7792f59bdda0fb5d32c554</td>
+    <td>Update README.md</td>
+    <td>-</td>
+    <td>04/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>92ef5311b4a8e84f6662bbf8aca9ab9e5e5ad843</td>
+    <td>Creación de proyecto</td>
+    <td>-</td>
+    <td>04/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>024071a1d867dde04b19cfb1f701483f6425da9c</td>
+    <td>Add content</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>48ac9b1952f433d9f85819a43a9286d2755f6931</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HousseKeeper-SW54-Grupo4/Project-Report">https://github.com/HousseKeeper-SW54-Grupo4/Project-Report</a></td>
+    <td>19cc17275ab6c2c9fafe2233226dd3b31daaf5b8</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>357e876ae984c47b907dec79cae7f054acb9c13f</td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>5feba0c1beabed057084f0cd95955b864ad16cd1</td>
+    <td>Update README.md</td>
+    <td>-</td>
+    <td>05/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3ffdf77780abf5a6e2f21ac76fb2dc3c4ab33ad1</td>
+    <td>Sprint Backlog</td>
+    <td>-</td>
+    <td>06/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>bbc6f0a665b8129fbc99115a5f58f5c3916577f6</td>
+    <td>Sprint Planning README.md</td>
+    <td>-</td>
+    <td>06/09/2023</td>
+  </tr>
+</table>
+
 
 #### Testing Suite Evidence for Sprint Review
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
+
+Para el Sprint 1, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la Landing Page. Las pruebas incluyeron:
+
+- **Pruebas de rendimiento:** Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
+
+- **Pruebas de compatibilidad:** Se verificó que la Landing Page fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
+
+- **Pruebas de funcionalidad:** Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
+
+- **Pruebas de respuesta móvil:** Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+
+- **Pruebas de usabilidad:** Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+
+
+El siguiente escenario se refiere a la comunicación con el cuidador:
+
+Dado que tengo una reserva confirmada
+Cuando hago clic en "Iniciar Conversación" con el cuidador
+Entonces puedo enviar mensajes al cuidador en tiempo real
+Y el cuidador recibe notificaciones de nuevos mensajes.
 
 #### Execution Evidence for Sprint Review
+Aquí mostraremos todas las secciones que conforman la Landing page que hemos implementado durante el sprint.
+Durante el Sprint 1, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Landing Page:** El equipo de desarrollo trabajó en la creación y diseño de la Landing Page, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 1 de la Landing Page.
+https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=4gWRIeNbSZF2RAEi-0 
 
 #### Services Documentation Evidence for Sprint Review
 
+Para alcanzar exitosamente los objetivos de este Sprint 1 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
+Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
+https://angular.io/guide/styleguide <br>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
+https://www.jetbrains.com/es-es/webstorm/learn/ <br>
+
+
 #### Software Deployment Evidence for Sprint Review
 
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo.
+En esta entrega se usaron las tecnologías:<br>
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la landing page.<br>
+CSS: Lenguaje que no ayudó con el apartado visual de la landing page.<br>
+El software usado para el desarrollo de la landing page fue:<br>
+Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la landing page.<br>
+GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
+GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
+
+
 #### Team Collaboration Insights during Sprint
+Los objetivos fueron exitosamente alcanzados para el Sprint 1 de la landing page. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
+Commits:
+
 
 ## Validation Interviews
 
