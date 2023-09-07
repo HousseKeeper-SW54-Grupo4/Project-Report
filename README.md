@@ -473,7 +473,7 @@ La estrategia de nuestra startup HousseKeeper debe centrarse en aprovechar sus f
   4. Mejora continua del servicio al cliente: Nuestra startup puede enfocarse en proporcionar un servicio al cliente excepcional para mejorar la satisfacción del cliente y aumentar la lealtad a la marca.
   5. Alianzas estratégicas: Nuestra startup puede formar alianzas estratégicas con otras empresas en la industria, como agencias de viajes, compañías de transporte, servicios de comida y bebida, para ofrecer servicios complementarios y	aumentar	su	alcance.
      
-## Entrevistas []
+## Entrevistas 
 
 ### Diseño de entrevistas
 
@@ -537,11 +537,11 @@ Entrevista joven:
 
 ### Análisis de entrevistas 
 
-**Adulto: **
+**Adulto:**
 Nuestro entrevistado nos comenta que actualmente vive en Brasil-Sao Paulo, pero antes vivía en Perú. El usuario usa con más frecuencia su celular y no es de viajar mucho, pero siempre tiene problemas para poder ver quién cuida sus gatos cuando se va por mucho tiempo. Algunas veces los deja en casa de su amiga, ya que tiene confianza con ella. Le gustaría tener una app donde conseguir personas de confianza para que cuiden de sus mascotas cuando él no está.
 
 
-**Jóven: **
+**Jóven:**
 El entrevistado que actualmente vive en el distrito de Miraflores en el Perú considera que sus habilidades son las matemáticas y el dibujo, y prefiere usar el celular como dispositivo. Le gusta realizar viajes, pero últimamente se ha sentido frustrado porque no pudo viajar este año, solo ha viajado una vez al extranjero y ha notado las dificultades financieras en los viajes. Ha tenido que hospedarse en hostales o en hoteles más económicos debido a que algunos hoteles eran demasiado caros. 
 
 También menciona que le gustaría viajar unas tres veces al año. Recientemente, le dejaron a cargo de una casa durante una semana y comenta que fue complicado manejar el tema de la comida y el cuidado de las mascotas. Sin embargo, considera justo que a cambio de viajar gratis tenga que cuidar la casa de otra persona siguiendo sus normas y cubriendo los gastos de comida. 
