@@ -775,13 +775,17 @@ Hemos elaborado un prototipo completo de la página de inicio, teniendo en cuent
 
 ![Imgur](https://i.imgur.com/sO5B5Yf.png)
 
-![Imgur](https://i.imgur.com/HtcXWa0.png)
+![Imgur](https://i.imgur.com/SmHdwef.png)
 
 ![Imgur](https://i.imgur.com/ZTmGtd7.png)
 
-![Imgur](https://i.imgur.com/4AKf9K1.png)
+![Imgur](https://i.imgur.com/zPrPkKf.png)
+
+![Imgur](https://i.imgur.com/LTXLISu.png)
 
 ![Imgur](https://i.imgur.com/VR8vM6v.png)
+
+![Imgur](https://i.imgur.com/sBPjxpL.png)
 
 Link:https://www.figma.com/file/76Sn1qCqy6OkT9WnWNixcf/Untitled?type=design&node-id=0-1&mode=design&t=ucdn9pUSuBulmrMj-0 
 
