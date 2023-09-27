@@ -1147,6 +1147,146 @@ Commits:
 <table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status(To-do/In-Process/To-review/Done)</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US09</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de perfiles de cuidadores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Edición de perfil de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permite a un cuidador de casas editar y actualizar su perfil en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Bloqueo de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir bloquear a un cuidador si viola las políticas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
 </tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Revisión de reservas y solicitudes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de solicitudes de reserva pendientes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar y aprobar o rechazar solicitudes de reserva pendientes.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de reservas y registros de tareas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar las reservas pasadas y los registros de tareas completadas por los cuidadores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2,5d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Proccess</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de usuarios y dueños</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Suspensión temporal de una cuenta de usuario</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a ambos sector dar por suspendido su cuenta.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Eliminación de una cuenta de cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir al keeper eliminar su cuenta en caso considere necesario.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Visualización del registro de tareas realizadas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T15</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Visualización del registro de tareas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita mostrar las tareas hechas por el keeper</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Filtro de tareas en el registro</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir filtrar las tareas de acuerdo a lo que el usuario desee </td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr></tbody></table>
 
+## Development Evidence for Sprint 2 Review.
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Commit id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (date)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Update README.md</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Creación de proyecto</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Add content</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HousseKeeper-SW54-Grupo4/Project-Report">https://github.com/HousseKeeper-SW54-Grupo4/Project-Report</a></td>
+    <td></td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Update document</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Update README.md</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3ffdf77780abf5a6e2f21ac76fb2dc3c4ab33ad1</td>
+    <td>Sprint Backlog</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>bbc6f0a665b8129fbc99115a5f58f5c3916577f6</td>
+    <td>Sprint Planning README.md</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+</table>
+
+## Testing Suite Evidence for Sprint 2 Review.
+
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
+
+Para el Sprint 2, se llevó a cabo un conjunto de pruebas exhaustivas para garantizar la calidad y el funcionamiento adecuado de la página web. Las pruebas incluyeron:
+
+- **Pruebas de rendimiento:** Se realizaron pruebas de rendimiento para asegurarse de que la página se cargue rápidamente y responda de manera eficiente a las interacciones del usuario.
+
+- **Pruebas de compatibilidad:** Se verificó que la página web fuera compatible con varios navegadores web, como Chrome, Firefox, Edge y Safari, para garantizar una experiencia consistente para todos los usuarios.
+
+- **Pruebas de funcionalidad:** Se probaron todas las funcionalidades de la página, como los formularios de contacto, los encabezados, las secciones y el pie de página, para asegurarse de que funcionaran según lo previsto.
+
+- **Pruebas de respuesta móvil:** Se verificó que la página fuera completamente receptiva y se adaptara correctamente a diferentes dispositivos, incluidos teléfonos móviles y tabletas.
+
+- **Pruebas de usabilidad:** Se llevaron a cabo pruebas de usabilidad para evaluar la facilidad de navegación y la experiencia del usuario en la Landing Page.
+
+El siguiente escenario se refiere a la comunicación con el cuidador:
+
+Dado que tengo una reserva confirmada
+Cuando hago clic en "Iniciar Conversación" con el dueño
+Entonces puedo enviar mensajes al cuidador en tiempo real
+Y el cuidador recibe notificaciones de nuevos mensajes.
+
+## Execution Evidence for Sprint 2 Review.
+
+Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
+Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
+
+1. **Desarrollo de la Página Web:** El equipo de desarrollo trabajó en la creación y diseño de la página web, implementando las características y funcionalidades requeridas según las User Stories definidas para este sprint.
+
+2. **Control de versiones:** Se utilizó Git como sistema de control de versiones para colaborar en el desarrollo y realizar un seguimiento de los cambios realizados en el código.
+
+3. **Configuración del entorno de desarrollo:** Se configuraron las herramientas necesarias, como WebStorm, para facilitar el desarrollo en TypeScript.
+
+4. **Almacenamiento del proyecto en GitHub:** Se creó un repositorio en GitHub para almacenar el proyecto en la nube y permitir la colaboración entre los miembros del equipo.
+
+5. **Realización de commits:** Se utilizaron GitHub Desktop y Git para realizar commits y mantener un historial de versiones del proyecto.
+
+Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 2 de la página web.
+
+## Services Documentation Evidence for Sprint 2 Review.
+
+Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
+Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
+Angular: Angular se desarrolla principalmente utilizando TypeScript, que es un superconjunto tipado de JavaScript. TypeScript agrega un sistema de tipos estáticos al lenguaje, lo que ayuda a detectar errores en tiempo de compilación y proporciona un mejor soporte para herramientas de desarrollo.<br>
+https://angular.io/guide/styleguide <br>
+WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
+https://www.jetbrains.com/es-es/webstorm/learn/ <br>
+
+## Software Deployment Evidence for Sprint 2 Review.
+
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo.
+En esta entrega se usaron las tecnologías:<br>
+HTML: Es un lenguaje de marcado de Hipertexto el cual nos ayudó a la maquetación de la página web.<br>
+CSS: Lenguaje que no ayudó con el apartado visual de la página web.<br>
+El software usado para el desarrollo de la página web fue:<br>
+Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo para el desarrollo de la página web.<br>
+GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
+GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
+
+## Team Collaboration Insights during Sprint 2.
+
+Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
+Commits:
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
@@ -1161,8 +1301,25 @@ Commits:
 
 ## Conclusiones y recomendaciones
 
+●	HouseKeeper ofrece una solución integral para el cuidado de casas durante los viajes,conectando a propietarios con cuidadores confiables y brindando beneficios tanto para los propietarios como para los viajeros. La plataforma en línea y enfoque en la confianza y seguridad la convierten en una opción atractiva para aquellos que necesitan cuidado de casas y aquellos que buscan oportunidades de alojamiento económico durante sus viajes.<br>
+●	El startup "HousseKeeper" busca proporcionar una solución innovadora y exitosa al ofrecer un intercambio mutuamente beneficioso entre los propietarios de las casas y los cuidadores de casas voluntarios.<br>
+●	Desarrollamos pautas de diseño coherentes para garantizar una experiencia de usuario uniforme y atractiva. Esto incluyó la elección de colores, tipografía y elementos de diseño que se alinean con la identidad de nuestra marca.<br>
+●	Diseñamos una arquitectura de información lógica y una navegación intuitiva dentro de la plataforma.<br>
+●	Utilizamos herramientas de control de versiones para gestionar eficazmente el desarrollo de software y garantizar que todos los miembros del equipo estén sincronizados.<br>
+●	La integración de Angular Material facilita la creación de interfaces de usuario atractivas y coherentes.<br>
+●	Las características como el enlace de datos bidireccional, el enrutamiento y la inyección de dependencias hacen que Angular sea una elección poderosa para el desarrollo de aplicaciones web.<br>
+
 ## Video About-the-Team
 
 # Bibliografía
 
+●	TRUSTEDHOUSESITTERS. (S.F.). TRUSTED HOUSESITTERS. RECUPERADO EL 1 DE JULIO DE 2023, DE HTTPS://WWW.TRUSTEDHOUSESITTERS.COM/ <br>
+●	 HOUSESITTER.COM. (S.F.). HOUSE SITTERS & HOUSE SITTING JOBS. RECUPERADO EL 1 DE JULIO DE 2023, DE HTTPS://WWW.HOUSESITTER.COM/ <br>
+●	 GOTHELF, J., & SEIDEN, J. (2013). LEAN UX: APPLYING LEAN PRINCIPLES TO IMPROVE USER EXPERIENCE. O'REILLY MEDIA. HTTPS://WWW.OREILLY.COM/LIBRARY/VIEW/LEANUX/9781449366834/INDEX.HTML 
+
 # Anexos
+
+<b>Exposiciones del equipo</b>
+HTTPS://DRIVE.GOOGLE.COM/DRIVE/FOLDERS/1EVRHVCKIFD-9UVQF17LEIN6J2LCQQ_U2?USP=SHARING <br>
+<b>Artefactos de trabajo</b>
+HTTPS://GITHUB.COM/HOUSSEKEEPER-SW54-GRUPO4/PROJECT-REPORT/EDIT/MAIN/README.MD 
