@@ -1159,64 +1159,57 @@ Commits:
   </tr>
   <tr>
     <td></td>
+    <td>3bd58d3b7490f597f637b30bc746256c397bfbfd</td>
+    <td>Update user-stories.md</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
     <td></td>
+    <td>4824811616055971ec80a60a22b925b998579be2</td>
+    <td>Merge pull request</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>56924a87b571649c3e1cf578cae57000a447da94</td>
     <td>Update README.md</td>
     <td>-</td>
     <td>26/09/2023</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
-    <td>Creación de proyecto</td>
-    <td>-</td>
-    <td>26/09/2023</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Add content</td>
-    <td>-</td>
-    <td>26/09/2023</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Update document</td>
+    <td>5d3b353e22f821a833fcf881bb967d410e1647c9</td>
+    <td>Update README.md</td>
     <td>-</td>
     <td>26/09/2023</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HousseKeeper-SW54-Grupo4/Project-Report">https://github.com/HousseKeeper-SW54-Grupo4/Project-Report</a></td>
-    <td></td>
-    <td>Update document</td>
-    <td>-</td>
-    <td>26/09/2023</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Update document</td>
-    <td>-</td>
-    <td>26/09/2023</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+    <td>099df42259a06ccc41e4ef833813df24bdd5b3a4</td>
     <td>Update README.md</td>
     <td>-</td>
     <td>26/09/2023</td>
   </tr>
   <tr>
     <td></td>
-    <td>3ffdf77780abf5a6e2f21ac76fb2dc3c4ab33ad1</td>
-    <td>Sprint Backlog</td>
+    <td>6b2eb5707a1a36b84247cb45df2630bc5f3e6d14</td>
+    <td>Update README.md</td>
     <td>-</td>
     <td>26/09/2023</td>
   </tr>
   <tr>
     <td></td>
-    <td>bbc6f0a665b8129fbc99115a5f58f5c3916577f6</td>
-    <td>Sprint Planning README.md</td>
+    <td>a5d4ab5fd9dfc0d7fee856c9f767063efa603bdb</td>
+    <td>Merge branch 'main' into Alonso-Robles</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>6c1ecdd344b577cf766f98aedc6c294cd03efba5</td>
+    <td>Update README.md</td>
     <td>-</td>
     <td>26/09/2023</td>
   </tr>
