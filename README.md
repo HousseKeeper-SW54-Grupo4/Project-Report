@@ -1280,6 +1280,134 @@ GitHub Desktop: Software de escritorio que nos permitió realizar los commits a 
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
 Commits:
 
+
+### 5.2.3. Sprint 3
+  
+#### 5.2.3.1. Sprint Planning 3.  
+| **Sprint 1** | |
+|:---: | :---| 
+| | **Sprint planning background** |   
+| Date | 2/10/23 |
+| Time | 08:00 PM |
+| Location | Google Meet - Virtual Meeting |
+| Prepared by | Christian Zeta |
+| Attendees to meeting | Leonardo Ferreyra, Alonso Robles, Leonardo Patrocinio |
+| Sprint 2 Review Summary | Se realizo el sprint 2, se mejoro el codigo y se trato de terminar el aspecto front-end de la aplicación |
+| Sprint 2 Retrospective Summary | Se trabajo fluidamente, participando todos por igual en la realización del proyecto, más en la opinión del grupo creemos que pudimos haber terminado más partes del front-end. |
+| | **Sprint Goal & User Stories** |
+| Sprint & Goal | El objetivo del Sprint 3 sera terminar Frontend de la applicación, asi como avanzar el back-end hasta un punto funcional que podamos completar el siguiente sprint. |
+| Sprint & Velocity | Debido al alcanze establecido para este sprint, el Velocity establecido para este sprint es 60. |
+| Sum of Story Point | La suma de Story points que el equipo estara desarrollano este sprint es 50. |
+
+#### 5.2.3.2. Sprint Backlog 3.
+--
+|     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                    |                   |                               |                      |
+|----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
+|     User   Story     |                                   |     Work –   Item/Task    |                                                                      |                                                                                    |                   |                               |                      |
+|     Id               |     Título                        |     Id                    |     Título                                                           |     Descripción                                                                    |     Estimación    |     Asignado   a              |     Estado           |
+| HU001-HU002          | Gestión de perfil                 |     WI01                  |     Edición de perfil de keeper                                      |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI02                  |     Edición de perfil de traveler                                    |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Christian Zeta               |     Completado       |
+| HU003-HU004          | Revisión de reservas y solicitudes|     WI03                  |     Pago para reserva de viaje                                       |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     4h            |  Leonardo Ferreyra            |     In process       |
+|                      |                                   |     WI04                  |     Visualizar las solicitudes de keepers                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Leonardo Patrocinio          |     Completado       |
+| HU005-HU007          | Búsqueda de keepers               |     WI05                  |     Búsqueda de keepers                                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     4h            |  Leonardo Patrocinio          |     Completado       |
+|                      |                                   |     WI06                  |     Filtrar por calificación                                         |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI07                  |     Filtrar por ubicación                                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Patrocinio          |     Completado       |
+| HU008-HU010          | Reserva de Servicios              |     WI08                  |     Solicitar un keeper                                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Christian Zeta               |     In process       |
+|                      |                                   |     WI09                  |     Visualizar la calificación del keeper                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI10                  |     Visualizar reseñas de los keepers                                |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+| HU011 - HU012        | Historial de reservas             |     WI11                  |     Realizar una reseña a los keepers                                |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Ferreyra            |     In process       |
+|                      |                                   |     WI12                  |     Cancelar solicitud de keeper                                     |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Ferreyra            |     In process       |
+| HU013 - HU014        | Comunicación con el traveller     |     WI13                  |     Comunicación con el traveller                                    |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Patrocinio          |     Completado       |
+
+#### 5.2.3.3. Development Evidence for Sprint Review.  
+Para este Sprint se desarrolló el Frontend de la plataforma.
+| **Repository**                                      | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
+|--------|----------|--------|-------|-------|--------|
+| https://github.com/HousseKeeper-SW54-Grupo4.git     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+  
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.  
+Acceptance Tests actualizados de los User Stories, archivos .feature   
+
+
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4.git  
+Link al video de ejecución: 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+Durante este sprint, nos enfocamos en completar el Front end y avanzar el backend
+
+![Imgur](https://i.imgur.com/lqBiY01.png)
+
+![Imgur](https://i.imgur.com/wGXZIhs.png)
+
+![Imgur](https://i.imgur.com/xlb7BIB.png)
+
+![Imgur](https://i.imgur.com/0qB2EU9.png)
+
+![Imgur](https://i.imgur.com/nITHq1T.png)
+
+![Imgur](https://i.imgur.com/EI0us4s.png)
+
+![Imgur](https://i.imgur.com/GJOgk3o.png)
+
+
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4.git  
+Link al video de ejecución: 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+**Introducion:**  
+En este tercer sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente 66 endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
+Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia del usuario, especialmente en áreas relacionadas con visualización de keepers pendientes, búsqueda de keepers y comunicación entre usuarios.
+
+**Tabla:**  
+
+|     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
+|---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://housseKeeper.web.app/keepers](https://housseKeeper.web.app/keepers)                      |
+|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://housseKeeper.web.app/viajes](https://housseKeeper.web.app/viajes)                        |
+|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://housseKeeper.web.app/keeperRequest](https://housseKeeper.web.app/keeperRequest)          |
+|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://housseKeeper.web.app/MensajesTraveller](https://housseKeeper.web.app/MensajesTraveller)  |
+|  /casas             |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://housseKeeper.web.app/casas ](https://housseKeeper.web.app/casas)                         |
+|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://housseKeeper.web.app/Mensajes](https://housseKeeper.web.app/Mensajes)                    |
+
+  
+Link del Repositorio de Web Services: [https://github.com/LuceroObispoRios/Grupo1_WS52/blob/main/carga-sin-estres/src/company-search/services/cargaSinEstres-api.service.js](https://github.com/LuceroObispoRios/Grupo1_WS52/blob/main/carga-sin-estres/src/company-search/services/cargaSinEstres-api.service.js)
+   
+
+**Captura de interaccion con datos de prueba**  
+
+ 
+*Visualizar solicitudes de keepers pendientes*  
+![servicios-ejemplos](https://i.imgur.com/ZWq7xEH.png)
+
+-*Visualiza la busqueda de keepers* 
+![servicios-ejemplos](https://i.imgur.com/m0VnHiq.png)
+  
+*Obtener el registro de chat de traveller*   
+![servicios-ejemplos](https://i.imgur.com/nszeMct.png)
+  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
+La aplicación desplegada se encuentra en el siguiente enlace  
+[https://](https://),   
+más para su correcto funcionamiento, se necesita desplegar el servidor json-server de nustro archivo db.json, en cual se encuentra en el siguiente enlace [https://github.com/HousseKeeper-SW54-Grupo4/Front-End/server/db.json](https://github.com/HousseKeeper-SW54-Grupo4/Front-End/server/db.json)   
+  
+#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Establecimos dos ramas principales: "main" para el informe final.Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
+
+
+GitFlow
+
+
+Contribuitors
+
+
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
