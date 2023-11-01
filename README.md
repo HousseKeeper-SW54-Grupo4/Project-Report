@@ -1410,11 +1410,156 @@ Contribuitors
 
 ## Validation Interviews
 
-### Diseño de Entrevistas
+### 5.3.1 Diseño de Entrevistas  
+**Segmento de dueños de casa**
+1. ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
 
-### Registro de Entrevistas
+2 ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
 
-### Evaluaciones según heurísticas
+3 ¿Hay alguna característica o herramienta que sientas que falta en HousseKeeper o que te gustaría ver en el futuro?
+
+4. ¿Crees que HousseKeeper proporciona suficiente información sobre los cuidadores de casas? ¿Existe alguna información adicional que consideres importante?
+
+5. ¿Has tenido alguna experiencia negativa o enfrentados desafíos al usar HousseKeeper? Por favor, descríbelos.
+
+6. ¿Consideras que la forma en que se buscan los cuidadores de casas en la plataforma es ágil y satisfactoria?
+
+7. ¿Qué opinas sobre la comunicación con los cuidadores a través de la función de chat? ¿Encuentras esta opción adecuada?
+
+8. ¿Qué recomendaciones o sugerencias nos darías para mejorar la experiencia de usuario en HousseKeeper y hacer la aplicación más fácil de usar?
+
+9. ¿Recomendarías HousseKeeper a otras personas que buscan servicios de cuidadores de casas? ¿Por qué?
+
+
+
+**Segmento de cuidadores de casa**
+1. ¿Qué opinas sobre la experiencia de navegación en HousseKeeper como persona que cuida casas?
+
+2. ¿Crees que la plataforma proporciona suficiente información para que los cuidadores comprendan las expectativas y funciones de la aplicación?
+
+3. ¿Qué tipo de información adicional te gustaría ver en las descripciones de las casas que cuidarás?
+
+4. ¿Consideras que los beneficios proporcionados por las membresías son útiles para las personas que cuidan casas?
+
+5. ¿Cómo crees que la función de historial de reservas podría mejorar tu capacidad para realizar un seguimiento y gestionar las casas que cuidas?
+
+6. ¿Piensas que la función de mensajería en HousseKeeper mejora la interacción entre los cuidadores y los dueños de las casas?
+
+7. ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
+
+8. ¿Qué otras funcionalidades te gustarían ver o crees que podrían mejorar en HousseKeeper en el futuro?
+
+9. ¿Recomendarías la plataforma HousseKeeper a otros cuidadores de casas? ¿Por qué?
+
+
+### 5.3.2 Registro  de Entrevistas   
+***Representantes de dueños de casa:***   
+1.  Primera entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador: 
+
+2. Segunda entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador:   
+
+
+3.Tercera entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador: 
+
+Resumen de entrevista 1:
+
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+
+***Representates de dueños de casa***  
+1.  Primera entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador: 
+
+2. Segunda entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador:   
+
+
+3.Tercera entrevista:
+Entrevistado: 
+Residencia: 
+Entrevistador: 
+  
+
+Resumen de entrevista 1:
+
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+00:00 - ¿  ?
+"          "
+
+### 5.3.3 Evaluaciones segúnn heurísticas  
+  
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
+
+**Site o App a evaluar**  
+HousseKeeper
+
+**Tareas a evaluar:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+
+  
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*  
+
+
+
+**Escala de severidad**  
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;">Nivel</th>
+            <th style="border: 1px solid black;">Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;">1</td>
+            <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<br>
+
+**Tabla de resumen** 
 
 ## Video About-the-Product
 
