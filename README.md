@@ -1709,3 +1709,10 @@ Enlace [https://www.youtube.com/watch?v=1Au336NiWrs]
 HTTPS://DRIVE.GOOGLE.COM/DRIVE/FOLDERS/1EVRHVCKIFD-9UVQF17LEIN6J2LCQQ_U2?USP=SHARING <br>
 <b>Artefactos de trabajo</b>
 HTTPS://GITHUB.COM/HOUSSEKEEPER-SW54-GRUPO4/PROJECT-REPORT/EDIT/MAIN/README.MD 
+
+<b>About-the-Team
+https://www.youtube.com/watch?v=1Au336NiWrs<br>
+
+
+<b>About-the-Product
+https://youtu.be/Kk7yEynpLvY<br>
