@@ -1520,12 +1520,22 @@ HousseKeeper
 
 **Tareas a evaluar:**  
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
-
+1. Inicio de sesión a la aplicación
+2. Edición de los datos de cuenta de keeper
+3. Edición de los datos de cuenta de traveller
+4. Cerrar Sesión en la aplicación
+5. Búsqueda de casas
+6. Filtrar casas por ubicación y nombre de la empresa
+7. Busqueda de keepers
+8. Mostrar el chat de keepers y travellers
+9. Visualizar viajes disponibles
+10. Visualizar reseña de empleados  
 
   
 *No están incluidas en esta versión de la evaluación las siguientes tareas:*  
-
-
+1. Reserva de un servicio de keeper
+2. Cancelación de una reserva de keeper
+3. Realizar una reseña a un keeper
 
 **Escala de severidad**  
 *Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
