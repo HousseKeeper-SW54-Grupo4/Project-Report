@@ -1533,9 +1533,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 7. Busqueda de keepers
 8. Mostrar el chat de keepers y travellers
 9. Visualizar viajes disponibles
-10. Visualizar reseña de empleados  
 
-  
 *No están incluidas en esta versión de la evaluación las siguientes tareas:*  
 1. Reserva de un servicio de keeper
 2. Cancelación de una reserva de keeper
@@ -1575,8 +1573,45 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 <br>
 
 **Tabla de resumen** 
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;">#</th>
+            <th style="border: 1px solid black;">Problema</th>
+            <th style="border: 1px solid black;">Escala de severidad (1/2/3/4)</th>
+            <th style="border: 1px solid black;">Heurísticas (1/2/3/4)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;">1</td>
+            <td style="border: 1px solid black;">Cuando se presiona el botón de “solicitar keeper”, no se sabe si ha generado correctamente la solicitud.</td>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Visibilidad del estado del sistema</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Desde la pagina traveler no funcionan las rutas “Inicio”, “Buscar Keeper”, “Mensajeria” y “Perfil” </td>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Usability: Correspondencia entre el sistema y el mundo real</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Faltan validaciones de datos para actualizar información de la cuenta</td>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Usability: Prevención de errores</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">El filtrado de busqueda de un keeper en la pagina principal no funciona</td>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Usability: Flexibilidad y eficiencia en el uso</td>
+        </tr>
+    </tbody>
+</table>
 
-## Video About-the-Product
+## 5.4 Video About-the-Product  
+
 
 # Conclusiones
 
