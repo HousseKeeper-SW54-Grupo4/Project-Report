@@ -1315,7 +1315,7 @@ Commits:
 | Sum of Story Point | La suma de Story points que el equipo estara desarrollano este sprint es 50. |
 
 #### Sprint Backlog 3
---
+
 |     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                    |                   |                               |                      |
 |----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
 |     User   Story     |                                   |     Work –   Item/Task    |                                                                      |                                                                                    |                   |                               |                      |
@@ -1458,6 +1458,7 @@ Contribuitors
 Entrevistado:   
 Residencia: Lima   
 Entrevistador: Christian Jose Zeta Valenzuela
+
 Enlace [https://youtu.be/LTq1RUBCFMQ]  
 
 Resumen de entrevista:  
@@ -1522,15 +1523,24 @@ Resumen de entrevista:
 "Creo buscar casa y mensajeria son importantes ya que cuando quiero buscar la casa ayuda mucho la comunicación"
 
 - Segunda entrevista:  
-Entrevistado:   
+Entrevistado: Cristian  
 Residencia: Lima   
-Entrevistador:
+Entrevistador: Alonso Robles
 
-Enlace []  
+Enlace [https://youtu.be/MFBxzlW_UsY]  
 
 Resumen de entrevista:  
-00:00 - ¿  ?
-"          "
+02:10 - ¿Qué opinas sobre la experiencia de navegación en HousseKeeper como persona que cuida casas?
+"Veo muy intuitiva y facil te utilizar la pagina"
+
+02:30 - ¿Crees que la plataforma proporciona suficiente información para que los cuidadores comprendan las expectativas y funciones de la aplicación?
+"Si, como ya dije es muy simple y trae lo justo para mostrar en nuestro trabajo"
+
+04:20 -  ¿Piensas que la función de mensajería en HousseKeeper mejora la interacción entre los cuidadores y los dueños de las casas? 
+"Si, como ya viamos en la mensajeria nos sirve para mantener la comunicación"
+
+04:30 - ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
+"Buscar casa ya que en esto nos enfocamos, se ve fácil de utilizar lo cual me facilitaria encontrar rapido"
 
 - Tercera entrevista:  
 Entrevistado:   
