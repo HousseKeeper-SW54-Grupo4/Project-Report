@@ -1351,7 +1351,6 @@ Acceptance Tests actualizados de los User Stories, archivos .feature
 
 
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
-Link al video de ejecución: 
 
 #### Execution Evidence for Sprint 3 Review  
 Durante este sprint, nos enfocamos en completar el Front end y avanzar el backend
@@ -1372,7 +1371,7 @@ Durante este sprint, nos enfocamos en completar el Front end y avanzar el backen
 
 
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
-Link al video de ejecución: 
+
 
 #### Services Documentation Evidence for Sprint 3 Review
 
