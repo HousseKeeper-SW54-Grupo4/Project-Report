@@ -1490,16 +1490,6 @@ Resumen de entrevista:
 "Para mejorar, sería genial si la aplicación me permitiera calificar las fotos que los cuidadores envían para saber más sobre lo que sucede en la casa"
 
 
-- Tercera entrevista:  
-Entrevistado:   
-Residencia: Lima   
-Entrevistador:
-
-Enlace []  
-
-Resumen de entrevista:  
-00:00 - ¿  ?
-"          "
 
 ***Representates de cuidadores de casa***  
 - Primera entrevista:  
@@ -1541,16 +1531,6 @@ Resumen de entrevista:
 
 04:30 - ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
 "Buscar casa ya que en esto nos enfocamos, se ve fácil de utilizar lo cual me facilitaria encontrar rapido"
-
-- Tercera entrevista:  
-Entrevistado:   
-Residencia: Lima   
-Entrevistador: 
-Enlace []  
-
-Resumen de entrevista:  
-00:00 - ¿  ?
-"          "
 
 ### Evaluaciones según heurísticas  
   
