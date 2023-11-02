@@ -1680,7 +1680,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ---
 
 ## Video About-the-Product  
-Enlace [https://www.youtube.com/watch?v=1Au336NiWrs] 
+Enlace [https://www.youtube.com/watch?v=Kk7yEynpLvY] 
 
 # Conclusiones
 
@@ -1695,6 +1695,7 @@ Enlace [https://www.youtube.com/watch?v=1Au336NiWrs]
 ●	Las características como el enlace de datos bidireccional, el enrutamiento y la inyección de dependencias hacen que Angular sea una elección poderosa para el desarrollo de aplicaciones web.<br>
 
 ## Video About-the-Team
+Enlace [https://www.youtube.com/watch?v=1Au336NiWrs] 
 
 # Bibliografía
 
