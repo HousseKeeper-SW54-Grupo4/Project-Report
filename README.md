@@ -108,7 +108,7 @@ INSERTAR IMÁGENES CON FECHA
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
     - [Class Dictionary](#class-dictionary) 
-  - [Databse Design](#databse-design)
+  - [Database Design](#database-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [Software Configuration Management](#software-configuration-management)
@@ -129,6 +129,21 @@ INSERTAR IMÁGENES CON FECHA
     - [Sprint 2](#sprint-2)
       - [Sprint Planning 2](#sprint-planning-2)
       - [Sprint Backlog 2](#sprint-backlog-2)
+      - [Development Evidence for Sprint 2 Review](#development-evidence-for-sprint-2-review)
+      - [Testing Suite Evidence for Sprint 2 Review](#testing-suite-evidence-for-sprint-2-review)
+      - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
+      - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
+      - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
+      - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
+    - [Sprint 3](#sprint-3)
+      - [Sprint Planning 3](#sprint-planning-3)
+      - [Sprint Backlog 3](#sprint-backlog-3)
+      - [Development Evidence for Sprint 3 Review](#development-evidence-for-sprint-3-review)
+      - [Testing Suite Evidence for Sprint 3 Review](#testing-suite-evidence-for-sprint-3-review)
+      - [Execution Evidence for Sprint 3 Review](#execution-evidence-for-sprint-3-review)
+      - [Services Documentation Evidence for Sprint 3 Review](#services-documentation-evidence-for-sprint-3-review)
+      - [Software Deployment Evidence for Sprint 3 Review](#software-deployment-evidence-for-sprint-3-review)
+      - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
@@ -1147,7 +1162,7 @@ Commits:
 <table style=";"><tbody><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8">SPRINT 2</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">User Story</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6">Work/Tasks</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">ID</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Title</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Description</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Estimation</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Assigned to</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Status(To-do/In-Process/To-review/Done)</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US09</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de perfiles de cuidadores</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T9</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Edición de perfil de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permite a un cuidador de casas editar y actualizar su perfil en la plataforma.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Bloqueo de un cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir bloquear a un cuidador si viola las políticas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
 </tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US10</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Revisión de reservas y solicitudes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de solicitudes de reserva pendientes</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar y aprobar o rechazar solicitudes de reserva pendientes.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">1d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T12</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Revisión de reservas y registros de tareas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los administradores revisar las reservas pasadas y los registros de tareas completadas por los cuidadores.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2,5d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Leonardo Patrocinio,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Proccess</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Gestión de usuarios y dueños</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Suspensión temporal de una cuenta de usuario</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la función que permita a ambos sector dar por suspendido su cuenta.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Christian Zeta</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Eliminación de una cuenta de cuidador de casas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir al keeper eliminar su cuenta en caso considere necesario.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2">US04</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" rowspan="2"><strong>Visualización del registro de tareas realizadas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T15</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Visualización del registro de tareas</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad que permita mostrar las tareas hechas por el keeper</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Ferreyra</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr><tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Filtro de tareas en el registro</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir filtrar las tareas de acuerdo a lo que el usuario desee </td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2d</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><p>Alonso Robles,</p><p>Leonardo Patrocinio</p></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Process</td></tr></tbody></table>
 
-## Development Evidence for Sprint 2 Review.
+## Development Evidence for Sprint 2 Review
 
 <table>
   <tr>
@@ -1215,7 +1230,7 @@ Commits:
   </tr>
 </table>
 
-## Testing Suite Evidence for Sprint 2 Review.
+## Testing Suite Evidence for Sprint 2 Review
 
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la pagina web. Por ello en la siguiente sección testing mostraremos las funcionalidades implementadas en esta primera parte del programa.
 
@@ -1238,7 +1253,7 @@ Cuando hago clic en "Iniciar Conversación" con el dueño
 Entonces puedo enviar mensajes al cuidador en tiempo real
 Y el cuidador recibe notificaciones de nuevos mensajes.
 
-## Execution Evidence for Sprint 2 Review.
+## Execution Evidence for Sprint 2 Review
 
 Aquí mostraremos todas las secciones que conforman la página web que hemos implementado durante el sprint.
 Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
@@ -1255,7 +1270,7 @@ Durante el Sprint 2, se realizaron las siguientes tareas de ejecución:
 
 Con estas tareas completadas con éxito, se lograron los objetivos establecidos para el Sprint 2 de la página web.
 
-## Services Documentation Evidence for Sprint 2 Review.
+## Services Documentation Evidence for Sprint 2 Review
 
 Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
 Html y CSS:Son dos tecnologías fundamentales para la creación y el diseño de sitios web. Aquí te proporciono una breve descripción de cada uno.<br>
@@ -1264,7 +1279,7 @@ https://angular.io/guide/styleguide <br>
 WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con typeScript.<br>
 https://www.jetbrains.com/es-es/webstorm/learn/ <br>
 
-## Software Deployment Evidence for Sprint 2 Review.
+## Software Deployment Evidence for Sprint 2 Review
 
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Software Deployment Evidence” nos centraremos en explicar las tecnologías que utilizamos, la creación de cuentas de repositorio y la configuración del ambiente de desarrollo.
 En esta entrega se usaron las tecnologías:<br>
@@ -1275,15 +1290,15 @@ Git: Es un sistema de control de versiones que nos ayudó a trabajar en equipo p
 GitHub: Nos ayudó a almacenar nuestro proyecto en la nube.<br>
 GitHub Desktop: Software de escritorio que nos permitió realizar los commits a nuestro repositorio alojado en Github.<br>
 
-## Team Collaboration Insights during Sprint 2.
+## Team Collaboration Insights during Sprint 2
 
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
 Commits:
 
 
-### 5.2.3. Sprint 3
+### Sprint 3
   
-#### 5.2.3.1. Sprint Planning 3.  
+#### Sprint Planning 3
 | **Sprint 1** | |
 |:---: | :---| 
 | | **Sprint planning background** |   
@@ -1299,7 +1314,7 @@ Commits:
 | Sprint & Velocity | Debido al alcanze establecido para este sprint, el Velocity establecido para este sprint es 60. |
 | Sum of Story Point | La suma de Story points que el equipo estara desarrollano este sprint es 50. |
 
-#### 5.2.3.2. Sprint Backlog 3.
+#### Sprint Backlog 3
 --
 |     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                    |                   |                               |                      |
 |----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
@@ -1320,7 +1335,7 @@ Commits:
 | HU013 - HU014        | Comunicación con el traveller     |     WI13                  |     Comunicación con el traveller                                    |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Christian Zeta               |     Completado       |
 |                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Patrocinio          |     Completado       |
 
-#### 5.2.3.3. Development Evidence for Sprint Review.  
+#### Development Evidence for Sprint 3 Review
 Para este Sprint se desarrolló el Frontend de la plataforma.
 | **Repository**                                      | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
 |--------|----------|--------|-------|-------|--------|
@@ -1330,14 +1345,14 @@ Para este Sprint se desarrolló el Frontend de la plataforma.
 |                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
 |                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
   
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review.  
+#### Testing Suite Evidence for Sprint 3 Review  
 Acceptance Tests actualizados de los User Stories, archivos .feature   
 
 
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
 Link al video de ejecución: 
 
-#### 5.2.3.5. Execution Evidence for Sprint Review  
+#### Execution Evidence for Sprint 3 Review  
 Durante este sprint, nos enfocamos en completar el Front end y avanzar el backend
 
 ![Imgur](https://i.imgur.com/lqBiY01.png)
@@ -1358,7 +1373,7 @@ Durante este sprint, nos enfocamos en completar el Front end y avanzar el backen
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
 Link al video de ejecución: 
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+#### Services Documentation Evidence for Sprint 3 Review
 
 **Introducion:**  
 En este tercer sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente 66 endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
@@ -1392,12 +1407,12 @@ Link del Repositorio de Web Services: [
 ![servicios-ejemplos](https://i.imgur.com/nszeMct.png)
   
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
+#### Software Deployment Evidence for Sprint 3 Review  
 La aplicación desplegada se encuentra en el siguiente enlace  
 [https://](https://),   
 más para su correcto funcionamiento, se necesita desplegar el servidor json-server de nustro archivo db.json, en cual se encuentra en el siguiente enlace [https://github.com/HousseKeeper-SW54-Grupo4/Front-End/server/db.json](https://github.com/HousseKeeper-SW54-Grupo4/Front-End/blob/main/server/db.json)   
   
-#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+#### Team Collaboration Insights during Sprint 3.  
 Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Establecimos dos ramas principales: "main" para el informe final.Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
 
 
@@ -1410,7 +1425,7 @@ Contribuitors
 
 ## Validation Interviews
 
-### 5.3.1 Diseño de Entrevistas  
+### Diseño de Entrevistas  
 **Segmento de dueños de casa**
 1. ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
 2. ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
@@ -1436,7 +1451,7 @@ Contribuitors
 9. ¿Recomendarías la plataforma HousseKeeper a otros cuidadores de casas? ¿Por qué?
 
 
-### 5.3.2 Registro  de Entrevistas   
+### Registro de Entrevistas   
 ***Representantes de dueños de casa:***   
 
 - Primera entrevista:  
@@ -1515,7 +1530,7 @@ Resumen de entrevista:
 00:00 - ¿  ?
 "          "
 
-### 5.3.3 Evaluaciones segúnn heurísticas  
+### Evaluaciones según heurísticas  
   
 **UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
 
@@ -1652,7 +1667,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ---
 
-## 5.4 Video About-the-Product  
+## Video About-the-Product  
 
 
 # Conclusiones
