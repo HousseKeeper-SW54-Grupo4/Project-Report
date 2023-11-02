@@ -1372,9 +1372,11 @@ Durante este sprint, nos enfocamos en completar el Front end y avanzar el backen
 
 ![Imgur](https://i.imgur.com/nITHq1T.png)
 
-![Imgur](https://i.imgur.com/EI0us4s.png)
+![Imgur](https://i.imgur.com/GrNmbLZ.png)
 
 ![Imgur](https://i.imgur.com/GJOgk3o.png)
+
+![Imgur](https://i.imgur.com/jrFZK5v.png)
 
 
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
@@ -1415,7 +1417,7 @@ Link del Repositorio de Web Services: [https://house-keeper-api.vercel.app](http
   
 
 #### Software Deployment Evidence for Sprint 3 Review  
-En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://](https://),
+En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
 
 Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un servicio web adicional. Este servicio se encuentra alojado en el siguiente enlace: [https://house-keeper-api.vercel.app/](https://house-keeper-api.vercel.app/)
 
