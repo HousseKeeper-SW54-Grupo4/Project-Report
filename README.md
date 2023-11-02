@@ -1346,7 +1346,7 @@ Para este Sprint se desarrolló el Frontend de la plataforma.
 | https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       |  ead98fbe1fe14cb6dd228a7656eea3c49045f053 | Update Front end                      |           -             |        01/11/2023      |
 |                                                         | main       |  783cc1c006da75448776444da4afb69a079542a3 | Components Update                     |           -             |        01/11/2023      |
 |                                                         | main       |  2bd24611ce439d9809e1d90e4c3b2ee7be19bbc3 | Update find-keeper.component.ts       |           -             |        01/11/2023      |
-| https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |                                           | Update Backed                         |           -             |        01/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |  e69359fd5d97c027c1df21276df94bae15b095fd | Update Backed                         |           -             |        02/11/2023      |
   
 #### Testing Suite Evidence for Sprint 3 Review  
 En el Sprint 3 de nuestro proyecto, nos hemos fijado el ambicioso objetivo de finalizar el desarrollo del Frontend de la aplicación "HousseKeeper" y avanzar significativamente en el Back-end para prepararnos para el próximo sprint. Durante la reunión de planificación del sprint, que se llevó a cabo el 2 de octubre de 2023, discutimos los siguientes puntos clave:
@@ -1441,6 +1441,9 @@ Contribuitors
 
 ![Imgur](https://i.imgur.com/wpIycuu.png)
 
+![Imgur](https://i.imgur.com/mCdY83B.png)
+
+Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeeper", nos enfrentamos a un desafío de tiempo considerable. Debido a restricciones y plazos ajustados, solo una persona pudo completar la tarea de subir el archivo del backend al repositorio. Sin embargo, es importante destacar que el progreso en el desarrollo del backend se logró de manera colaborativa a través de sesiones de codificación en tiempo real utilizando la plataforma "code-with-me". A pesar de la limitación de tiempo, todos los miembros del equipo participaron activamente en la implementación y revisión de código, lo que permitió avanzar significativamente en la construcción del backend. Esta colaboración en tiempo real facilitó la resolución de problemas, el intercambio de ideas y la mejora continua del código.
 
 ## Validation Interviews
 
