@@ -1280,15 +1280,380 @@ GitHub Desktop: Software de escritorio que nos permitió realizar los commits a 
 Los objetivos fueron exitosamente alcanzados para el Sprint 2 de la página web. Por ello para esta sección “Team Collaboration Insights” se dejará la evidencia del trabajo realizado por los miembros del equipo.
 Commits:
 
+
+### 5.2.3. Sprint 3
+  
+#### 5.2.3.1. Sprint Planning 3.  
+| **Sprint 1** | |
+|:---: | :---| 
+| | **Sprint planning background** |   
+| Date | 2/10/23 |
+| Time | 08:00 PM |
+| Location | Google Meet - Virtual Meeting |
+| Prepared by | Christian Zeta |
+| Attendees to meeting | Leonardo Ferreyra, Alonso Robles, Leonardo Patrocinio |
+| Sprint 2 Review Summary | Se realizo el sprint 2, se mejoro el codigo y se trato de terminar el aspecto front-end de la aplicación |
+| Sprint 2 Retrospective Summary | Se trabajo fluidamente, participando todos por igual en la realización del proyecto, más en la opinión del grupo creemos que pudimos haber terminado más partes del front-end. |
+| | **Sprint Goal & User Stories** |
+| Sprint & Goal | El objetivo del Sprint 3 sera terminar Frontend de la applicación, asi como avanzar el back-end hasta un punto funcional que podamos completar el siguiente sprint. |
+| Sprint & Velocity | Debido al alcanze establecido para este sprint, el Velocity establecido para este sprint es 60. |
+| Sum of Story Point | La suma de Story points que el equipo estara desarrollano este sprint es 50. |
+
+#### 5.2.3.2. Sprint Backlog 3.
+--
+|     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                    |                   |                               |                      |
+|----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
+|     User   Story     |                                   |     Work –   Item/Task    |                                                                      |                                                                                    |                   |                               |                      |
+|     Id               |     Título                        |     Id                    |     Título                                                           |     Descripción                                                                    |     Estimación    |     Asignado   a              |     Estado           |
+| HU001-HU002          | Gestión de perfil                 |     WI01                  |     Edición de perfil de keeper                                      |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI02                  |     Edición de perfil de traveler                                    |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Christian Zeta               |     Completado       |
+| HU003-HU004          | Revisión de reservas y solicitudes|     WI03                  |     Pago para reserva de viaje                                       |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     4h            |  Leonardo Ferreyra            |     In process       |
+|                      |                                   |     WI04                  |     Visualizar las solicitudes de keepers                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     3h            |  Leonardo Patrocinio          |     Completado       |
+| HU005-HU007          | Búsqueda de keepers               |     WI05                  |     Búsqueda de keepers                                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     4h            |  Leonardo Patrocinio          |     Completado       |
+|                      |                                   |     WI06                  |     Filtrar por calificación                                         |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI07                  |     Filtrar por ubicación                                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Patrocinio          |     Completado       |
+| HU008-HU010          | Reserva de Servicios              |     WI08                  |     Solicitar un keeper                                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Christian Zeta               |     In process       |
+|                      |                                   |     WI09                  |     Visualizar la calificación del keeper                            |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI10                  |     Visualizar reseñas de los keepers                                |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Alonso Robles                |     Completado       |
+| HU011 - HU012        | Historial de reservas             |     WI11                  |     Realizar una reseña a los keepers                                |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Ferreyra            |     In process       |
+|                      |                                   |     WI12                  |     Cancelar solicitud de keeper                                     |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Ferreyra            |     In process       |
+| HU013 - HU014        | Comunicación con el traveller     |     WI13                  |     Comunicación con el traveller                                    |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Hacer uso de la herramienta WebStorm, los lenguajes:  Angular, CSS y TyрeSсriрt  |     2h            |  Leonardo Patrocinio          |     Completado       |
+
+#### 5.2.3.3. Development Evidence for Sprint Review.  
+Para este Sprint se desarrolló el Frontend de la plataforma.
+| **Repository**                                      | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
+|--------|----------|--------|-------|-------|--------|
+| https://github.com/HousseKeeper-SW54-Grupo4.git     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+|                                                     | main       |                                           | Update README.md        |           -             |        01/11/2023      |
+  
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.  
+Acceptance Tests actualizados de los User Stories, archivos .feature   
+
+
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
+Link al video de ejecución: 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+Durante este sprint, nos enfocamos en completar el Front end y avanzar el backend
+
+![Imgur](https://i.imgur.com/lqBiY01.png)
+
+![Imgur](https://i.imgur.com/wGXZIhs.png)
+
+![Imgur](https://i.imgur.com/xlb7BIB.png)
+
+![Imgur](https://i.imgur.com/0qB2EU9.png)
+
+![Imgur](https://i.imgur.com/nITHq1T.png)
+
+![Imgur](https://i.imgur.com/EI0us4s.png)
+
+![Imgur](https://i.imgur.com/GJOgk3o.png)
+
+
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
+Link al video de ejecución: 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+**Introducion:**  
+En este tercer sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente 66 endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
+Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia del usuario, especialmente en áreas relacionadas con visualización de keepers pendientes, búsqueda de keepers y comunicación entre usuarios.
+
+**Tabla:**  
+
+|     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
+|---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://housseKeeper.web.app/keepers](https://housseKeeper.web.app/keepers)                      |
+|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://housseKeeper.web.app/viajes](https://housseKeeper.web.app/viajes)                        |
+|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://housseKeeper.web.app/keeperRequest](https://housseKeeper.web.app/keeperRequest)          |
+|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://housseKeeper.web.app/MensajesTraveller](https://housseKeeper.web.app/MensajesTraveller)  |
+|  /casas             |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://housseKeeper.web.app/casas ](https://housseKeeper.web.app/casas)                         |
+|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://housseKeeper.web.app/Mensajes](https://housseKeeper.web.app/Mensajes)                    |
+
+  
+Link del Repositorio de Web Services: [
+   
+
+**Captura de interaccion con datos de prueba**  
+
+ 
+*Visualizar solicitudes de keepers pendientes*  
+![servicios-ejemplos](https://i.imgur.com/ZWq7xEH.png)
+
+-*Visualiza la busqueda de keepers* 
+![servicios-ejemplos](https://i.imgur.com/m0VnHiq.png)
+  
+*Obtener el registro de chat de traveller*   
+![servicios-ejemplos](https://i.imgur.com/nszeMct.png)
+  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
+La aplicación desplegada se encuentra en el siguiente enlace  
+[https://](https://),   
+más para su correcto funcionamiento, se necesita desplegar el servidor json-server de nustro archivo db.json, en cual se encuentra en el siguiente enlace [https://github.com/HousseKeeper-SW54-Grupo4/Front-End/server/db.json](https://github.com/HousseKeeper-SW54-Grupo4/Front-End/blob/main/server/db.json)   
+  
+#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Establecimos dos ramas principales: "main" para el informe final.Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
+
+
+GitFlow
+
+
+Contribuitors
+
+
+
 ## Validation Interviews
 
-### Diseño de Entrevistas
+### 5.3.1 Diseño de Entrevistas  
+**Segmento de dueños de casa**
+1. ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
+2. ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
+3. ¿Hay alguna característica o herramienta que sientas que falta en HousseKeeper o que te gustaría ver en el futuro?
+4. ¿Crees que HousseKeeper proporciona suficiente información sobre los cuidadores de casas? ¿Existe alguna información adicional que consideres importante?
+5. ¿Has tenido alguna experiencia negativa o enfrentados desafíos al usar HousseKeeper? Por favor, descríbelos.
+6. ¿Consideras que la forma en que se buscan los cuidadores de casas en la plataforma es ágil y satisfactoria?
+7. ¿Qué opinas sobre la comunicación con los cuidadores a través de la función de chat? ¿Encuentras esta opción adecuada?
+8. ¿Qué recomendaciones o sugerencias nos darías para mejorar la experiencia de usuario en HousseKeeper y hacer la aplicación más fácil de usar?
+9. ¿Recomendarías HousseKeeper a otras personas que buscan servicios de cuidadores de casas? ¿Por qué?
 
-### Registro de Entrevistas
 
-### Evaluaciones según heurísticas
 
-## Video About-the-Product
+**Segmento de cuidadores de casa**
+1. ¿Qué opinas sobre la experiencia de navegación en HousseKeeper como persona que cuida casas?
+2. ¿Crees que la plataforma proporciona suficiente información para que los cuidadores comprendan las expectativas y funciones de la aplicación?
+3. ¿Qué tipo de información adicional te gustaría ver en las descripciones de las casas que cuidarás?
+4. ¿Consideras que los beneficios proporcionados por las membresías son útiles para las personas que cuidan casas?
+5. Cómo crees que la función de historial de reservas podría mejorar tu capacidad para realizar un seguimiento y gestionar las casas que cuidas?
+6. ¿Piensas que la función de mensajería en HousseKeeper mejora la interacción entre los cuidadores y los dueños de las casas?
+7. ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
+8. ¿Qué otras funcionalidades te gustarían ver o crees que podrían mejorar en HousseKeeper en el futuro?
+9. ¿Recomendarías la plataforma HousseKeeper a otros cuidadores de casas? ¿Por qué?
+
+
+### 5.3.2 Registro  de Entrevistas   
+***Representantes de dueños de casa:***   
+
+- Primera entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: Christian Jose Zeta Valenzuela
+Enlace [https://youtu.be/LTq1RUBCFMQ]  
+
+Resumen de entrevista:  
+00:45 - ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
+"Me parece una experiencia muy buena y creo que esto ayudaria a conseguir que las personas encuentren a alguien que cuidar casas"
+
+Cree que la aplicacion no necesita muchas mejoras , unas de las que menciona la persona entrevista es que hacer que las imagenes o los filtros se encuentren mejor posicionados y que no
+exista un desnivel de las palabras.
+
+
+- Segunda entrevista:  
+Entrevistado: José David  
+Residencia: Lima   
+Entrevistador: Leonardo Patrocinio
+
+Enlace [https://youtu.be/55nhocCnYYs]  
+
+Resumen de entrevista:  
+00:45 - ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
+"Bastante buena y positiva"
+
+01:00 - ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
+"Lo que me gustó es la calificación e los cuidadores de casas."
+
+02:50 - ¿Qué opinas sobre la comunicación con los cuidadores a través de la función de chat? 
+"La comunicación a través del chat me parece adecuada. Es eficiente para la comunicación con los cuidadores antes de su llegada"
+
+03:10 - ¿Qué recomendaciones o sugerencias nos darías para mejorar la experiencia de usuario en HousseKeeper y hacer la aplicación más fácil de usar?
+"Para mejorar, sería genial si la aplicación me permitiera calificar las fotos que los cuidadores envían para saber más sobre lo que sucede en la casa"
+
+
+- Tercera entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: 
+Enlace []  
+
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
+
+***Representates de dueños de casa***  
+- Primera entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: 
+Enlace []  
+
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
+
+- Segunda entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: 
+Enlace []  
+
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
+
+- Tercera entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: 
+Enlace []  
+
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
+
+### 5.3.3 Evaluaciones segúnn heurísticas  
+  
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**  
+
+**Site o App a evaluar**  
+HousseKeeper
+
+**Tareas a evaluar:**  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+1. Inicio de sesión a la aplicación
+2. Edición de los datos de cuenta de keeper
+3. Edición de los datos de cuenta de traveller
+4. Cerrar Sesión en la aplicación
+5. Búsqueda de casas
+6. Filtrar casas por ubicación y nombre de la empresa
+7. Busqueda de keepers
+8. Mostrar el chat de keepers y travellers
+9. Visualizar viajes disponibles
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*  
+1. Reserva de un servicio de keeper
+2. Cancelación de una reserva de keeper
+3. Realizar una reseña a un keeper
+
+**Escala de severidad**  
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;">Nivel</th>
+            <th style="border: 1px solid black;">Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;">1</td>
+            <td style="border: 1px solid black;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<br>
+
+**Tabla de resumen** 
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;">#</th>
+            <th style="border: 1px solid black;">Problema</th>
+            <th style="border: 1px solid black;">Escala de severidad (1/2/3/4)</th>
+            <th style="border: 1px solid black;">Heurísticas (1/2/3/4)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;">1</td>
+            <td style="border: 1px solid black;">Cuando se presiona el botón de “solicitar keeper”, no se sabe si ha generado correctamente la solicitud.</td>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Visibilidad del estado del sistema</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Desde la pagina traveler no funcionan las rutas “Inicio”, “Buscar Keeper”, “Mensajeria” y “Perfil” </td>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">Usability: Correspondencia entre el sistema y el mundo real</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Faltan validaciones de datos para actualizar información de la cuenta</td>
+            <td style="border: 1px solid black;">2</td>
+            <td style="border: 1px solid black;">Usability: Prevención de errores</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">4</td>
+            <td style="border: 1px solid black;">El filtrado de busqueda de un keeper en la pagina principal no funciona</td>
+            <td style="border: 1px solid black;">3</td>
+            <td style="border: 1px solid black;">Usability: Flexibilidad y eficiencia en el uso</td>
+        </tr>
+    </tbody>
+</table>
+
+**Descripción de problemas**
+
+**PROBLEMA #1:** Cuando se presiona el botón de "solicitar keeper", no se sabe si ha generado correctamente la solicitud.  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Problema:** Al presionar el botón de "solicitar keeper," los usuarios no reciben una retroalimentación clara que indique si la solicitud se ha generado con éxito. Esto puede llevar a una falta de visibilidad del estado del sistema y confusión por parte de los usuarios.  
+
+
+
+**Recomendación:** Implementar una retroalimentación visual o un mensaje que indique claramente que la solicitud se ha generado correctamente. Esto mejorará la visibilidad del estado del sistema y proporcionará una experiencia de usuario más informada.
+
+---
+
+**PROBLEMA #2:** Desde la página principal de traveler no funcionan las rutas "Inicio", "Buscar Keeper", "Mensajería" y "Perfil".  
+**Heurística violada:** Usability: Correspondencia entre el sistema y el mundo real  
+**Problema:** Los enlaces en la página del viajero no cumplen su función y no redirigen a las secciones correspondientes. Esto crea una falta de correspondencia entre las acciones que los usuarios esperan realizar y las acciones que realmente ocurren.  
+
+
+
+**Recomendación:** Resolver los problemas técnicos que impiden que los enlaces redirijan correctamente a las secciones correspondientes. Esto garantizará que la aplicación se comunique de manera efectiva con los usuarios.
+
+---
+
+**PROBLEMA #3:** Faltan validaciones de datos para actualizar información de la cuenta.  
+**Heurística violada:** Usability: Prevención de errores  
+**Problema:** Los formularios de actualización de información de la cuenta no incluyen validaciones de datos, lo que permite a los usuarios ingresar información incorrecta o inapropiada sin recibir advertencias o correcciones.  
+
+
+
+**Recomendación:** Agregar validaciones de datos a los formularios de actualización de información de la cuenta para prevenir que los usuarios ingresen información incorrecta. Esto mejorará la prevención de errores y la calidad de los datos.
+
+---
+
+**PROBLEMA #4:** El filtrado de búsqueda de un keeper en la página principal no funciona.  
+**Heurística violada:** Usability: Flexibilidad y eficiencia en el uso  
+**Problema:** Los usuarios no pueden utilizar eficazmente el filtro de búsqueda en la página principal para encontrar un keeper. La falta de funcionalidad en esta característica afecta la flexibilidad y eficiencia en la búsqueda.  
+
+
+
+**Recomendación:** Corregir el filtro de búsqueda en la página principal para que los usuarios puedan utilizarlo eficazmente y encontrar a los keepers de manera eficiente. Esto mejorará la flexibilidad y la eficiencia en la búsqueda.
+
+---
+
+## 5.4 Video About-the-Product  
+
 
 # Conclusiones
 
