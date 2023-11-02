@@ -1492,28 +1492,40 @@ Resumen de entrevista:
 - Tercera entrevista:  
 Entrevistado:   
 Residencia: Lima   
-Entrevistador: 
+Entrevistador:
+
 Enlace []  
 
 Resumen de entrevista:  
 00:00 - ¿  ?
 "          "
 
-***Representates de dueños de casa***  
+***Representates de cuidadores de casa***  
 - Primera entrevista:  
-Entrevistado:   
+Entrevistado: Alessandro   
 Residencia: Lima   
-Entrevistador: 
-Enlace []  
+Entrevistador:Alonso Robles
+ 
+Enlace [https://youtu.be/xHzUifVU1GI]  
 
 Resumen de entrevista:  
-00:00 - ¿  ?
-"          "
+02:02 - ¿Qué opinas sobre la experiencia de navegación en HousseKeeper como persona que cuida casas?
+"La experiencia la veo gratificante ya que veo que la pagina web es muy sencilla de usar, para mí es importante que una pagina sea muy amigable para el usuario y encontrar lo que yo busco."
+
+02:02 - ¿Crees que la plataforma proporciona suficiente información para que los cuidadores comprendan las expectativas y funciones de la aplicación?
+"Creo que faltaria que cuando me muestre las casas un poco más de descripción, para saber que tipo de familia estoy cuidando"
+
+04:05 -  ¿Piensas que la función de mensajería en HousseKeeper mejora la interacción entre los cuidadores y los dueños de las casas? 
+"Si, es fundamental mantener la comunicación entre el dueño de casa y el cuidador de casa"
+
+04:30 - ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
+"Creo buscar casa y mensajeria son importantes ya que cuando quiero buscar la casa ayuda mucho la comunicación"
 
 - Segunda entrevista:  
 Entrevistado:   
 Residencia: Lima   
-Entrevistador: 
+Entrevistador:
+
 Enlace []  
 
 Resumen de entrevista:  
