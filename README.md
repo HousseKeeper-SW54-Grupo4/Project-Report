@@ -1355,10 +1355,6 @@ En el Sprint 3 de nuestro proyecto, nos hemos fijado el ambicioso objetivo de fi
 5.	Asignación de Tareas: Cada tarea se ha asignado a un miembro del equipo, y se encuentra en varios estados de desarrollo, incluyendo completadas y en proceso. Nuestro objetivo es trabajar de manera eficiente y colaborativa para alcanzar nuestros objetivos en este sprint.
 El equipo está comprometido y entusiasmado con los desafíos que presenta el Sprint 3, y estamos ansiosos por alcanzar los hitos planeados.
  
-
-
-Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
-
 #### Execution Evidence for Sprint 3 Review  
 Durante este sprint, nos enfocamos en completar el Front end y avanzar el backend
 
@@ -1378,8 +1374,9 @@ Durante este sprint, nos enfocamos en completar el Front end y avanzar el backen
 
 ![Imgur](https://i.imgur.com/jrFZK5v.png)
 
-
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
+
+Link a la plataforma: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
 
 
 #### Services Documentation Evidence for Sprint 3 Review
@@ -1399,8 +1396,9 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 |  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                         |
 |  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
 
+Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo4/Front-End/tree/main/src/app/public/services
   
-Link del Repositorio de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
+Link del de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
    
 
 **Captura de interaccion con datos de prueba**  
