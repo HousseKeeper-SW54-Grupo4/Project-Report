@@ -1394,7 +1394,7 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 |  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
 |  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
 |  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /casas             |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/casas ](https://house-keeper-api.vercel.app/casas)                         |
+|  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                         |
 |  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
 
   
