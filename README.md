@@ -1346,6 +1346,7 @@ Para este Sprint se desarrolló el Frontend de la plataforma.
 | https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       |  ead98fbe1fe14cb6dd228a7656eea3c49045f053 | Update Front end                      |           -             |        01/11/2023      |
 |                                                         | main       |  783cc1c006da75448776444da4afb69a079542a3 | Components Update                     |           -             |        01/11/2023      |
 |                                                         | main       |  2bd24611ce439d9809e1d90e4c3b2ee7be19bbc3 | Update find-keeper.component.ts       |           -             |        01/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |                                           | Update Backed                         |           -             |        01/11/2023      |
   
 #### Testing Suite Evidence for Sprint 3 Review  
 En el Sprint 3 de nuestro proyecto, nos hemos fijado el ambicioso objetivo de finalizar el desarrollo del Frontend de la aplicación "HousseKeeper" y avanzar significativamente en el Back-end para prepararnos para el próximo sprint. Durante la reunión de planificación del sprint, que se llevó a cabo el 2 de octubre de 2023, discutimos los siguientes puntos clave:
@@ -1379,6 +1380,8 @@ Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4
 
 Link a la plataforma: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
 
+Link del backend: https://github.com/HousseKeeper-SW54-Grupo4/Back-End
+
 
 #### Services Documentation Evidence for Sprint 3 Review
 
@@ -1394,7 +1397,7 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 |  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
 |  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
 |  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                         |
+|  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
 |  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
 
 Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo4/Front-End/tree/main/src/app/public/services
@@ -1421,6 +1424,9 @@ En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación e
 Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un servicio web adicional. Este servicio se encuentra alojado en el siguiente enlace: [https://house-keeper-api.vercel.app/](https://house-keeper-api.vercel.app/)
 
 Este enlace es esencial para la comunicación y funcionalidad adecuada de la aplicación.
+
+El desarrollo del backend es una parte fundamental de nuestra aplicación "HousseKeeper". Hemos realizado un progreso significativo en la implementación de esta parte esencial de nuestro sistema. Puedes seguir nuestro avance y conocer en detalle la implementación actual visitando el siguiente enlace: https://github.com/HousseKeeper-SW54-Grupo4/Back-End
+A pesar de que todavía estamos trabajando en su finalización, estamos comprometidos con garantizar un backend sólido que respalde la funcionalidad de nuestra aplicación. Esto incluye la comunicación y la interacción adecuada con nuestra aplicación.
   
 #### Team Collaboration Insights during Sprint 3.  
 Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Establecimos dos ramas principales: "main" para el informe final.Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
