@@ -1610,6 +1610,48 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
     </tbody>
 </table>
 
+**Descripción de problemas**
+
+**PROBLEMA #1:** Cuando se presiona el botón de "solicitar keeper", no se sabe si ha generado correctamente la solicitud.  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Problema:** Al presionar el botón de "solicitar keeper," los usuarios no reciben una retroalimentación clara que indique si la solicitud se ha generado con éxito. Esto puede llevar a una falta de visibilidad del estado del sistema y confusión por parte de los usuarios.  
+
+
+
+**Recomendación:** Implementar una retroalimentación visual o un mensaje que indique claramente que la solicitud se ha generado correctamente. Esto mejorará la visibilidad del estado del sistema y proporcionará una experiencia de usuario más informada.
+
+---
+
+**PROBLEMA #2:** Desde la página principal de traveler no funcionan las rutas "Inicio", "Buscar Keeper", "Mensajería" y "Perfil".  
+**Heurística violada:** Usability: Correspondencia entre el sistema y el mundo real  
+**Problema:** Los enlaces en la página del viajero no cumplen su función y no redirigen a las secciones correspondientes. Esto crea una falta de correspondencia entre las acciones que los usuarios esperan realizar y las acciones que realmente ocurren.  
+
+
+
+**Recomendación:** Resolver los problemas técnicos que impiden que los enlaces redirijan correctamente a las secciones correspondientes. Esto garantizará que la aplicación se comunique de manera efectiva con los usuarios.
+
+---
+
+**PROBLEMA #3:** Faltan validaciones de datos para actualizar información de la cuenta.  
+**Heurística violada:** Usability: Prevención de errores  
+**Problema:** Los formularios de actualización de información de la cuenta no incluyen validaciones de datos, lo que permite a los usuarios ingresar información incorrecta o inapropiada sin recibir advertencias o correcciones.  
+
+
+
+**Recomendación:** Agregar validaciones de datos a los formularios de actualización de información de la cuenta para prevenir que los usuarios ingresen información incorrecta. Esto mejorará la prevención de errores y la calidad de los datos.
+
+---
+
+**PROBLEMA #4:** El filtrado de búsqueda de un keeper en la página principal no funciona.  
+**Heurística violada:** Usability: Flexibilidad y eficiencia en el uso  
+**Problema:** Los usuarios no pueden utilizar eficazmente el filtro de búsqueda en la página principal para encontrar un keeper. La falta de funcionalidad en esta característica afecta la flexibilidad y eficiencia en la búsqueda.  
+
+
+
+**Recomendación:** Corregir el filtro de búsqueda en la página principal para que los usuarios puedan utilizarlo eficazmente y encontrar a los keepers de manera eficiente. Esto mejorará la flexibilidad y la eficiencia en la búsqueda.
+
+---
+
 ## 5.4 Video About-the-Product  
 
 
