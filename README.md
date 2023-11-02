@@ -1442,12 +1442,16 @@ Contribuitors
 - Primera entrevista:  
 Entrevistado:   
 Residencia: Lima   
-Entrevistador: 
-Enlace []  
+Entrevistador: Christian Jose Zeta Valenzuela
+Enlace [https://youtu.be/LTq1RUBCFMQ]  
 
 Resumen de entrevista:  
-00:00 - ¿  ?
-"          "
+00:45 - ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
+"Me parece una experiencia muy buena y creo que esto ayudaria a conseguir que las personas encuentren a alguien que cuidar casas"
+
+Cree que la aplicacion no necesita muchas mejoras , unas de las que menciona la persona entrevista es que hacer que las imagenes o los filtros se encuentren mejor posicionados y que no
+exista un desnivel de las palabras.
+
 
 - Segunda entrevista:  
 Entrevistado: José David  
