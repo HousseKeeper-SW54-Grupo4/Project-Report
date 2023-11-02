@@ -1334,7 +1334,7 @@ Para este Sprint se desarrolló el Frontend de la plataforma.
 Acceptance Tests actualizados de los User Stories, archivos .feature   
 
 
-Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4.git  
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
 Link al video de ejecución: 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review  
@@ -1355,7 +1355,7 @@ Durante este sprint, nos enfocamos en completar el Front end y avanzar el backen
 ![Imgur](https://i.imgur.com/GJOgk3o.png)
 
 
-Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4.git  
+Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
 Link al video de ejecución: 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
@@ -1376,7 +1376,7 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 |  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://housseKeeper.web.app/Mensajes](https://housseKeeper.web.app/Mensajes)                    |
 
   
-Link del Repositorio de Web Services: [https://github.com/LuceroObispoRios/Grupo1_WS52/blob/main/carga-sin-estres/src/company-search/services/cargaSinEstres-api.service.js](https://github.com/LuceroObispoRios/Grupo1_WS52/blob/main/carga-sin-estres/src/company-search/services/cargaSinEstres-api.service.js)
+Link del Repositorio de Web Services: [
    
 
 **Captura de interaccion con datos de prueba**  
@@ -1413,100 +1413,100 @@ Contribuitors
 ### 5.3.1 Diseño de Entrevistas  
 **Segmento de dueños de casa**
 1. ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
-
-2 ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
-
-3 ¿Hay alguna característica o herramienta que sientas que falta en HousseKeeper o que te gustaría ver en el futuro?
-
+2. ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
+3. ¿Hay alguna característica o herramienta que sientas que falta en HousseKeeper o que te gustaría ver en el futuro?
 4. ¿Crees que HousseKeeper proporciona suficiente información sobre los cuidadores de casas? ¿Existe alguna información adicional que consideres importante?
-
 5. ¿Has tenido alguna experiencia negativa o enfrentados desafíos al usar HousseKeeper? Por favor, descríbelos.
-
 6. ¿Consideras que la forma en que se buscan los cuidadores de casas en la plataforma es ágil y satisfactoria?
-
 7. ¿Qué opinas sobre la comunicación con los cuidadores a través de la función de chat? ¿Encuentras esta opción adecuada?
-
 8. ¿Qué recomendaciones o sugerencias nos darías para mejorar la experiencia de usuario en HousseKeeper y hacer la aplicación más fácil de usar?
-
 9. ¿Recomendarías HousseKeeper a otras personas que buscan servicios de cuidadores de casas? ¿Por qué?
 
 
 
 **Segmento de cuidadores de casa**
 1. ¿Qué opinas sobre la experiencia de navegación en HousseKeeper como persona que cuida casas?
-
 2. ¿Crees que la plataforma proporciona suficiente información para que los cuidadores comprendan las expectativas y funciones de la aplicación?
-
 3. ¿Qué tipo de información adicional te gustaría ver en las descripciones de las casas que cuidarás?
-
 4. ¿Consideras que los beneficios proporcionados por las membresías son útiles para las personas que cuidan casas?
-
-5. ¿Cómo crees que la función de historial de reservas podría mejorar tu capacidad para realizar un seguimiento y gestionar las casas que cuidas?
-
+5. Cómo crees que la función de historial de reservas podría mejorar tu capacidad para realizar un seguimiento y gestionar las casas que cuidas?
 6. ¿Piensas que la función de mensajería en HousseKeeper mejora la interacción entre los cuidadores y los dueños de las casas?
-
 7. ¿Cuál es la característica de la plataforma que consideras más útil para el crecimiento de tu negocio como cuidador de casas?
-
 8. ¿Qué otras funcionalidades te gustarían ver o crees que podrían mejorar en HousseKeeper en el futuro?
-
 9. ¿Recomendarías la plataforma HousseKeeper a otros cuidadores de casas? ¿Por qué?
 
 
 ### 5.3.2 Registro  de Entrevistas   
 ***Representantes de dueños de casa:***   
-1.  Primera entrevista:
-Entrevistado: 
-Residencia: 
+
+- Primera entrevista:  
+Entrevistado:   
+Residencia: Lima   
 Entrevistador: 
+Enlace []  
 
-2. Segunda entrevista:
-Entrevistado: 
-Residencia: 
-Entrevistador:   
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
+
+- Segunda entrevista:  
+Entrevistado: José David  
+Residencia: Lima   
+Entrevistador: Leonardo Patrocinio 
+Enlace [https://youtu.be/55nhocCnYYs]  
+
+Resumen de entrevista:  
+00:45 - ¿Cómo describirías tu experiencia al utilizar HousseKeeper para encontrar un cuidador de casas?
+"Bastante buena y positiva"
+
+01:00 - ¿Qué características de la aplicación HousseKeeper encontraste más útiles para tus necesidades como dueño de casa?
+"Lo que me gustó es la calificación e los cuidadores de casas."
+
+02:50 - ¿Qué opinas sobre la comunicación con los cuidadores a través de la función de chat? 
+"La comunicación a través del chat me parece adecuada. Es eficiente para la comunicación con los cuidadores antes de su llegada"
+
+03:10 - ¿Qué recomendaciones o sugerencias nos darías para mejorar la experiencia de usuario en HousseKeeper y hacer la aplicación más fácil de usar?
+"Para mejorar, sería genial si la aplicación me permitiera calificar las fotos que los cuidadores envían para saber más sobre lo que sucede en la casa"
 
 
-3.Tercera entrevista:
-Entrevistado: 
-Residencia: 
+- Tercera entrevista:  
+Entrevistado:   
+Residencia: Lima   
 Entrevistador: 
+Enlace []  
 
-Resumen de entrevista 1:
-
-00:00 - ¿  ?
-"          "
-00:00 - ¿  ?
-"          "
-00:00 - ¿  ?
-"          "
+Resumen de entrevista:  
 00:00 - ¿  ?
 "          "
 
 ***Representates de dueños de casa***  
-1.  Primera entrevista:
-Entrevistado: 
-Residencia: 
+- Primera entrevista:  
+Entrevistado:   
+Residencia: Lima   
 Entrevistador: 
+Enlace []  
 
-2. Segunda entrevista:
-Entrevistado: 
-Residencia: 
-Entrevistador:   
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
 
-
-3.Tercera entrevista:
-Entrevistado: 
-Residencia: 
+- Segunda entrevista:  
+Entrevistado:   
+Residencia: Lima   
 Entrevistador: 
-  
+Enlace []  
 
-Resumen de entrevista 1:
+Resumen de entrevista:  
+00:00 - ¿  ?
+"          "
 
-00:00 - ¿  ?
-"          "
-00:00 - ¿  ?
-"          "
-00:00 - ¿  ?
-"          "
+- Tercera entrevista:  
+Entrevistado:   
+Residencia: Lima   
+Entrevistador: 
+Enlace []  
+
+Resumen de entrevista:  
 00:00 - ¿  ?
 "          "
 
