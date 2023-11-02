@@ -1347,7 +1347,14 @@ Para este Sprint se desarrolló el Frontend de la plataforma.
 |                                                         | main       |  2bd24611ce439d9809e1d90e4c3b2ee7be19bbc3 | Update find-keeper.component.ts       |           -             |        01/11/2023      |
   
 #### Testing Suite Evidence for Sprint 3 Review  
-Acceptance Tests actualizados de los User Stories, archivos .feature   
+En el Sprint 3 de nuestro proyecto, nos hemos fijado el ambicioso objetivo de finalizar el desarrollo del Frontend de la aplicación "HousseKeeper" y avanzar significativamente en el Back-end para prepararnos para el próximo sprint. Durante la reunión de planificación del sprint, que se llevó a cabo el 2 de octubre de 2023, discutimos los siguientes puntos clave:
+1.	Revisión del Sprint 2: En el Sprint 2, logramos mejoras significativas en el código y avanzamos en el desarrollo del aspecto Frontend de la aplicación. Aunque trabajamos de manera fluida y todos los miembros del equipo participaron de manera equitativa, consideramos que podríamos haber completado más secciones del Frontend.
+2.	Objetivo del Sprint 3: El principal objetivo de este Sprint es finalizar el desarrollo del Frontend de la aplicación "HousseKeeper". También tenemos como objetivo avanzar en el Back-end para llegar a un punto funcional que nos permita completar el próximo sprint. Esto marcará un hito importante en nuestro proyecto.
+3.	Velocity Establecido: Dado el alcance de las tareas para este sprint, hemos establecido un Velocity de 60, lo que significa que estamos comprometidos a entregar 60 puntos de historia en este sprint.
+4.	Historias de Usuario y Tareas: Hemos definido varias Historias de Usuario con sus respectivas tareas para este sprint. Algunas de las tareas incluyen la edición de perfiles para Keepers y Travelers, implementación del sistema de pago para reservas de viaje, búsqueda de Keepers, filtrado por calificación y ubicación, solicitud de un Keeper, visualización de calificaciones y reseñas, y funciones de comunicación con el Traveler.
+5.	Asignación de Tareas: Cada tarea se ha asignado a un miembro del equipo, y se encuentra en varios estados de desarrollo, incluyendo completadas y en proceso. Nuestro objetivo es trabajar de manera eficiente y colaborativa para alcanzar nuestros objetivos en este sprint.
+El equipo está comprometido y entusiasmado con los desafíos que presenta el Sprint 3, y estamos ansiosos por alcanzar los hitos planeados.
+ 
 
 
 Link al repositorio de codigo: https://github.com/HousseKeeper-SW54-Grupo4  
@@ -1383,12 +1390,12 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 
 |     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
 |---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://housseKeeper.web.app/keepers](https://housseKeeper.web.app/keepers)                      |
-|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://housseKeeper.web.app/viajes](https://housseKeeper.web.app/viajes)                        |
-|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://housseKeeper.web.app/keeperRequest](https://housseKeeper.web.app/keeperRequest)          |
-|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://housseKeeper.web.app/MensajesTraveller](https://housseKeeper.web.app/MensajesTraveller)  |
-|  /casas             |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://housseKeeper.web.app/casas ](https://housseKeeper.web.app/casas)                         |
-|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://housseKeeper.web.app/Mensajes](https://housseKeeper.web.app/Mensajes)                    |
+|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
+|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
+|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
+|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
+|  /casas             |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/casas ](https://house-keeper-api.vercel.app/casas)                         |
+|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
 
   
 Link del Repositorio de Web Services: [
@@ -1673,7 +1680,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ---
 
 ## Video About-the-Product  
-
+Enlace [https://www.youtube.com/watch?v=1Au336NiWrs] 
 
 # Conclusiones
 
