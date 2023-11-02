@@ -1415,9 +1415,11 @@ Link del Repositorio de Web Services: [https://house-keeper-api.vercel.app](http
   
 
 #### Software Deployment Evidence for Sprint 3 Review  
-La aplicación desplegada se encuentra en el siguiente enlace  
-[https://](https://),   
-más para su correcto funcionamiento, se necesita desplegar el servidor json-server de nustro archivo db.json, en cual se encuentra en el siguiente enlace [https://github.com/HousseKeeper-SW54-Grupo4/Front-End/server/db.json](https://github.com/HousseKeeper-SW54-Grupo4/Front-End/blob/main/server/db.json)   
+En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://](https://),
+
+Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un servicio web adicional. Este servicio se encuentra alojado en el siguiente enlace: [https://house-keeper-api.vercel.app/](https://house-keeper-api.vercel.app/)
+
+Este enlace es esencial para la comunicación y funcionalidad adecuada de la aplicación.
   
 #### Team Collaboration Insights during Sprint 3.  
 Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Establecimos dos ramas principales: "main" para el informe final.Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
