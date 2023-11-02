@@ -1452,7 +1452,8 @@ Resumen de entrevista:
 - Segunda entrevista:  
 Entrevistado: José David  
 Residencia: Lima   
-Entrevistador: Leonardo Patrocinio 
+Entrevistador: Leonardo Patrocinio
+
 Enlace [https://youtu.be/55nhocCnYYs]  
 
 Resumen de entrevista:  
