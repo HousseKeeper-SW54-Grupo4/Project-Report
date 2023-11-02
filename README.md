@@ -1418,9 +1418,12 @@ Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Est
 
 GitFlow
 
+![Imgur](https://i.imgur.com/MrGtGND.png)
 
 Contribuitors
+![Imgur](https://i.imgur.com/BXfuerl.png)
 
+![Imgur](https://i.imgur.com/wpIycuu.png)
 
 
 ## Validation Interviews
