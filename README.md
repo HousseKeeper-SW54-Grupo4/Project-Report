@@ -1531,6 +1531,25 @@ Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial 
 
   
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.  
+
+**Introducion:**  
+En este cuarto sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente  endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
+Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia del usuario, especialmente en áreas relacionadas con visualización de keepers pendientes, búsqueda de keepers y comunicación entre usuarios.
+
+**Tabla:**  
+
+|     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
+|---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
+|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
+|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
+|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
+|  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
+|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+
+Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo4/Front-End/tree/main/src/app/public/services
+  
+Link del de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
   
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.  
   
