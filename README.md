@@ -1490,6 +1490,29 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
 #### 5.2.4.3. Development Evidence for Sprint Review.  
   
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.  
+Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial en el desarrollo de la aplicación "HousseKeeper". A continuación, presentamos un resumen detallado de los aspectos clave abordados durante este sprint:
+
+#### 1. Revisión del Sprint 3:
+   - En el Sprint 3, iniciamos el desarrollo del backend y realizamos mejoras sustanciales en varios aspectos de la aplicación. Aunque logramos un progreso ordenado, reconocemos la posibilidad de optimizar la velocidad de desarrollo tanto en el backend como en el frontend.
+
+#### 2. Objetivo del Sprint 4:
+   - El principal objetivo fue concluir el desarrollo del backend y establecer una conexión integral con el frontend. Esto nos permitirá alcanzar una versión entregable completa de la aplicación.
+
+#### 3. Velocity Establecido:
+   - Considerando la complejidad de las tareas, nos comprometimos con un Velocity de XX para este sprint.
+
+#### 4. Historias de Usuario y Tareas:
+   - Definimos múltiples Historias de Usuario junto con sus correspondientes tareas. Estas abarcan aspectos cruciales como la gestión de perfiles, revisión de reservas, búsqueda y filtrado de keepers, reservas de servicios, historial de reservas y comunicación efectiva con el traveler.
+
+#### 5. Asignación de Tareas:
+   - Cada tarea se asignó meticulosamente a un miembro del equipo, y actualmente se encuentran en diversos estados de desarrollo, algunas ya completadas y otras en proceso.
+
+#### 6. Desarrollo Backend y Conexión con Frontend:
+   - Durante este sprint, todas las tareas del Sprint Backlog se enfocaron en el desarrollo robusto del backend, asegurando simultáneamente una integración fluida con el frontend. Esta estrategia garantiza una funcionalidad completa y armoniosa de la aplicación.
+
+#### 7. Compromiso del Equipo:
+   - El equipo manifiesta su compromiso y entusiasmo para superar los desafíos presentados en el Sprint 4. Hemos aprendido de nuestras experiencias anteriores y nos esforzamos por alcanzar los objetivos planificados.
+
   
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
