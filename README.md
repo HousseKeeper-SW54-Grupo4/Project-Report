@@ -1593,6 +1593,17 @@ Durante este sprint, nuestro equipo se centró en completar el backend de la apl
 
 Nuestra estrategia de colaboración se basó en mantener una estructura organizativa clara en nuestro repositorio de GitHub. Nos adherimos a la metodología Gitflow al designar dos ramas principales: "main" para el informe final y "develop" para consolidar las contribuciones individuales. Cada miembro del equipo tenía su rama personalizada siguiendo el formato "nombre del miembro del equipo/funcionalidad", lo que permitía espacios de trabajo individualizados y un seguimiento transparente de las contribuciones.
 
+GitFlow
+
+![Imgur](https://)
+
+Contribuitors
+
+![Imgur](https://)
+
+![Imgur](https://)
+
+![Imgur](https://)
 
 
 ## Validation Interviews
