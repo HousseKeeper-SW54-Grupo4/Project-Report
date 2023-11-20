@@ -33,17 +33,6 @@
 | TB2           | 01/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Implentación del sprint 3       |
 | TB2           | 01/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Christian Jose Zeta Valenzuela<br>- Leonardo Walt Patrocinio Escalante<br>- Leonardo Jesús Ferreyra Canaval    | Implentación del sprint 4     |
 
-# Project Report Collaboration Insights
-
-## URL del repositorio del Project Report
-
-https://github.com/HousseKeeper-SW54-Grupo4 
-
-## Insights
-INSERTAR IMÁGENES CON FECHA
-## Commits
-INSERTAR IMÁGENES CON FECHA
-
 # Contenido
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
