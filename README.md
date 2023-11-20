@@ -1493,7 +1493,6 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
   
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-Durante este cuarto y último sprint, en términos generales, hemos llegado a completar el flujo principal de nuestra aplicación web, que en este caso sería los "status" de una reserva hecha por el cliente al reservar un servicio.
 
 
   
