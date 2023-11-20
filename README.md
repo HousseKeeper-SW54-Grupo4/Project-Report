@@ -36,10 +36,6 @@
 # Contenido
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
-- [Project Report Collaboration Insights](#project-report-collaboration-insights)
-  - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
-  - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -87,7 +83,6 @@
     - [Landing Page Wireframe](#landing-page-wireframe)
     - [Landing Page Mock-up](#landing-page-mock-up)
   - [Web Applications UX/UI Design](#web-applications-uxui-design)
-    - [Web Applications Wireframes](#web-applications-wireframes)
     - [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams)
     - [Web Applications Mock-ups](#web-applications-mock-ups)
     - [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
@@ -750,7 +745,8 @@ En esta  aplicación  organizaremos  según  nuestros  usuarios,  en  este  caso
     </tr>
   </tbody>
 </table>
-### SEO Tags and Meta Tags
+
+# SEO Tags and Meta Tags
 
 Se establecieron los siguientes SEO Tags and Meta Tags para nuestra aplicación web:
 Meta title: HousseKeeper.com - Hotel Management Software
@@ -1435,9 +1431,9 @@ Contribuitors
 
 Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeeper", nos enfrentamos a un desafío de tiempo considerable. Debido a restricciones y plazos ajustados, solo una persona pudo completar la tarea de subir el archivo del backend al repositorio. Sin embargo, es importante destacar que el progreso en el desarrollo del backend se logró de manera colaborativa a través de sesiones de codificación en tiempo real utilizando la plataforma "code-with-me". A pesar de la limitación de tiempo, todos los miembros del equipo participaron activamente en la implementación y revisión de código, lo que permitió avanzar significativamente en la construcción del backend. Esta colaboración en tiempo real facilitó la resolución de problemas, el intercambio de ideas y la mejora continua del código.
 
-### 5.2.4. Sprint 4  
+### Sprint 4  
   
-#### 5.2.4.1. Sprint Planning 4.  
+#### Sprint Planning 4.  
   
 
 | **Sprint 4** | |
@@ -1455,7 +1451,7 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
 | Sprint & Velocity | Debido al alcance establecido para este sprint, el Velocity establecido para este sprint es XX. |
 | Sum of Story Point | La suma de Story points que el equipo estara desarrollando este sprint es XX. |  
   
-#### 5.2.4.2. Sprint Backlog 4.  
+#### Sprint Backlog 4.  
 
 |     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                                                   |                   |                               |                      |
 |----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
@@ -1477,7 +1473,7 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
 |                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Patrocinio          |     Completado       |
 
   
-#### 5.2.4.3. Development Evidence for Sprint Review.  
+#### Development Evidence for Sprint Review.  
 
 Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 | **Repository**                                          | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
@@ -1490,37 +1486,37 @@ Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 |                                                         | main       |     | Update component.ts                   |           -             |        20/11/2023      |
 | https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |     | Update Backed                         |           -             |        20/11/2023      |
   
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review.  
+#### Testing Suite Evidence for Sprint Review.  
 Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial en el desarrollo de la aplicación "HousseKeeper". A continuación, presentamos un resumen detallado de los aspectos clave abordados durante este sprint:
 
-#### 1. Revisión del Sprint 3:
+##### 1. Revisión del Sprint 3:
    - En el Sprint 3, iniciamos el desarrollo del backend y realizamos mejoras sustanciales en varios aspectos de la aplicación. Aunque logramos un progreso ordenado, reconocemos la posibilidad de optimizar la velocidad de desarrollo tanto en el backend como en el frontend.
 
-#### 2. Objetivo del Sprint 4:
+##### 2. Objetivo del Sprint 4:
    - El principal objetivo fue concluir el desarrollo del backend y establecer una conexión integral con el frontend. Esto nos permitirá alcanzar una versión entregable completa de la aplicación.
 
-#### 3. Velocity Establecido:
+##### 3. Velocity Establecido:
    - Considerando la complejidad de las tareas, nos comprometimos con un Velocity de XX para este sprint.
 
-#### 4. Historias de Usuario y Tareas:
+##### 4. Historias de Usuario y Tareas:
    - Definimos múltiples Historias de Usuario junto con sus correspondientes tareas. Estas abarcan aspectos cruciales como la gestión de perfiles, revisión de reservas, búsqueda y filtrado de keepers, reservas de servicios, historial de reservas y comunicación efectiva con el traveler.
 
-#### 5. Asignación de Tareas:
+##### 5. Asignación de Tareas:
    - Cada tarea se asignó meticulosamente a un miembro del equipo, y actualmente se encuentran en diversos estados de desarrollo, algunas ya completadas y otras en proceso.
 
-#### 6. Desarrollo Backend y Conexión con Frontend:
+##### 6. Desarrollo Backend y Conexión con Frontend:
    - Durante este sprint, todas las tareas del Sprint Backlog se enfocaron en el desarrollo robusto del backend, asegurando simultáneamente una integración fluida con el frontend. Esta estrategia garantiza una funcionalidad completa y armoniosa de la aplicación.
 
-#### 7. Compromiso del Equipo:
+##### 7. Compromiso del Equipo:
    - El equipo manifiesta su compromiso y entusiasmo para superar los desafíos presentados en el Sprint 4. Hemos aprendido de nuestras experiencias anteriores y nos esforzamos por alcanzar los objetivos planificados.
 
   
-#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### Execution Evidence for Sprint Review.
 
 
 
   
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review.  
+#### Services Documentation Evidence for Sprint Review.  
 
 **Introducion:**  
 En este cuarto sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente  endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
@@ -1541,9 +1537,9 @@ Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo
   
 Link del de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
   
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review.  
+#### Software Deployment Evidence for Sprint Review.  
   
-#### 5.2.4.8. Team Collaboration Insights during Sprint.
+#### Team Collaboration Insights during Sprint.
 Durante este sprint, nuestro equipo se centró en completar el backend de la aplicación e integrarlo con el frontend para lograr una versión entregable de la aplicación final. Para garantizar un proceso de colaboración fluido, continuamos utilizando Gitflow, un modelo de ramificación que facilita el control eficiente de versiones y la colaboración en GitHub.
 
 Nuestra estrategia de colaboración se basó en mantener una estructura organizativa clara en nuestro repositorio de GitHub. Nos adherimos a la metodología Gitflow al designar dos ramas principales: "main" para el informe final y "develop" para consolidar las contribuciones individuales. Cada miembro del equipo tenía su rama personalizada siguiendo el formato "nombre del miembro del equipo/funcionalidad", lo que permitía espacios de trabajo individualizados y un seguimiento transparente de las contribuciones.
