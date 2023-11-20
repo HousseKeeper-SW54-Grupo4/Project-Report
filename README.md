@@ -130,6 +130,15 @@
       - [Services Documentation Evidence for Sprint 3 Review](#services-documentation-evidence-for-sprint-3-review)
       - [Software Deployment Evidence for Sprint 3 Review](#software-deployment-evidence-for-sprint-3-review)
       - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
+    - [Sprint 4](#sprint-4)
+      - [Sprint Planning 4](#sprint-planning-4)
+      - [Sprint Backlog 4](#sprint-backlog-4)
+      - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-4-review)
+      - [Testing Suite Evidence for Sprint 4 Review](#testing-suite-evidence-for-sprint-4-review)
+      - [Execution Evidence for Sprint 4 Review](#execution-evidence-for-sprint-4-review)
+      - [Services Documentation Evidence for Sprint 4 Review](#services-documentation-evidence-for-sprint-4-review)
+      - [Software Deployment Evidence for Sprint 4 Review](#software-deployment-evidence-for-sprint-4-review)
+      - [Team Collaboration Insights during Sprint 4](#team-collaboration-insights-during-sprint-4)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
@@ -1473,7 +1482,7 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
 |                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Patrocinio          |     Completado       |
 
   
-#### Development Evidence for Sprint Review.  
+#### Development Evidence for Sprint 4 Review.  
 
 Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 | **Repository**                                          | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
@@ -1486,7 +1495,7 @@ Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 |                                                         | main       |     | Update component.ts                   |           -             |        20/11/2023      |
 | https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |     | Update Backed                         |           -             |        20/11/2023      |
   
-#### Testing Suite Evidence for Sprint Review.  
+#### Testing Suite Evidence for Sprint 4 Review.  
 Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial en el desarrollo de la aplicación "HousseKeeper". A continuación, presentamos un resumen detallado de los aspectos clave abordados durante este sprint:
 
 ##### 1. Revisión del Sprint 3:
@@ -1511,12 +1520,12 @@ Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial 
    - El equipo manifiesta su compromiso y entusiasmo para superar los desafíos presentados en el Sprint 4. Hemos aprendido de nuestras experiencias anteriores y nos esforzamos por alcanzar los objetivos planificados.
 
   
-#### Execution Evidence for Sprint Review.
+#### Execution Evidence for Sprint 4 Review.
 
 
 
   
-#### Services Documentation Evidence for Sprint Review.  
+#### Services Documentation Evidence for Sprint 4 Review.  
 
 **Introducion:**  
 En este cuarto sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente  endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
@@ -1537,9 +1546,9 @@ Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo
   
 Link del de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
   
-#### Software Deployment Evidence for Sprint Review.  
+#### Software Deployment Evidence for Sprint 4 Review.  
   
-#### Team Collaboration Insights during Sprint.
+#### Team Collaboration Insights during Sprint 4.
 Durante este sprint, nuestro equipo se centró en completar el backend de la aplicación e integrarlo con el frontend para lograr una versión entregable de la aplicación final. Para garantizar un proceso de colaboración fluido, continuamos utilizando Gitflow, un modelo de ramificación que facilita el control eficiente de versiones y la colaboración en GitHub.
 
 Nuestra estrategia de colaboración se basó en mantener una estructura organizativa clara en nuestro repositorio de GitHub. Nos adherimos a la metodología Gitflow al designar dos ramas principales: "main" para el informe final y "develop" para consolidar las contribuciones individuales. Cada miembro del equipo tenía su rama personalizada siguiendo el formato "nombre del miembro del equipo/funcionalidad", lo que permitía espacios de trabajo individualizados y un seguimiento transparente de las contribuciones.
