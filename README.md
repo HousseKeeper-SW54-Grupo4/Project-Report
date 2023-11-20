@@ -1489,10 +1489,11 @@ Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 | https://github.com/HousseKeeper-SW54-Grupo4             | main       | 27a97bf92151714931b041adfd7ef30bc6917091 | Update README.md    |           -             |        20/11/2023      |
 |                                                         | main       | fb82fbdf8502f39ed4fd2fb9e1a8fe3bb0f5731d | Update Sprint 4.md  |           -             |        20/11/2023      |
 |                                                         | main       | 09af2979c246a5a31e457bc0c2a01de3e187188e | Update README.md    |           -             |        20/11/2023      |
-| https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       |     | Update Front end                      |           -             |        20/11/2023      |
-|                                                         | main       |     | Components Update                     |           -             |        20/11/2023      |
-|                                                         | main       |     | Update component.ts                   |           -             |        20/11/2023      |
-| https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       |     | Update Backed                         |           -             |        20/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       | e0c29612472f49826c9971d918cf20099ca951b1 | Update Front end    |           -             |        16/11/2023      |
+|                                                         | main       | 1d5fab47bc20a31d11773428ac1b62b01e38b3f1 | fix filter keeper   |           -             |        16/11/2023      |
+|                                                         | main       | e3802be09019736122d1f1accbaff5ea44ffe489 | Update security     |           -             |        16/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4/Back-End    | main       | 1f254c9db2f4051e45fc7ca23c239f8dc1f6322f | Update Backed       |           -             |        19/11/2023      |
+|                                                         | main       | b53b27f54105589d2a7d27e1b7756c0979a02fba | Updated House       |           -             |        20/11/2023      |
   
 #### Testing Suite Evidence for Sprint 4 Review.  
 Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial en el desarrollo de la aplicación "HousseKeeper". A continuación, presentamos un resumen detallado de los aspectos clave abordados durante este sprint:
