@@ -1445,6 +1445,69 @@ Contribuitors
 
 Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeeper", nos enfrentamos a un desafío de tiempo considerable. Debido a restricciones y plazos ajustados, solo una persona pudo completar la tarea de subir el archivo del backend al repositorio. Sin embargo, es importante destacar que el progreso en el desarrollo del backend se logró de manera colaborativa a través de sesiones de codificación en tiempo real utilizando la plataforma "code-with-me". A pesar de la limitación de tiempo, todos los miembros del equipo participaron activamente en la implementación y revisión de código, lo que permitió avanzar significativamente en la construcción del backend. Esta colaboración en tiempo real facilitó la resolución de problemas, el intercambio de ideas y la mejora continua del código.
 
+### 5.2.4. Sprint 4  
+  
+#### 5.2.4.1. Sprint Planning 4.  
+  
+
+| **Sprint 4** | |
+|:---: | :---| 
+| | **Sprint planning background** |   
+| Date | 10/11/23 |
+| Time | 08:00 PM |
+| Location | Google Meet - Virtual Meeting |
+| Prepared by | Christian Zeta |
+| Attendees to meeting | Leonardo Ferreyra, Alonso Robles, Leonardo Patrocinio |
+| Sprint 3 Review Summary | Se realizo el sprint 3, se comenzo con el backend y se mejoraron otros aspectos de la app.|
+| Sprint 3 Retrospective Summary | Se trabajo de manera ordenada, en la opinión del equipo creemos que pudimos haber avanzado más rapido el desarrollo del backend y front-end.  |
+| | **Sprint Goal & User Stories** |
+| Sprint & Goal | El objetivo del Sprint 4 sera terminar el backend de la applicación, asi como conectarlo con el front-end para tener asi la versión entregable de la app final. |
+| Sprint & Velocity | Debido al alcance establecido para este sprint, el Velocity establecido para este sprint es XX. |
+| Sum of Story Point | La suma de Story points que el equipo estara desarrollando este sprint es XX. |  
+  
+#### 5.2.4.2. Sprint Backlog 4.  
+
+|     Sprint #         |     Sprint 3                      |                           |                                                                      |                                                                                                                   |                   |                               |                      |
+|----------------------|-----------------------------------|---------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------|-------------------------------|----------------------|
+|     User   Story     |                                   |     Work –   Item/Task    |                                                                      |                                                                                                                   |                   |                               |                      |
+|     Id               |     Título                        |     Id                    |     Título                                                           |     Descripción                                                                                                   |     Estimación    |     Asignado   a              |     Estado           |
+| HU001-HU002          | Gestión de perfil                 |     WI01                  |     Edición de perfil de keeper                                      |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     3h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI02                  |     Edición de perfil de traveler                                    |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     3h            |  Christian Zeta               |     Completado       |
+| HU003-HU004          | Revisión de reservas y solicitudes|     WI03                  |     Pago para reserva de viaje                                       |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     4h            |  Leonardo Ferreyra            |     Completado       |
+|                      |                                   |     WI04                  |     Visualizar las solicitudes de keepers                            |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     3h            |  Leonardo Patrocinio          |     Completado       |
+| HU005-HU007          | Búsqueda de keepers               |     WI05                  |     Búsqueda de keepers                                              |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     4h            |  Leonardo Patrocinio          |     Completado       |
+|                      |                                   |     WI06                  |     Filtrar por calificación                                         |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI07                  |     Filtrar por ubicación                                            |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Patrocinio          |     Completado       |
+| HU008-HU010          | Reserva de Servicios              |     WI08                  |     Solicitar un keeper                                              |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI09                  |     Visualizar la calificación del keeper                            |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Alonso Robles                |     Completado       |
+|                      |                                   |     WI10                  |     Visualizar reseñas de los keepers                                |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Alonso Robles                |     Completado       |
+| HU011 - HU012        | Historial de reservas             |     WI11                  |     Realizar una reseña a los keepers                                |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Ferreyra            |     Completado       |
+|                      |                                   |     WI12                  |     Cancelar solicitud de keeper                                     |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Ferreyra            |     Completado       |
+| HU013 - HU014        | Comunicación con el traveller     |     WI13                  |     Comunicación con el traveller                                    |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Christian Zeta               |     Completado       |
+|                      |                                   |     WI14                  |     Recepción de mensajes del traveller                              |   Desarrollado en el backend e integrándose con el frontend para la implementación completa de la funcionalidad.  |     2h            |  Leonardo Patrocinio          |     Completado       |
+
+  
+#### 5.2.4.3. Development Evidence for Sprint Review.  
+  
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.  
+  
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Durante este cuarto y último sprint, en términos generales, hemos llegado a completar el flujo principal de nuestra aplicación web, que en este caso sería los "status" de una reserva hecha por el cliente al reservar un servicio.
+
+
+  
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.  
+  
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.  
+  
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+Durante este sprint, nuestro equipo se centró en completar el backend de la aplicación e integrarlo con el frontend para lograr una versión entregable de la aplicación final. Para garantizar un proceso de colaboración fluido, continuamos utilizando Gitflow, un modelo de ramificación que facilita el control eficiente de versiones y la colaboración en GitHub.
+
+Nuestra estrategia de colaboración se basó en mantener una estructura organizativa clara en nuestro repositorio de GitHub. Nos adherimos a la metodología Gitflow al designar dos ramas principales: "main" para el informe final y "develop" para consolidar las contribuciones individuales. Cada miembro del equipo tenía su rama personalizada siguiendo el formato "nombre del miembro del equipo/funcionalidad", lo que permitía espacios de trabajo individualizados y un seguimiento transparente de las contribuciones.
+
+
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas  
