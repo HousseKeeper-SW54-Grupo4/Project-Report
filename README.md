@@ -1379,7 +1379,7 @@ Link del backend: https://github.com/HousseKeeper-SW54-Grupo4/Back-End
 
 #### Services Documentation Evidence for Sprint 3 Review
 
-**Introducion:**  
+**Introducción:**  
 En este tercer sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente 66 endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
 Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia del usuario, especialmente en áreas relacionadas con visualización de keepers pendientes, búsqueda de keepers y comunicación entre usuarios.
 
@@ -1526,7 +1526,7 @@ Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial 
   
 #### Services Documentation Evidence for Sprint 4 Review.  
 
-**Introducion:**  
+**Introduccion:**  
 En este cuarto sprint de desarrollo del proyecto "HousseKeeper", hemos logrado implementar exitosamente  endpoints que están relacionados con diversas funcionalidades clave de la aplicación. "HousseKeeper" es una plataforma que permite a los usuarios buscar y reservar los servicios de keepers para el cuidado de sus hogares, proporcionando una solución integral para viajeros y propietarios de casas. 
 Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia del usuario, especialmente en áreas relacionadas con visualización de keepers pendientes, búsqueda de keepers y comunicación entre usuarios.
 
@@ -1541,11 +1541,21 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 |  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
 |  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
 
-Link del Repositorio de Web Services: https://github.com/HousseKeeper-SW54-Grupo4/Front-End/tree/main/src/app/public/services
+Link del Repositorio de Web Services: [https://github.com/HousseKeeper-SW54-Grupo4/Back-End](https://github.com/HousseKeeper-SW54-Grupo4/Back-End)
+
+
+Link del swagger desplegado: [https://web-HousseKeeper-grupo4.azurewebsites.net](https://web-HousseKeeper-grupo4.azurewebsites.net)  
   
-Link del de Web Services: [https://house-keeper-api.vercel.app](https://house-keeper-api.vercel.app)
-  
-#### Software Deployment Evidence for Sprint 4 Review.  
+#### Software Deployment Evidence for Sprint 4 Review. 
+
+En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
+
+Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un backend desplegado. Este backend se encuentra alojado en el siguiente enlace: 
+
+Este enlace es esencial para la comunicación y funcionalidad adecuada de la aplicación, asegurando una integración sin problemas entre el frontend y el backend.
+
+El desarrollo del backend es una parte fundamental de nuestra aplicación "HousseKeeper". Nos complace anunciar que hemos completado con éxito la implementación de esta parte esencial de nuestro sistema y hemos logrado una integración exitosa con el frontend. Puedes seguir nuestro progreso y conocer en detalle la implementación actual visitando el siguiente enlace: https://github.com/HousseKeeper-SW54-Grupo4/Back-End
+Estamos comprometidos a proporcionar un backend sólido que respalde plenamente la funcionalidad de nuestra aplicación, garantizando una comunicación y una interacción adecuadas con todos los componentes de nuestra plataforma.
   
 #### Team Collaboration Insights during Sprint 4.
 Durante este sprint, nuestro equipo se centró en completar el backend de la aplicación e integrarlo con el frontend para lograr una versión entregable de la aplicación final. Para garantizar un proceso de colaboración fluido, continuamos utilizando Gitflow, un modelo de ramificación que facilita el control eficiente de versiones y la colaboración en GitHub.
