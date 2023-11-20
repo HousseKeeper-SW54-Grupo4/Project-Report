@@ -1334,7 +1334,7 @@ Commits:
 Para este Sprint se desarrolló el Frontend de la plataforma.
 | **Repository**                                          | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
 |--------|----------|--------|-------|-------|------------|
-| https://github.com/HousseKeeper-SW54-Grupo4.git         | main       |  09a41dc15b84e8f98a4710ef7d55fb48673f5728 | Update Diseño de entrevistas .md      |           -             |        01/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4             | main       |  09a41dc15b84e8f98a4710ef7d55fb48673f5728 | Update Diseño de entrevistas .md      |           -             |        01/11/2023      |
 |                                                         | main       |  8a0a883bcefe02363a997a06f1a3183427a346cf | Update Sprint 3.md                    |           -             |        01/11/2023      |
 |                                                         | main       |  1773eb5025aefd63bc82d843b2583773f87f3814 | Update README.md                      |           -             |        01/11/2023      |
 | https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       |  ead98fbe1fe14cb6dd228a7656eea3c49045f053 | Update Front end                      |           -             |        01/11/2023      |
@@ -1486,7 +1486,7 @@ Durante el proceso de desarrollo del backend de nuestra aplicación "HousseKeepe
 Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 | **Repository**                                          | **Branch** |             **Commit Id**                 | **Commit Message**      | **Commit Message Body** | **Commited on (Date)** |
 |--------|----------|--------|-------|-------|------------|
-| https://github.com/HousseKeeper-SW54-Grupo4.git         | main       |     | Update README.md                      |           -             |        20/11/2023      |
+| https://github.com/HousseKeeper-SW54-Grupo4             | main       |     | Update README.md                      |           -             |        20/11/2023      |
 |                                                         | main       |     | Update Sprint 4.md                    |           -             |        20/11/2023      |
 |                                                         | main       |     | Update README.md                      |           -             |        20/11/2023      |
 | https://github.com/HousseKeeper-SW54-Grupo4/Front-End   | main       |     | Update Front end                      |           -             |        20/11/2023      |
@@ -1534,18 +1534,48 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 
 |     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
 |---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|  /keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
-|  /viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
-|  /keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
-|  /MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
-|  /Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
+|  /api/v1/viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
+|  /api/v1/keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
+|  /api/v1/MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
+|  /api/v1/houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
+|  /api/v1/Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/users/sign-up     |       POST      | 200 Created: Indica que el uusario se creó correctamente         |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/users/sign-im     |       POST      | 200 Created: Indica que el uusario se logeo correctamente         |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                   |
 
 Link del Repositorio de Web Services: [https://github.com/HousseKeeper-SW54-Grupo4/Back-End](https://github.com/HousseKeeper-SW54-Grupo4/Back-End)
 
 
 Link del swagger desplegado: [https://web-HousseKeeper-grupo4.azurewebsites.net](https://web-HousseKeeper-grupo4.azurewebsites.net)  
+
+**Capturas de interaccion con datos de prueba**  
+- Logear usuario (POST)   
+El usuario se logea como usuario tipo keeper o traveller. Esta operación se realiza mediante una solicitud HTTP POST. En este ejemplo vemos que el usuario ha colocado todos datos necesarios para logearse en su cuenta personal
+Una vez que se haya logeado el usuario, el servidor enviará una respuesta al usuario que realizó la solicitud POST. Esta respuesta generalmente incluirá un código de estado HTTP para indicar si la operación se realizó con éxito (por ejemplo, código 201 - Creado) o si hubo algún error (por ejemplo, código 400 - Error de solicitud).
+
+![services](https://  )
+
+- Obtener keeper por su id (GET)  
+Los usuarios desean consultar la información de un keeper en específico. Esta operación se realiza mediante una solicitud HTTP GET utilizando el identificador único (ID) del keeper. A continuación, se presenta un ejemplo en el que se solicita la información de un keeper por su ID.    
+
+![services](https://    )   
   
+- Registrar usuario (POST)   
+El usuario se registra en la plataforma. Esta operación se realiza mediante una solicitud HTTP POST. En este ejemplo vemos que el usuario ha colocado todos sus datos necesarios para registrarse en la plataforma.
+Una vez que se haya registrado el usuario, el servidor enviará una respuesta que realizó la solicitud POST. Esta respuesta generalmente incluirá un código de estado HTTP para indicar si la operación se realizó con éxito (por ejemplo, código 201 - Creado) o si hubo algún error (por ejemplo, código 400 - Error de solicitud).
+
+![services](https://)
+
+- Actualizar usuario por su id (PATCH)  
+Los usuarios desean actualizar la información de su cuenta. Esta operación se realiza mediante una solicitud HTTP PATCH utilizando el identificador único (ID) del trabajador. A continuación, se presenta un ejemplo en el que se actualiza la información de un trabajador por su ID.    
+
+![services](https://)
+      
+- Obtener keepers (GET)
+Los usuarios desean consultar los keepers disponibles. Esta operación se realiza mediante una solicitud HTTP GET. A continuación, se presenta un ejemplo en el que se solicita la información de las distintas membresias.  
+
+![services](https://)
+
 #### Software Deployment Evidence for Sprint 4 Review. 
 
 En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
