@@ -1866,7 +1866,7 @@ Enlace [https://www.youtube.com/watch?v=1Au336NiWrs]
 <b>Exposiciones del equipo</b>
 HTTPS://DRIVE.GOOGLE.COM/DRIVE/FOLDERS/1EVRHVCKIFD-9UVQF17LEIN6J2LCQQ_U2?USP=SHARING <br>
 <b>Artefactos de trabajo</b>
-HTTPS://GITHUB.COM/HOUSSEKEEPER-SW54-GRUPO4/PROJECT-REPORT/EDIT/MAIN/README.MD 
+HTTPS://github.com/HousseKeeper-SW54-Grupo4/Project-Report/blob/main/README.md 
 
 <b>About-the-Team
 https://www.youtube.com/watch?v=1Au336NiWrs<br>
