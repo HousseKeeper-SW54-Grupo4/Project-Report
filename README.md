@@ -1806,15 +1806,28 @@ Enlace [https://www.youtube.com/watch?v=Kk7yEynpLvY]
 
 # Conclusiones
 
-## Conclusiones y recomendaciones
+- Nuestro flujo principal se ha logrado implementar con éxito al agregar componentes de búsqueda de keepers y casas de travellers en nuestra plataforma. Esto facilita a nuestros usuarios encontrar y contactar rápidamente entre si. 
 
-●	HouseKeeper ofrece una solución integral para el cuidado de casas durante los viajes,conectando a propietarios con cuidadores confiables y brindando beneficios tanto para los propietarios como para los viajeros. La plataforma en línea y enfoque en la confianza y seguridad la convierten en una opción atractiva para aquellos que necesitan cuidado de casas y aquellos que buscan oportunidades de alojamiento económico durante sus viajes.<br>
-●	El startup "HousseKeeper" busca proporcionar una solución innovadora y exitosa al ofrecer un intercambio mutuamente beneficioso entre los propietarios de las casas y los cuidadores de casas voluntarios.<br>
-●	Desarrollamos pautas de diseño coherentes para garantizar una experiencia de usuario uniforme y atractiva. Esto incluyó la elección de colores, tipografía y elementos de diseño que se alinean con la identidad de nuestra marca.<br>
-●	Diseñamos una arquitectura de información lógica y una navegación intuitiva dentro de la plataforma.<br>
-●	Utilizamos herramientas de control de versiones para gestionar eficazmente el desarrollo de software y garantizar que todos los miembros del equipo estén sincronizados.<br>
-●	La integración de Angular Material facilita la creación de interfaces de usuario atractivas y coherentes.<br>
-●	Las características como el enlace de datos bidireccional, el enrutamiento y la inyección de dependencias hacen que Angular sea una elección poderosa para el desarrollo de aplicaciones web.<br>
+- El desarrollo colaborativo en los sprints 1, 2, 3 y 4 fue fundamental para integrar las diferentes partes del proyecto. Cada miembro contribuyó a áreas específicas, garantizando el funcionamiento óptimo del proyecto. Durante este proceso, nos aseguramos de cumplir con las características definidas en nuestras historias de usuario y de ajustarnos a los diseños de wireframes y mockups, así como de agregar características para solucionar problemas detectados en las evaluaciones heurísticas realizadas por nuestros 2 segmentos objetivos.
+
+- Concluyendo nuestra integración de equipo en el proyecto "HouseKeeper", hemos completado con éxito cuatro sprints. El cuarto sprint representa nuestra última entrega, durante la cual utilizamos herramientas como WebStorm y lenguajes como JavaScript en el frontend. Desarrollamos componentes clave que mejoran la experiencia de nuestros usuarios al buscar keepers y busqueda de casas de travellers. En el backend, implementamos servicios, controladores, modelos, etc., relacionados con keepers, usuarios, viajes, mensajeria y houses. También agregamos medidas de seguridad al backend para proteger la información de nuestros usuarios y realizamos pruebas para garantizar que cumpla con los escenarios previstos en las historias de usuario.
+
+
+## Conclusiones y Recomendaciones del Proyecto "HouseKeeper"
+
+- HouseKeeper ofrece una solución integral para el cuidado de casas durante los viajes, conectando a propietarios con cuidadores confiables y brindando beneficios tanto para los propietarios como para los viajeros.
+
+- El startup "HouseKeeper" busca proporcionar una solución innovadora y exitosa al ofrecer un intercambio mutuamente beneficioso entre los propietarios de las casas y los cuidadores de casas voluntarios.
+
+- Desarrollamos pautas de diseño coherentes para garantizar una experiencia de usuario uniforme y atractiva, incluyendo la elección de colores, tipografía y elementos de diseño alineados con la identidad de nuestra marca.
+
+- Diseñamos una arquitectura de información lógica y una navegación intuitiva dentro de la plataforma.
+
+- Utilizamos herramientas de control de versiones para gestionar eficazmente el desarrollo de software y garantizar la sincronización de todos los miembros del equipo.
+
+- La integración de Angular Material facilita la creación de interfaces de usuario atractivas y coherentes.
+
+- Las características como el enlace de datos bidireccional, el enrutamiento y la inyección de dependencias hacen que Angular sea una elección poderosa para el desarrollo de aplicaciones web.
 
 ## Video About-the-Team
 Enlace [https://www.youtube.com/watch?v=1Au336NiWrs] 
