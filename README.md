@@ -1521,7 +1521,7 @@ Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial 
 
   
 #### Execution Evidence for Sprint 4 Review.
-
+Durante este cuarto y último sprint, en términos generales, hemos llegado a completar el flujo principal de nuestra aplicación y se conecto el front end con el backend.
 
 
   
