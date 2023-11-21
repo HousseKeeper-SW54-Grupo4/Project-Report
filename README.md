@@ -1539,14 +1539,20 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 
 |     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
 |---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|  /api/v1/keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles        |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
-|  /api/v1/viajes            |       GET       | 200 OK: Retorna la lista de viajes                               |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
-|  /api/v1/keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes            |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
-|  /api/v1/MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                        |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /api/v1/houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper             |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
-|  /api/v1/Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                           |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
-|  /api/v1/users/sign-up     |       POST      | 200 Created: Indica que el uusario se creó correctamente         |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
-|  /api/v1/users/sign-im     |       POST      | 200 Created: Indica que el uusario se logeo correctamente         |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                   |
+|  /api/v1/keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles         |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
+|  /api/v1/keepers           |       POST      | 201 Created: Crea un nuevo keeper en la busqueda de keepers       |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
+|  /api/v1/viajes            |       GET       | 200 OK: Retorna la lista de viajes                                |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
+|  /api/v1/viajes            |       POST      | 201 Created: Crea un nuevo viaje de muestra en la pagina de Keeper|    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
+|  /api/v1/keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes             |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
+|  /api/v1/keeperRequest     |       POST      | 201 Created: Crea una nueva solicitud de keeper pendiente         |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
+|  /api/v1/MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                         |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
+|  /api/v1/MensajesTraveller |       POST      | 201 Created: Crea un nuevo mensaje para travaller                 |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
+|  /api/v1/houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper              |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
+|  /api/v1/houses            |       POST      | 200 Created: Retorna las casas disponibles para el keeper         |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
+|  /api/v1/Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                            |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/Mensajes          |       Post      | 200 Created: Crea un nuevo mensaje para keeper                    |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/users/sign-up     |       POST      | 201 Created: Indica que el uusario se creó correctamente          |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
+|  /api/v1/users/sign-im     |       POST      | 201 Created: Indica que el uusario se logeo correctamente         |   [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                     |
 
 Link del Repositorio de Web Services: [https://github.com/HousseKeeper-SW54-Grupo4/Back-End](https://github.com/HousseKeeper-SW54-Grupo4/Back-End)
 
