@@ -1496,7 +1496,7 @@ Para este Sprint se desarrolló el Frontend y backend de la plataforma.
 |                                                         | Leonardo-Patrocinio | be581c46f0c57e3320a4a997fc8f3c1380ae219e | Updated Viajes        |           -             |        21/11/2023      |
 |                                                         | Leonardo-Patrocinio | aace11ab08eb4e4aed489611d977210bfb800451 | Add MensajeriaBackend |           -             |        21/11/2023      |
 |                                                         | Alonso-Robles       | 24a842fa76bea4af662457d64330dc2ab82e312b | Updated Components    |           -             |        21/11/2023      |
-|                                                         | main                |                                          | Updated backend       |           -             |        21/11/2023      |
+|                                                         | main                | 37625395371abda69338ec0712a417d0cb469519 | Updated backend       |           -             |        21/11/2023      |
   
 #### Testing Suite Evidence for Sprint 4 Review.  
 Durante el Sprint 4, nuestro enfoque se ha centrado en alcanzar un hito crucial en el desarrollo de la aplicación "HousseKeeper". A continuación, presentamos un resumen detallado de los aspectos clave abordados durante este sprint:
@@ -1538,25 +1538,25 @@ Durante este sprint, hemos enfocado nuestros esfuerzos en mejorar la experiencia
 
 |     **Endpoint**    | **Metodo HTTP** |           **Acciones (Explicacion del response)**                | **Enlace** | 
 |---------------------|-----------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|  /api/v1/keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles         |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
-|  /api/v1/keepers           |       POST      | 201 Created: Crea un nuevo keeper en la busqueda de keepers       |    [https://house-keeper-api.vercel.app/keepers](https://house-keeper-api.vercel.app/keepers)                      |
-|  /api/v1/viajes            |       GET       | 200 OK: Retorna la lista de viajes                                |    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
-|  /api/v1/viajes            |       POST      | 201 Created: Crea un nuevo viaje de muestra en la pagina de Keeper|    [https://house-keeper-api.vercel.app/viajes](https://house-keeper-api.vercel.app/viajes)                        |
-|  /api/v1/keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes             |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
-|  /api/v1/keeperRequest     |       POST      | 201 Created: Crea una nueva solicitud de keeper pendiente         |    [https://house-keeper-api.vercel.app/keeperRequest](https://house-keeper-api.vercel.app/keeperRequest)          |
-|  /api/v1/MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                         |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /api/v1/MensajesTraveller |       POST      | 201 Created: Crea un nuevo mensaje para travaller                 |    [https://house-keeper-api.vercel.app/MensajesTraveller](https://house-keeper-api.vercel.app/MensajesTraveller)  |
-|  /api/v1/houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper              |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
-|  /api/v1/houses            |       POST      | 200 Created: Retorna las casas disponibles para el keeper         |    [https://house-keeper-api.vercel.app/houses](https://house-keeper-api.vercel.app/houses)                        |
-|  /api/v1/Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                            |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
-|  /api/v1/Mensajes          |       Post      | 200 Created: Crea un nuevo mensaje para keeper                    |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
-|  /api/v1/users/sign-up     |       POST      | 201 Created: Indica que el uusario se creó correctamente          |    [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                    |
-|  /api/v1/users/sign-im     |       POST      | 201 Created: Indica que el uusario se logeo correctamente         |   [https://house-keeper-api.vercel.app/Mensajes](https://house-keeper-api.vercel.app/Mensajes)                     |
+|  /api/v1/keepers           |       GET       | 200 OK: Retorna la lista de todos los keepers disponibles         |    [https://housekeeper-api.zeabur.app/api/v1/keepers](https://housekeeper-api.zeabur.app/api/v1/keepers)                      |
+|  /api/v1/keepers           |       POST      | 201 Created: Crea un nuevo keeper en la busqueda de keepers       |    [https://housekeeper-api.zeabur.app/api/v1/keepers](https://housekeeper-api.zeabur.app/api/v1/keepers)                      |
+|  /api/v1/viajes            |       GET       | 200 OK: Retorna la lista de viajes                                |    [https://housekeeper-api.zeabur.app/api/v1/viajes](https://housekeeper-api.zeabur.app/api/v1/viajes)                        |
+|  /api/v1/viajes            |       POST      | 201 Created: Crea un nuevo viaje de muestra en la pagina de Keeper|    [https://housekeeper-api.zeabur.app/api/v1/viajes](https://housekeeper-api.zeabur.app/api/v1/viajes)                        |
+|  /api/v1/keeperRequest     |       GET       | 200 OK: Retorna las solicitudes de keepers pendientes             |    [https://housekeeper-api.zeabur.app/api/v1/keeperRequest](https://housekeeper-api.zeabur.app/api/v1/keeperRequest)          |
+|  /api/v1/keeperRequest     |       POST      | 201 Created: Crea una nueva solicitud de keeper pendiente         |    [https://housekeeper-api.zeabur.app/api/v1/keeperRequest](https://housekeeper-api.zeabur.app/api/v1/keeperRequest)          |
+|  /api/v1/MensajesTraveller |       GET       | 200 OK: Retorna los mensajes de traveller                         |    [https://housekeeper-api.zeabur.app/api/v1/MensajesTraveller](https://housekeeper-api.zeabur.app/api/v1/MensajesTraveller)  |
+|  /api/v1/MensajesTraveller |       POST      | 201 Created: Crea un nuevo mensaje para travaller                 |    [https://housekeeper-api.zeabur.app/api/v1/MensajesTraveller](https://housekeeper-api.zeabur.app/api/v1/MensajesTraveller)  |
+|  /api/v1/houses            |       GET       | 200 OK: Retorna las casas disponibles para el keeper              |    [https://housekeeper-api.zeabur.app/api/v1/houses](https://housekeeper-api.zeabur.app/api/v1/houses)                        |
+|  /api/v1/houses            |       POST      | 200 Created: Retorna las casas disponibles para el keeper         |    [https://housekeeper-api.zeabur.app/api/v1/houses](https://housekeeper-api.zeabur.app/api/v1/houses)                        |
+|  /api/v1/Mensajes          |       GET       | 200 OK: Retorna los mensajes de keeper                            |    [https://housekeeper-api.zeabur.app/api/v1/Mensajes](https://housekeeper-api.zeabur.app/api/v1/Mensajes)                    |
+|  /api/v1/Mensajes          |       Post      | 200 Created: Crea un nuevo mensaje para keeper                    |    [https://housekeeper-api.zeabur.app/api/v1/Mensajes](https://housekeeper-api.zeabur.app/api/v1/Mensajes)                    |
+|  /api/v1/users/sign-up     |       POST      | 201 Created: Indica que el uusario se creó correctamente          |    [https://housekeeper-api.zeabur.app/api/v1/sign-up](https://housekeeper-api.zeabur.app/api/v1/sign-up)                    |
+|  /api/v1/users/sign-im     |       POST      | 201 Created: Indica que el uusario se logeo correctamente         |   [https://housekeeper-api.zeabur.app/api/v1/sign-in](https://housekeeper-api.zeabur.app/api/v1/sign-in)                     |
 
 Link del Repositorio de Web Services: [https://github.com/HousseKeeper-SW54-Grupo4/Back-End](https://github.com/HousseKeeper-SW54-Grupo4/Back-End)
 
 
-Link del swagger desplegado: [https://web-HousseKeeper-grupo4.azurewebsites.net](https://web-HousseKeeper-grupo4.azurewebsites.net)  
+Link del swagger desplegado: [https://housekeeper-api.zeabur.app/swagger-ui/index.html](https://housekeeper-api.zeabur.app/swagger-ui/index.html)  
 
 **Capturas de interaccion con datos de prueba**  
 - Logear usuario (POST)   
@@ -1590,7 +1590,7 @@ Los usuarios desean consultar los keepers disponibles. Esta operación se realiz
 
 En esta fase del proyecto, hemos logrado desplegar exitosamente la aplicación en línea. Puedes acceder a la versión en vivo de la aplicación a través del siguiente enlace: [https://housekeeper-opensource.netlify.app/](https://housekeeper-opensource.netlify.app/)
 
-Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un backend desplegado. Este backend se encuentra alojado en el siguiente enlace: 
+Para garantizar que la aplicación funcione de manera eficiente y cumpla con todas las funcionalidades previamente mencionadas, también hemos habilitado un backend desplegado. Este backend se encuentra alojado en el siguiente enlace:  [https://housekeeper-api.zeabur.app/swagger-ui/index.html](https://housekeeper-api.zeabur.app/swagger-ui/index.html)  
 
 Este enlace es esencial para la comunicación y funcionalidad adecuada de la aplicación, asegurando una integración sin problemas entre el frontend y el backend.
 
